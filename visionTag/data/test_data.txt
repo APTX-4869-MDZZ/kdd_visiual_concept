@@ -1,0 +1,600 @@
+guinness.n.02	a kind of bitter stout	1
+surfeit.n.01	the state of being more than full	0
+magneto.n.01	a small dynamo with a secondary winding that produces a high voltage enabling a spark to jump between the poles of a spark plug in a gasoline engine	1
+butterfly.n.01	diurnal insect typically having a slender body with knobbed antennae and broad colorful wings	1
+tape_grass.n.01	submerged aquatic plant with ribbonlike leaves; Old World and Australia	1
+complement.n.05	one of a series of enzymes in the blood serum that are part of the immune response	1
+bonding.n.03	fastening firmly together	0
+kitchenware.n.01	hardware utensils for use in a kitchen	0
+shell.n.06	a rigid covering that envelops an object	0
+anionic_compound.n.01	a compound characterized by an active anion	0
+sculpture.n.02	creating figures or designs in three dimensions	0
+primitive.n.01	a person who belongs to an early stage of civilization	1
+structural_steel.n.01	a strong steel that is rolled into shapes that are used in construction	1
+human_body.n.01	alternative names for the body of a human being	1
+radiotelegraph.n.02	the use of radio to send telegraphic messages (usually by Morse code)	0
+session_cookie.n.01	a cookie that is stored temporarily and is destroyed when you close the link	0
+tinea_capitis.n.01	fungal infection of the scalp characterized by bald patches	1
+upper_limit.n.02	the limit on the upper (or northernmost) side of something	0
+sensualist.n.01	a person who enjoys sensuality	0
+grass_vetch.n.01	annual European vetch with red flowers	1
+horseweed.n.02	common North American weed with linear leaves and small discoid heads of yellowish flowers; widely naturalized throughout temperate regions; sometimes placed in genus Erigeron	1
+tape.n.03	the finishing line for a foot race	1
+fruit_drink.n.01	a sweetened beverage of diluted fruit juice	0
+necrophagia.n.01	feeding on corpses or carrion	0
+matchweed.n.01	any of several plants of the genus Gutierrezia having tiny flower heads that resemble the heads of matches	1
+phrenic_nerve.n.01	one of a pair of nerves that arises from cervical spinal roots and passes down the thorax to innervate the diaphragm and control breathing	1
+stamp.n.07	machine consisting of a heavy bar that moves vertically for pounding or crushing ores	1
+shop_bell.n.01	a bell attached to the door of a small shop; warns the proprietor that a customer has entered the shop	1
+erie.n.01	a member of an Iroquoian people formerly living on the south shore of Lake Erie in northern Ohio and northwest Pennsylvania and western New York	0
+craft.n.02	a vehicle designed for navigation in or on water or air or through outer space	1
+teetotaler.n.01	a total abstainer	0
+cystitis.n.01	inflammation of the urinary bladder and ureters	0
+aftereffect.n.02	a delayed effect of a drug or therapy	0
+golden_saxifrage.n.01	any of various low aquatic herbs of the genus Chrysosplenium	1
+wild_basil.n.01	aromatic herb having heads of small pink or whitish flowers; widely distributed in United States, Europe and Asia	1
+tufted_centaury.n.01	tufted perennial of western Europe and Azores having bright pink to white flowers	1
+fossilization.n.02	becoming inflexible or out of date	0
+prankster.n.01	someone who plays practical jokes on others	0
+philippine_mahogany.n.01	red hardwood of the Philippine mahogany tree used for cigar boxes and interior finish	1
+aeronautical_engineering.n.01	the branch of engineering science concerned with the design and construction of aircraft	0
+rydberg.n.01	a wave number characteristic of the wave spectrum of each element	0
+ptilonorhynchidae.n.01	bowerbirds	0
+erodium.n.01	geraniums of Europe and South America and Australia especially mountainous regions	1
+knee_jerk.n.01	a reflex extension of the leg resulting from a sharp tap on the patellar tendon	1
+adjudicator.n.01	a person who studies and settles conflicts and disputes	0
+loot.n.01	goods or money obtained illegally	0
+quetzal.n.01	the basic unit of money in Guatemala; equal to 100 centavos	0
+classicist.n.02	a student of ancient Greek and Latin	0
+activism.n.01	a policy of taking direct and militant action to achieve a political or social goal	0
+discovery.n.03	a productive insight	0
+elastic_tissue.n.01	connective tissue consisting chiefly of elastic fibers found in the dermis of the skin and in the walls of veins and arteries and in some tendons and ligaments	1
+bier.n.01	a coffin along with its stand	1
+kupffer's_cell.n.01	specialized cells in the liver that destroy bacteria, foreign proteins, and worn-out blood cells	1
+time_being.n.01	the present occasion	0
+write-off.n.02	the act of cancelling from an account a bad debt or a worthless asset	0
+restoration.n.02	the act of restoring something or someone to a satisfactory state	0
+milk_punch.n.01	a punch made of spirits and milk and sugar and spices	1
+barn_swallow.n.01	common swallow of North America and Europe that nests in barns etc.	1
+chorus_girl.n.01	a woman who dances in a chorus line	1
+plasmin.n.01	an enzyme that dissolves the fibrin of blood clots	1
+actinometry.n.01	measuring the intensity of electromagnetic radiation (especially of the sun's rays)	0
+pen.n.05	female swan	1
+corruption.n.06	inducement (as of a public official) by improper means (as bribery) to violate duty (as by commiting a felony)	0
+di-iodotyrosine.n.01	tyrosine with two iodine atoms added	1
+gyrocompass.n.01	a compass that does not depend on magnetism but uses a gyroscope instead	1
+lamp.n.01	an artificial source of visible illumination	1
+coffee_blight.n.01	a blight affecting the coffee plant	1
+gofer.n.01	an employee whose duties include running errands	0
+sheep_frog.n.01	mostly of Central America	1
+vermicide.n.01	an agent that kills worms (especially those in the intestines)	1
+cricetus.n.01	type genus of the Cricetidae: Old World hamsters	1
+intelligence.n.02	a unit responsible for gathering and interpreting information about an enemy	0
+candy_striper.n.01	a volunteer worker in a hospital	1
+pompon.n.01	decoration consisting of a ball of tufted wool or silk; usually worn on a hat	1
+manila_tamarind.n.01	common thorny tropical American tree having terminal racemes of yellow flowers followed by sickle-shaped or circinate edible pods and yielding good timber and a yellow dye and mucilaginous gum	1
+quebecois.n.01	a native or inhabitant of Quebec (especially one who speaks French)	0
+field_sparrow.n.01	common North American finch of brushy pasturelands	1
+bleach_liquor.n.01	a solution containing bleaching agents that is used to bleach textiles or paper pulp	1
+lido.n.01	a recreational facility including a swimming pool for water sports	1
+suburb.n.01	a residential district located on the outskirts of a city	1
+quintessence.n.03	the most typical example or representative of a type	0
+stylus.n.01	a sharp pointed device attached to the cartridge of a record player	1
+cancellation.n.02	the speech act of revoking or annulling or making void	0
+platelayer.n.01	a workman who lays and repairs railroad tracks	1
+fantail.n.01	an overhang consisting of the fan-shaped part of the deck extending aft of the sternpost of a ship	1
+wise_guy.n.01	an upstart who makes conceited, sardonic, insolent comments	0
+demagogue.n.01	a political leader who seeks support by appealing to popular passions and prejudi	0
+astilbe.n.01	any plant of the genus Astilbe having compound leaves and showy panicles of tiny colorful flowers	1
+harlequin_opal.n.01	a reddish opal with small patches of brilliant color	1
+golden_eagle.n.01	large eagle of mountainous regions of the northern hemisphere having a golden-brown head and neck	1
+striate_cortex.n.01	the part of the occipital cortex that receives the fibers of the optic radiation from the lateral geniculate body and is the primary receptive area for vision	0
+suit.n.05	a petition or appeal made to a person of superior status or rank	0
+self-discovery.n.01	discovering your own individualit	0
+kazak.n.01	a Muslim who is a member of a Turkic people of western Asia (especially in Kazakstan)	1
+index_case.n.01	the earliest documented case of a disease that is included in an epidemiological study	0
+montezuma.n.01	evergreen tree with large leathery leaves and large pink to orange flowers; considered a link plant between families Bombacaceae and Sterculiaceae	1
+biographer.n.01	someone who writes an account of a person's life	0
+rhea.n.02	smaller of two tall fast-running flightless birds similar to ostriches but three-toed; found from Peru to Strait of Magellan	1
+work_unit.n.01	a unit of measurement for work	0
+medium.n.05	a liquid with which pigment is mixed by a painter	1
+cuban_bast.n.01	erect forest tree of Cuba and Jamaica having variably hairy leaves and orange-yellow or orange-red flowers; yields a moderately dense timber for cabinetwork and gunstocks	1
+slacker.n.01	a person who shirks his work or duty (especially one who tries to evade military service in wartime)	0
+infix.n.01	an affix that is inserted inside the word	0
+town.n.01	an urban area with a fixed boundary that is smaller than a city	0
+crouton.n.01	a small piece of toasted or fried bread; served in soup or salads	1
+graverobber.n.02	someone who takes bodies from graves and sells them for anatomical dissection	0
+cafeteria_tray.n.01	a tray for carrying your food in a cafeteria	1
+genus_phenacomys.n.01	North American voles	1
+basketball_season.n.01	the season when basketball is played	0
+dramatics.n.01	participation in theatrical productions as an extracurricular activity	0
+window.n.04	an opening that resembles a window in appearance or function	1
+cribbage_board.n.01	a board with pegs and regularly spaced holes for holding the pegs; used for keeping the score in a game of cribbage	1
+erwinia.n.01	rod-shaped motile bacteria that attack plants	1
+scion.n.01	a descendent or heir	0
+overcredulity.n.01	too much credulity	0
+milk_of_magnesia.n.01	purgative consisting of a milky white liquid suspension of magnesium hydroxide; used as a laxative and (in smaller doses) as an antacid	1
+press.n.03	a machine used for printing	1
+seventy.n.01	the cardinal number that is the product of ten and seven	0
+date_palm.n.01	tall tropical feather palm tree native to Syria bearing sweet edible fruit	1
+kinetoscope.n.01	a device invented by Edison that gave an impression of movement as an endless loop of film moved continuously over a light source with a rapid shutter; precursor of the modern motion picture	1
+plaintiff.n.01	a person who brings an action in a court of law	0
+nootka.n.01	a member of the Wakashan people living on Vancouver Island and in the Cape Flattery region of northwestern Washington	0
+tuille.n.01	armor plate that protects the hip and thigh	1
+abstraction.n.06	a general concept formed by extracting common features from specific examples	0
+roadbook.n.01	a guidebook describing the roads of a country; contains maps and (sometimes) a gazetteer	1
+ctene.n.01	a locomotor organ consisting of a row of strong cilia whose bases are fused	1
+little_finger.n.01	the finger farthest from the thumb	1
+color.n.08	the appearance of objects (or light sources) described in terms of a person's perception of their hue and lightness (or brightness) and saturation	0
+gamboge.n.01	a gum resin used as a yellow pigment and a purgativ	1
+corner.n.07	a temporary monopoly on a kind of commercial trade	0
+seat.n.03	furniture that is designed for sitting on	1
+aerolite.n.01	a stony meteorite consisting of silicate minerals	1
+living_granite.n.01	highly succulent stemless clump-forming plants with grey-green leaves similar in texture to lumps of granite; South Africa	1
+kirsch.n.01	from fermented juice of black morello cherries	1
+idle_pulley.n.01	a pulley on a shaft that presses against a guide belt to guide or tighten it	1
+goat_willow.n.01	much-branched Old World willow having large catkins and relatively large broad leaves	1
+robotics_equipment.n.01	equipment used in robotics	1
+entree.n.02	the right to enter	0
+obidoxime_chloride.n.01	a chloride used as an antidote for nerve gases such as sarin or VX	1
+coronion.n.01	the craniometric point at the tip of the coronoid process of the mandible	1
+alexander.n.01	European herb somewhat resembling celery widely naturalized in Britain coastal regions and often cultivated as a potherb	1
+irish_coffee.n.01	sweetened coffee with Irish whiskey and whipped cream	1
+bolo.n.02	long heavy knife with a single edge; of Philippine origin	1
+dole.n.01	a share of money or food or clothing that has been charitably given	0
+fluffy_omelet.n.01	souffle-like omelet made by beating and adding the whites separately	1
+jet.n.01	an airplane powered by one or more jet engines	1
+driver.n.02	someone who drives animals that pull a vehicle	1
+lithia_water.n.01	mineral water containing lithium salts	1
+bullnose.n.01	a small carpenter's plane with the cutting edge near the front	1
+ski_tow.n.01	a powered conveyance that carries skiers up a hill	1
+lime.n.06	the green acidic fruit of any of various lime trees	1
+bench_warmer.n.01	(sports) a substitute who seldom plays	1
+marker.n.03	a writing implement for making a mark	1
+fissure_of_sylvius.n.01	the deepest and most prominent of the cortical fissures; separates the frontal lobes and temporal lobes in both hemispheres	1
+romper.n.02	a one-piece garment for children to wear at play; the lower part is shaped like bloomers	1
+footage.n.02	a rate of charging by the linear foot of work done	0
+bluster.n.03	a violent gusty wind	0
+portuguese_monetary_unit.n.01	monetary unit in Portugal	0
+united_states_army.n.01	the army of the United States of America; the agency that organizes and trains soldiers for land warfare	1
+decal.n.01	either a design that is fixed to some surface or a paper bearing the design which is to be transferred to the surface	1
+attribute.n.02	an abstraction belonging to or characteristic of an entity	0
+old_church_slavonic.n.01	the Slavic language into which the Bible was translated in the 9th century	0
+cafe_au_lait.n.01	equal parts of coffee and hot milk	1
+pseudococcus.n.01	type genus of the Pseudococcidae	1
+hopefulness.n.02	the feeling you have when you have hope	0
+volume.n.06	the magnitude of sound (usually in a specified direction)	0
+acreage.n.01	an area of ground used for some particular purpose (such as building or farming)	1
+tempera.n.01	pigment mixed with water-soluble glutinous materials such as size and egg yolk	1
+epistemic_logic.n.01	the modal logic of knowledge and uncertainty and ignorance	0
+dustcloth.n.01	a piece of cloth used for dusting	1
+browse.n.01	vegetation (such as young shoots, twigs, and leaves) that is suitable for animals to eat	1
+religion.n.01	a strong belief in a supernatural power or powers that control human destiny	0
+plastination.n.01	a process involving fixation and dehydration and forced impregnation and hardening of biological tissues; water and lipids are replaced by curable polymers (silicone or epoxy or polyester) that are subsequently hardened	1
+zenaidura.n.01	mourning doves	1
+fentanyl.n.01	trade names of a narcotic analgesic that can be inhaled and that acts on the central nervous system and may become addictive; used as a veterinary anesthetic and with other drugs before, during, and after surgery; also used as a nonlethal gas to incapacitate people in hostage situations; also abused as a recreational drug	1
+nagami.n.01	shrub bearing oval-fruited kumquats	1
+quarrel.n.02	an arrow that is shot from a crossbow; has a head with four edges	1
+macrocephalon.n.01	maleos	1
+juke.n.01	a small roadside establishment in the southeastern United States where you can eat and drink and dance to music provided by a jukebox	1
+merluccius.n.01	hakes	1
+growth.n.07	something grown or growing	0
+aquatint.n.02	a method of etching that imitates the broad washes of a water color	0
+cardiospermum.n.01	tendril-climbing herbs or shrubs whose seeds have a white heart-shaped spot	1
+noun_phrase.n.01	a phrase that can function as the subject or object of a verb	0
+benthos.n.01	a region including the bottom of the sea and the littoral zones	1
+hockey_league.n.01	a league of hockey teams	1
+taste.n.04	a brief experience of something	0
+side.n.04	a surface forming part of the outside of an object	0
+statistical_method.n.01	a method of analyzing or representing statistical data; a procedure for calculating a statistic	0
+plethodontidae.n.01	small mostly terrestrial New World salamanders having neither lungs nor gills as adults	1
+central_processing_unit.n.01	(computer science) the part of a computer (a microprocessor chip) that does most of the data processing	0
+wild_madder.n.01	Eurasian herb with ample panicles of small white flowers; naturalized in North America	1
+finish_coat.n.01	the final coat of paint	1
+cultivated_rice.n.01	yields the staple food of 50 percent of world's population	1
+disfranchisement.n.01	the discontinuation of a franchise; especially the discontinuation of the right to vote	0
+cornhusk.n.01	the husk of an ear of corn	1
+prisoner_of_war.n.01	a person who surrenders to (or is taken by) the enemy in time of war	0
+european_parsley_fern.n.01	fern of Europe and Asia Minor having short slender rhizome and densely tufted bright green fronds resembling parsley	1
+hockey_player.n.01	an athlete who plays hockey	1
+stonefly.n.01	primitive winged insect with a flattened body; used as bait by fishermen; aquatic gilled larvae are carnivorous and live beneath stones	1
+frontier.n.01	a wilderness at the edge of a settled area of a country	0
+soapberry_vine.n.01	tendril-climbing vine	1
+kwashiorkor.n.01	severe malnutrition in children resulting from a diet excessively high in carbohydrates and low in protein	0
+velocipede.n.01	any of several early bicycles with pedals on the front wheel	1
+secotiaceae.n.01	a family of fungi that have a stalk and cap and a wrinkled mass of tissue (the gleba) where spores are produced; are often dismissed as misshapen forms of other fungi	1
+tipster.n.01	one who sells advice about gambling or speculation (especially at the racetrack)	0
+segue.n.01	the act of changing smoothly from one state or situation to another	0
+geode.n.01	(mineralogy) a hollow rock or nodule with the cavity usually lined with crystals	1
+genus_echinocactus.n.01	globular or cylindrical cacti; southwestern United States to Brazil	1
+jujube.n.02	dark red plumlike fruit of Old World buckthorn trees	1
+negative.n.02	a piece of photographic film showing an image with light and shade or colors reversed	1
+lashing.n.02	rope that is used for fastening something to something else	1
+trypsin.n.01	an enzyme of pancreatic origin; catalyzes the hydrolysis of proteins to smaller polypeptide units	1
+covering.n.02	an artifact that covers something else (usually to protect or shelter or conceal it)	0
+thymine.n.01	a base found in DNA (but not in RNA) and derived from pyrimidine; pairs with adenine	1
+puttyroot.n.01	North American orchid bearing a single leaf and yellowish-brown flowers	1
+crackpot.n.01	a whimsically eccentric person	0
+rectification.n.04	determination of the length of a curve; finding a straight line equal in length to a given curve	0
+boyfriend.n.01	a man who is the lover of a girl or young woman	0
+origanum.n.01	any of various fragrant aromatic herbs of the genus Origanum used as seasonings	1
+wormian_bone.n.01	any of the tiny soft bones found in the sutures between cranial bones	1
+ski_wax.n.01	wax used on the bottom of skis	1
+mail_order.n.01	a purchase negotiated by mail	0
+black_cottonwood.n.02	cottonwood of western North America with dark green leaves shining above and rusty or silvery beneath	1
+sago.n.01	powdery starch from certain sago palms; used in Asia as a food thickener and textile stiffener	1
+shot_hole.n.01	drill hole for a charge of an explosive	1
+lucite.n.01	a transparent thermoplastic acrylic resin	1
+summer_stock.n.01	theatrical productions performed by a stock company during the summer	1
+pipe_bomb.n.01	a small homemade bomb usually contained in a metal pipe	1
+endemic.n.01	a disease that is constantly present to a greater or lesser degree in people of a certain class or in people living in a particular location	0
+tinting.n.01	the act of adding a tinge of color	0
+misspelling.n.01	a spelling that is incorrect	0
+suspension.n.07	a temporary debarment (from a privilege or position etc)	0
+radial_nerve.n.01	largest branch of the brachial plexus; extends down the humerus to the lateral epicondyle where it divides into one branch that goes to the skin on the back of the hand and another that goes to the underlying extensor muscles	1
+venetian.n.01	a resident of Venice	0
+trinitarian.n.01	adherent of Trinitarianism	0
+telescopic_sight.n.01	gunsight consisting of a telescope on a firearm for use as a sight	1
+simuliidae.n.01	blackflies and sand flies	1
+weeping_love_grass.n.01	perennial South African grass having densely clumped flimsy stems; introduced into United States especially for erosion control	1
+production_cost.n.01	combined costs of raw material and labor incurred in producing goods	0
+sanctum.n.01	a place of inviolable privacy	0
+flatbread.n.01	any of various breads made from usually unleavened dough	1
+red_maids.n.01	succulent carpet-forming plant having small brilliant reddish-pink flowers; southwestern United States	1
+romper.n.01	a person who romps or frolics	0
+grapnel.n.01	a tool consisting of several hooks for grasping and holding; often thrown with a rope	1
+dermatome.n.01	a surgical instrument used to cut very thin slices of skin	1
+anise.n.02	liquorice-flavored seeds, used medicinally and in cooking and liquors	1
+estrogen_antagonist.n.01	an antagonist for estrogen that is used in the treatment of breast cancer	1
+iyar.n.01	the eighth month of the civil year; the second month of the ecclesiastical year (in April and May)	0
+tincture.n.01	a substances that colors metals	1
+glitter.n.02	the occurrence of a small flash or spark	1
+positivity.n.02	a quality or state characterized by certainty or acceptance or affirmation and dogmatic assertiveness	0
+homeboy.n.02	a male friend from your neighborhood or hometown	0
+grimes'_golden.n.01	yellow apple that ripens in late autumn; eaten raw	1
+reading_teacher.n.01	someone who teaches students to read	0
+metalhead.n.01	a fan of heavy metal music	0
+flying_visit.n.01	a visit that last for only a very short time	0
+call.n.04	a demand especially in the phrase "the call of duty"	0
+sisterhood.n.03	a religious society of women who live together as sisters (especially an order of nuns)	0
+numenius.n.01	curlews	1
+limitation.n.02	the quality of being limited or restricted	0
+rib.n.02	any of the 12 pairs of curved arches of bone extending from the spine to or toward the sternum in humans (and similar bones in most vertebrates)	1
+island.n.01	a land mass (smaller than a continent) that is surrounded by water	1
+ungulata.n.01	in former classifications a major division of Mammalia comprising all hoofed mammals; now divided into the orders Perissodactyla (odd-toed ungulates) and Artiodactyla (even-toed ungulates)	1
+drove.n.02	a moving crowd	1
+redcap.n.01	a member of the military police in Britain	1
+food_manufacturer.n.01	a person who manufactures food products	0
+tetrahymena.n.01	relative of the paramecium; often used in genetics research	1
+presbyterian.n.01	a follower of Calvinism as taught in the Presbyterian Church	1
+surfboat.n.01	a boat that can be launched or landed in heavy surf	1
+penicillin_o.n.01	a penicillin that is similar in antibiotic action to penicillin G but is obtained differently	1
+spider.n.01	predatory arachnid with eight legs, two poison fangs, two feelers, and usually two silk-spinning organs at the back end of the body; they spin silk to make cocoons for eggs or traps for prey	1
+aspirate.n.01	a consonant pronounced with aspiration	0
+holography.n.01	the branch of optics that deals with the use of coherent light from a laser in order to make a hologram that can then be used to create a three-dimensional image	1
+anthologist.n.01	an editor who makes selections for an anthology	0
+southerner.n.01	an American who lives in the South	0
+butyl.n.01	a hydrocarbon radical (C4H9)	1
+gymnopilus_spectabilis.n.01	a fungus with a brownish orange fruiting body and a ring near the top of the stalk; the taste is bitter and the flesh contains psilocybin and psilocin	1
+gas_oil.n.01	an oil formed through distillation of petroleum of intermediate boiling range and viscosity	0
+eclectic.n.01	someone who selects according to the eclectic method	0
+jute.n.01	a plant fiber used in making rope or sacks	1
+morality.n.01	concern with the distinction between good and evil or right and wrong; right or good conduct	0
+disposal.n.01	the power to use something or someone	0
+cab.n.01	a compartment at the front of a motor vehicle or locomotive where driver sits	1
+swab.n.01	implement consisting of a small piece of cotton that is used to apply medication or cleanse a wound or obtain a specimen of a secretion	1
+teiid_lizard.n.01	tropical New World lizard with a long tail and large rectangular scales on the belly and a long tail	1
+abkhaz.n.01	a member of the Circassian people who live to the east of the Black Sea	0
+magnesium.n.01	a light silver-white ductile bivalent metallic element; in pure form it burns with brilliant white flame; occurs naturally only in combination (as in magnesite and dolomite and carnallite and spinel and olivine)	1
+stolen_property.n.01	property that has been stolen	0
+courser.n.01	a huntsman who hunts small animals with fast dogs that use sight rather than scent to follow their prey	1
+competition.n.03	the act of competing as for profit or a prize	0
+nitrogen_dioxide.n.01	a highly poisonous brown gas (NO2)	1
+determinateness.n.01	the quality of being predictable with great confidence	0
+coon.n.01	an eccentric or undignified rustic	0
+algonkian.n.01	a member of a North American Indian people in the Ottawa river valley of Ontario and Quebec	0
+ulster.n.02	loose long overcoat of heavy fabric; usually belted	1
+sannup.n.01	a married male American Indian	0
+homestretch.n.01	the end of an enterprise	0
+crookes_radiometer.n.01	electromagnetic radiometer consisting of a small paddlewheel that rotates when placed in daylight	1
+eremite.n.01	a Christian recluse	0
+crochet_stitch.n.01	any one of a number of stitches made by pulling a loop of yarn through another loop with a crochet needle	1
+disinfectant.n.01	an agent (as heat or radiation or a chemical) that destroys microorganisms that might carry disease	1
+mutton_tallow.n.01	tallow from the body of a mature sheep	1
+volt-ampere.n.01	a unit of electrical power in an AC circuit equal to the power dissipated when 1 volt produces a current of 1 ampere	0
+cryocautery.n.02	application of a substance that destroys tissue by freezing it	0
+vote.n.05	the total number of voters who participated	0
+schoolchild.n.01	a young person attending school (up through senior high school)	0
+indefiniteness.n.01	the quality of being vague and poorly defined	0
+sesbania.n.01	any of various plants of the genus Sesbania having pinnate leaves and large showy pea-like flowers	1
+written_communication.n.01	communication by means of written symbols (either printed or handwritten)	0
+polish.n.04	the Slavic language of Poland	0
+goddaughter.n.01	a female godchild	0
+introduction.n.05	a new proposal	0
+convexity.n.01	the property possessed by a convex shape	1
+american_red_squirrel.n.01	of northern United States and Canada	1
+sphecotheres.n.01	a genus of Old World orioles	1
+louse.n.01	wingless usually flattened bloodsucking insect parasitic on warm-blooded animals	1
+honey_locust.n.01	tall usually spiny North American tree having small greenish-white flowers in drooping racemes followed by long twisting seed pods; yields very hard durable reddish-brown wood; introduced to temperate Old World	1
+geometric_progression.n.01	(mathematics) a progression in which each term is multiplied by a constant in order to obtain the next term	0
+rocker.n.05	a trough that can be rocked back and forth; used by gold miners to shake auriferous earth in water in order to separate the gold	1
+prairie_smoke.n.01	North American perennial with hairy basal pinnate leaves and purple flowers and plume-tipped fruits	1
+procaine.n.01	a white crystalline powder (trade name Ethocaine) administered near nerves as a local anesthetic in dentistry and medicine	1
+rod.n.01	a long thin implement made of metal or wood	1
+naturopath.n.01	a therapist who practices naturopathy	0
+placement.n.02	contact established between applicants and prospective employees	0
+greasiness.n.01	consisting of or covered with oil	0
+asexuality.n.01	having no evident sex or sex organs	0
+androgyny.n.01	showing characteristics of both sexes	0
+brittleness.n.01	firm but easily broken	0
+giriama.n.01	a Bantu language spoken in the coastal regions of eastern Kenya	0
+extra_large.n.01	a garment size for a very large person	0
+large.n.01	a garment size for a large person	0
+tall.n.01	a garment size for a tall person	0
+key.n.03	pitch of the voice	0
+harmonic.n.02	any of a series of musical tones whose frequencies are integral multiples of the frequency of a fundamental	0
+good_part.n.01	a place of especial strength	0
+sandiness.n.01	a texture resembling that of sand	0
+smoothness.n.01	a texture without roughness; smooth to the touch	0
+fineness.n.03	having a very fine texture	0
+glaze.n.02	a glossy finish on a fabric	0
+hollow.n.01	a cavity or space in something	0
+cavity.n.02	space that is surrounded by something	0
+blob.n.01	an indistinct shapeless form	0
+cardiac_rhythm.n.01	the rhythm of a beating heart	0
+paganism.n.01	any of various religions other than Christianity or Judaism or Islamism	0
+jaggedness.n.01	something irregular like a bump or crack in a smooth surface	0
+immovability.n.01	not capable of being moved or rearranged	0
+smoke.n.04	something with no concrete substance	1
+compartment.n.01	a space into which an area is subdivided	0
+cell.n.01	any small compartment	0
+enclosure.n.03	a naturally enclosed space	0
+matrix.n.03	an enclosure within which something originates or develops (from the Latin for womb)	0
+sheet.n.01	any broad thin expanse or surface	0
+breach.n.02	an opening (especially a gap in a dike or fortification)	0
+abyss.n.01	a bottomless gulf or pit; any unfathomable (or apparently unfathomable) cavity or chasm or void extending below (often used figuratively)	0
+bolt-hole.n.01	a hole through which an animal may bolt when pursued into its burrow or den	0
+void.n.02	an empty area or space	0
+tortuosity.n.01	a tortuous and twisted shape or position	0
+ridge.n.02	any long raised strip	0
+salient.n.01	(military) the part of the line of battle that projects closest to the enemy	0
+jag.n.01	a sharp projection on an edge or surface	0
+bulge.n.01	something that bulges out or is protuberant or projects from its surroundings	0
+scoop.n.02	a hollow concave shape made by removing something	0
+coil.n.02	a round shape formed by a series of concentric circles (as formed by leaves or flower petals)	1
+gooseneck.n.01	something in a thin curved form (like the neck of a goose)	1
+solid_figure.n.01	a three-dimensional shape	0
+catalog.n.02	a complete list of things; usually arranged systematically	0
+inheritance.n.04	any attribute or immaterial possession that is inherited from ancestors	0
+birthright.n.01	a right or privilege that you are entitled to at birth	0
+education.n.05	the result of good upbringing (especially knowledge of correct social behavior)	0
+personality.n.01	the complex of all the attributes--behavioral, temperamental, emotional and mental--that characterize a unique individual	0
+actinism.n.01	the property of radiation that enables it to produce photochemical effects	0
+age.n.01	how long something has existed	0
+bone_age.n.01	a person's age measured by matching their bone development (as shown by X rays) with bone development of an average person of known chronological age	0
+developmental_age.n.01	a measure of a child's development (in body size or motor skill or psychological function) expressed in terms of age norms	0
+deadness.n.03	the inanimate property of something that has died	0
+pose.n.02	a posture assumed by models for photographic or artistic purposes	0
+connectivity.n.01	the property of being connected or the degree to which something has connections	0
+phenotype.n.01	what an organism looks like as a consequence of the interaction of its genotype and the environment	0
+structure.n.02	the manner of construction of something and the arrangement of its parts	0
+inertial_mass.n.01	(physics) the mass of a body as determined by the second law of motion from the acceleration of the body when it is subjected to a force that is not due to gravity	0
+bulk.n.03	the property possessed by a large mass	0
+equivalent.n.02	the atomic weight of an element that has the same combining capacity as a given weight of another element; the standard is 8 for oxygen	0
+elasticity_of_shear.n.01	the elasticity of a body that has been pulled out of shape by a shearing force	0
+optics.n.02	optical properties	0
+common_touch.n.01	the property of appealing to people in general (usually by appearing to have qualities in common with them)	0
+setup.n.02	the way something is organized or arranged	0
+vanity_fair.n.01	a vain and frivolous lifestyle especially in large cities	0
+life_style.n.01	a manner of living that reflects the person's values and attitudes	0
+form.n.11	a particular mode in which something is manifested	0
+fit.n.03	the manner in which something fits	0
+treatment.n.03	a manner of dealing with something artistically	0
+signal_level.n.01	the amplitude level of the desired signal	0
+dollar_volume.n.01	the volume measured in dollars	0
+degree.n.07	the seriousness of something (e.g., a burn or crime)	0
+dimension.n.01	the magnitude of something in a particular direction (especially length or width or height)	0
+first_water.n.01	the highest quality gems	0
+momentum.n.01	an impelling force or strength	0
+energy.n.02	forceful exertion	0
+athleticism.n.01	intense energy	0
+brunt.n.01	main force of a blow etc	0
+overplus.n.01	extreme excess	0
+immoderation.n.01	the quality of being excessive and lacking in moderation	0
+texture.n.05	the physical composition of something (especially with respect to the size and shape of the small constituents of a substance)	0
+infrastructure.n.01	the basic structure or features of a system or organization	0
+x-linked_dominant_inheritance.n.01	hereditary pattern in which a dominant gene on the X chromosome causes a characteristic to be manifested in the offspring	0
+hydrophobicity.n.01	the property of being water-repellent; tending to repel and not absorb water	0
+raise.n.01	the amount a salary is increased	0
+supplement.n.02	a quantity added (e.g. to make up for a deficiency)	0
+up-tick.n.01	a small increase	0
+deficit.n.01	the property of being an amount by which something is less than expected or required	0
+oxygen_deficit.n.01	temporary oxygen shortage in cells resulting from strenuous exercise	0
+meagerness.n.01	the quality of being meager	0
+abstemiousness.n.01	restricted to bare necessities	0
+rarity.n.01	noteworthy scarcity	0
+fewness.n.01	the quality of being small in number	0
+ballet_position.n.01	classical position of the body and especially the feet in ballet	1
+order_arms.n.01	a position in the manual of arms; the rifle is held vertically on the right side with the butt on the ground; often used as a command	1
+cross_section.n.01	a section created by a plane cutting a solid perpendicular to its longest axis	1
+soil_profile.n.01	a vertical section of soil from the ground surface to the parent rock	1
+broad_gauge.n.01	a railroad track (or its width) broader than the standard 56.5 inches	1
+standard_gauge.n.01	railroad track having the standard width of 56.5 inches	1
+octavo.n.01	the size of a book whose pages are made by folding a sheet of paper three times to form eight leaves	1
+achromatic_color.n.01	a color lacking hue; white or grey or black	1
+coal_black.n.01	a very dark black	1
+bone.n.03	a shade of white the color of bleached bones	1
+marbleization.n.01	a texture like that of marble	1
+graining.n.01	a texture like that of wood	1
+aura.n.02	an indication of radiant light drawn around the head of a saint	1
+primary_color_for_pigments.n.01	any of three pigments from which all colors can be obtained by mixing	1
+primary_subtractive_color_for_light.n.01	any of the three colors that give the primary colors for light after subtraction from white light	1
+vertical_angle.n.01	either of two equal and opposite angles formed by the intersection of two straight lines	1
+hip.n.04	(architecture) the exterior angle formed by the junction of a sloping side and a sloping end of a roof	1
+dogleg.n.01	angle that resembles the hind leg of a dog	1
+post-office_box.n.01	a numbered compartment in a post office where mail is put to be called for	1
+crenel.n.02	a notch or open space between two merlons in a crenelated battlement	1
+chasm.n.01	a deep opening in the earth's surface	1
+crack.n.01	a long narrow opening	1
+micropyle.n.01	minute opening in the wall of an ovule through which the pollen tube enters	1
+pupil.n.02	the contractile aperture in the center of the iris of the eye; resembles a large black dot	1
+stoma.n.01	a minute epidermal pore in a leaf or stem through which gases and water vapor can pass	1
+knothole.n.01	a hole in a board where a knot came out	1
+pocket.n.09	an opening at the corner or on the side of a billiard table into which billiard balls are struck	1
+pocket.n.04	(bowling) the space between the headpin and the pins behind it on the right or left	1
+pleat.n.01	any of various types of fold formed by doubling fabric back upon itself and then pressing or stitching into shape	1
+tuck.n.03	a narrow flattened pleat or fold that is stitched in place	1
+zigzag.n.01	an angular shape characterized by sharp turns in alternating directions	1
+hoodoo.n.01	(geology) a column of weathered and unusually shaped rock	1
+wart.n.01	any small rounded protuberance (as on certain plants or animals)	1
+track.n.08	a groove on a phonograph recording	1
+time-ball.n.01	a ball that slides down a staff to show a fixed time; especially at an observatory	1
+mothball.n.01	a small sphere of camphor or naphthalene used to keep moths away from stored clothing	1
+soap_bubble.n.01	a bubble formed by a thin soap film	1
+shaving_cream.n.01	toiletry consisting of a preparation of soap and fatty acids that forms a rich lather for softening the beard before shaving	1
+head.n.18	the foam or froth that accumulates at the top when you pour an effervescent liquid into a container	1
+crystal_ball.n.01	a glass or crystal globe used in crystal gazing by fortunetellers	1
+disk.n.01	something with a round shape resembling a flat circular plate	1
+stalagmite.n.01	a cylinder of calcium carbonate projecting upward from the floor of a limestone cave	1
+pipe.n.03	a hollow cylindrical shape	1
+funnel.n.01	a conical shape with a wider and a narrower opening at the two ends	1
+thistledown.n.01	pappus of a thistle consisting of silky featherlike hairs attached to the seed-like fruit of a thistle	1
+pappus.n.01	calyx composed of scales or bristles or featherlike hairs in plants of the Compositae such as thistles and dandelions	1
+plume.n.01	anything that resembles a feather in shape or lightness	1
+double_helix.n.01	a pair of parallel helices intertwined about a common axis	1
+extrados.n.01	the exterior curve of an arch	1
+cupid's_bow.n.01	the double curve of the upper lip when considered to resemble Cupid's bow	1
+band.n.10	a driving belt in machinery	1
+bell.n.05	the shape of a bell	1
+bust.n.03	a sculpture of the head and shoulders of a person	1
+bronze.n.02	a sculpture made of bronze	1
+sculpture.n.01	a three-dimensional work of plastic art	1
+cladogram.n.01	a tree diagram used to illustrate phylogenetic relationships	1
+tree.n.02	a figure that branches from a single root	1
+pentacle.n.01	a star with 5 points; formed by 5 straight lines between the vertices of a pentagon and enclosing another pentagon	1
+wedge.n.01	any shape that is triangular in cross section	1
+right_triangle.n.01	a triangle with one right angle	1
+triangle.n.01	a three-sided polygon	1
+fatness.n.01	excess bodily weight	1
+abdominousness.n.01	the bodily property of a protruding belly	1
+leanness.n.02	the property of having little body fat	1
+karyotype.n.01	the appearance of the chromosomal makeup of a somatic cell in an individual or species (including the number and arrangement and size and structure of the chromosomes)	1
+composite_order.n.01	a Roman order that combines the Corinthian acanthus leaves with the spiral scrolls of the Ionic order	1
+dodecahedron.n.01	any polyhedron having twelve plane faces	1
+cube.n.01	a hexahedron with six equal squares as faces	1
+quadrate.n.01	a cubelike object	1
+regular_dodecahedron.n.01	a dodecahedron with twelve regular pentagons as faces	1
+ring.n.02	a toroidal shape	1
+fairy_ring.n.01	a ring of fungi marking the periphery of the perennial underground growth of the mycelium	1
+square.n.04	something approximating the shape of a square	1
+craft_fair.n.01	a fair at which objects made by craftsmen are offered for sale	1
+loose_smut.n.01	disease of grains; the entire head is a dusty mass of spores	1
+calling_card.n.01	a card that is used instead of cash to make telephone calls	1
+green_card.n.01	a card that identifies the bearer as an alien with permanent resident status in the United States	1
+timecard.n.01	a card recording an employee's starting and quitting times each work day	1
+laurel.n.03	(antiquity) a wreath of laurel foliage worn on the head as an emblem of victory	1
+crown_of_thorns.n.03	a mock crown made of thorn branches that Roman soldiers placed on Jesus before the Crucifixion	1
+festoon.n.03	flower chains suspended in curves between points as a decoration	1
+daisy_chain.n.02	flower chain consisting of a string of daisies linked by their stems; worn by students on class day at some schools	1
+calendar.n.03	a tabular array of the days (usually for one year)	1
+determinant.n.03	a square matrix used to solve simultaneous equations	1
+skywriting.n.01	writing formed in the sky by smoke released from an airplane	1
+rest.n.07	a musical notation indicating a silence of a specified duration	1
+dos.n.02	an operating system that is on a disk	1
+telegraph_form.n.01	a form to use when sending a telegram	1
+plane_ticket.n.01	a ticket good for a trip on an airplane	1
+electroencephalogram.n.01	a graphical record of electrical activity of the brain; produced by an electroencephalograph	1
+emoticon.n.01	a representation of a facial expression (as a smile or frown) created by typing a sequence of characters in sending email	1
+salaam.n.01	a deep bow; a Muslim form of salutation	1
+pie_chart.n.01	a circular chart divided into triangular areas proportional to the percentages of the whole	1
+grain.n.04	a weight unit used for pearls or diamonds: 50 mg or 1/4 carat	0
+monsoon.n.03	any wind that changes direction with the seasons	0
+testament.n.04	either of the two main parts of the Christian Bible	0
+behalf.n.01	as the agent of or on someone's part (usually expressed as "on behalf of" rather than "in behalf of"); 	0
+dissoluteness.n.01	indiscipline with regard to sensuous pleasures	0
+san_marinese.n.01	a native or inhabitant of San Marino	0
+narrowing.n.01	an instance of becoming narrow	0
+quality.n.05	high social status	0
+arc_tangent.n.01	the inverse function of the tangent; the angle that has a tangent equal to a given number	0
+dullness.n.05	without sharpness or clearness of edge or point	0
+magnetohydrodynamics.n.01	the study of the interaction of magnetic fields and electrically conducting fluids (as plasma or molten metal)	0
+treatment.n.01	care provided to improve a situation (especially medical procedures or applications that are intended to relieve illness or injury)	0
+fitting.n.02	a small and often standardized accessory to a larger system	0
+noruz.n.01	(Persian) the new year holiday in Iran and Azerbaijan and Afghanistan and Pakistan and parts of India and among the Kurds; comes at the vernal equinox	0
+vivacity.n.01	characterized by high spirits and animation	0
+admirer.n.03	someone who admires a young woman	0
+respiratory_acidosis.n.01	acidosis resulting from reduced gas exchange in the lungs (as in emphysema or pneumonia); excess carbon dioxide combines with water to form carbonic acid which increases the acidity of the blood	0
+gastric_digestion.n.01	the process of breaking down proteins by the action of the gastric juice in the stomach	0
+relinquishment.n.02	the act of giving up and abandoning a struggle or task etc.	0
+morsel.n.02	a small amount of solid food; a mouthful	0
+vibrato.n.01	(music) a pulsating effect in an instrumental or vocal tone produced by slight and rapid variations in pitch	0
+extraction.n.01	the process of obtaining something from a mixture or compound by chemical or physical or mechanical means	0
+explicandum.n.01	(logic) a statement of something (a fact or thing or expression) to be explained	0
+luganda.n.01	the Bantu language of the Buganda people; spoken in Uganda	0
+sex_linkage.n.01	an association between genes in sex chromosomes that makes some characteristics appear more frequently in one sex than in the other	0
+wave_equation.n.01	a differential equation that describes the passage of harmonic waves through a medium	1
+pholistoma.n.01	straggling herbs of southwestern United States	1
+black_fox.n.01	red fox in the color phase when its pelt is mostly black	1
+volleyball.n.02	an inflated ball used in playing volleyball	1
+cowboy.n.01	a hired hand who tends cattle and performs other duties on horseback	0
+river_prawn.n.01	large Australian prawn	1
+laughter.n.02	the activity of laughing; the manifestation of joy or mirth or scorn	1
+kick.n.06	a rhythmic thrusting movement of the legs as in swimming or calisthenics	1
+seriphidium.n.01	woody plants grown chiefly for their silver or grey and often aromatic foliage; formerly included in the genus Artemisia	1
+valsartan.n.01	an angiotensin II inhibitor that is used to treat high blood pressure	1
+lounge_lizard.n.01	a man who idles about in the lounges of hotels and bars in search of women who would support him	0
+american_bog_asphodel.n.01	of the eastern United States: New Jersey to South Carolina	1
+adhesion.n.02	a fibrous band of scar tissue that binds together normally separate anatomical structures	1
+earmark.n.01	identification mark on the ear of a domestic animal	1
+decision_table.n.01	a table of all contingencies and the actions to be taken for each	1
+capelin.n.01	very small northern fish; forage for sea birds and marine mammals and other fishes	1
+hearer.n.01	someone who listens attentively	0
+stria.n.01	any of a number of tiny parallel grooves such as: the scratches left by a glacier on rocks or the streaks or ridges in muscle tissue	0
+click_beetle.n.01	able to right itself when on its back by flipping into the air with a clicking sound	1
+fern_family.n.01	families of ferns and fern allies	1
+hog.n.02	a sheep up to the age of one year; one yet to be sheared	1
+genus_angrecum.n.01	genus of tropical Old World epiphytic orchids with showy flowers sometimes grotesque	1
+pygmy_marmoset.n.01	the smallest monkey; of tropical forests of the Amazon	1
+repression.n.01	a state of forcible subjugation	0
+cord.n.01	a line made of twisted fibers or threads	1
+palestine_national_authority.n.01	combines the Gaza Strip and the West Bank under a political unit with limited autonomy and a police force; created in 1993 by an agreement between Israel and the PLO	0
+korean.n.02	the Altaic language spoken by Koreans	0
+footwork.n.02	skillful maneuvering or dealing	0
+treble_damages.n.01	three times the amount that a court would normally find the injured party entitled to	0
+harpoon.n.01	a spear with a shaft and barbed point for throwing; used for catching large fish or whales; a strong line is attached to it	1
+capital.n.01	assets available for use in the production of further assets	0
+man_of_letters.n.01	a man devoted to literary or scholarly activities	0
+regimentals.n.01	the military uniform and insignia of a regiment	0
+continuing_education.n.01	a program of instruction designed primarily for adult students who participate part-time	0
+erythroxylon_truxiuense.n.01	a South American shrub whose leaves are a source of cocaine	1
+girl.n.05	a friendly informal reference to a grown woman	0
+centripetal_acceleration.n.01	the acceleration toward the center that holds a satellite in elliptical orbit	0
+annalist.n.01	a historian who writes annals	0
+academy.n.04	a learned establishment for the advancement of knowledge	0
+tipuana.n.01	one species: South American tree: tipu tree	1
+torero.n.01	a matador or one of the supporting team during a bull fight	1
+dame.n.02	a woman of refinement	0
+dwarf_chinkapin_oak.n.01	deciduous shrubby tree of northeastern and central United States having a sweet edible nut and often forming dense thickets	1
+prompter.n.02	a device that displays words for people to read	1
+shellac.n.01	lac purified by heating and filtering; usually in thin orange or yellow flakes but sometimes bleached white	1
+rhinolophidae.n.01	Old World leaf-nosed bats	1
+coast_live_oak.n.01	highly variable often shrubby evergreen oak of coastal zone of western North America having small thick usually spiny-toothed dark-green leaves	1
+riveting_machine.n.01	a machine for driving rivets	1
+holy_order.n.01	(usually plural) the status or rank or office of a Christian clergyman in an ecclesiastical hierarchy	0
+arrogance.n.01	overbearing pride evidenced by a superior manner toward inferiors	0
+metalepsis.n.01	substituting metonymy of one figurative sense for another	0
+fuel-air_explosive.n.01	a device consisting of a container of fuel and two explosive charges; the first charge bursts open the fuel container at a predetermined height and spreads the fuel in a cloud that mixes with atmospheric oxygen; the second charge detonates the cloud which creates an enormous blast wave and incinerates whatever is below	1
+binomial_distribution.n.01	a theoretical distribution of the number of successes in a finite set of independent trials with a constant probability of success	0
+lobscouse.n.01	a stew of meat and vegetables and hardtack that is eaten by sailors	1
+matter_of_fact.n.02	a matter that is an actual fact or is demonstrable as a fact	0
+purloo.n.01	thick stew made of rice and chicken and small game; southern U.S.	1
+holder.n.02	a person who holds something	0
+kike.n.01	(ethnic slur) offensive term for a Jew	0
+electronic_surveillance.n.01	surveillance by electronic means (e.g. television)	0
+seaweed.n.01	plant growing in the sea, especially marine algae	1
+sulfonylurea.n.01	antidiabetic consisting of any of several drugs that reduce the level of glucose in the blood; used to treat diabetes mellitus	1
+hemlock.n.03	soft coarse splintery wood of a hemlock tree especially the western hemlock	1
+burrfish.n.01	any of several fishes having rigid flattened spines	0
+labor_day.n.01	first Monday in September in the United States and Canada	0
+first.n.01	the first or highest in an ordering or series	0
+sucking.n.01	the act of sucking	0

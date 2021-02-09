@@ -1,0 +1,1998 @@
+garden_spider.n.01	a spider common in European gardens	1
+crutch.n.01	a wooden or metal staff that fits under the armpit and reaches to the ground; used by disabled person while walking	1
+error.n.05	departure from what is ethically acceptable	0
+propanolol.n.01	the first beta blocker (trade name Inderal) used in treating hypertension and angina pectoris and essential tremor	0
+cricket.n.01	leaping insect; male makes chirping noises by rubbing the forewings together	1
+sarong.n.01	a loose skirt consisting of brightly colored fabric wrapped around the body; worn by both women and men in the South Pacific	1
+advantage.n.01	the quality of having a superior or more favorable position	0
+bout.n.02	a period of illness	0
+modem.n.01	(from a combination of MOdulate and DEModulate) electronic equipment consisting of a device used to connect computers by a telephone line	1
+hyperactivity.n.01	a condition characterized by excessive restlessness and movement	0
+hypercellularity.n.01	the state of having abnormally many cells	0
+myxedema.n.01	hypothyroidism marked by dry skin and swellings around lips and nose as well as mental deterioration	0
+dander.n.02	a feeling of anger and animosity	0
+superiority.n.02	the quality of being at a competitive advantage	0
+shock_therapy.n.01	treatment of certain psychotic states by the administration of shocks that are followed by convulsions	0
+varicocele.n.01	dilatation of the veins associated with the spermatic cord in the testes	0
+ocarina.n.01	egg-shaped terra cotta wind instrument with a mouthpiece and finger holes	1
+coucal.n.01	Old World ground-living cuckoo having a long dagger-like hind claw	1
+lycaenid.n.01	any of various butterflies of the family Lycaenidae	1
+action.n.02	the state of being active	0
+plastic_bag.n.01	a bag made of thin plastic material	1
+windsor_tie.n.01	a wide necktie worn in a loose bow	1
+cucumber.n.02	cylindrical green fruit with thin green rind and white flesh eaten as a vegetable; related to melons	1
+screwdriver.n.02	a cocktail made with vodka and orange juice	1
+interrelation.n.01	mutual or reciprocal relation or relatedness	0
+tolbutamide.n.01	sulfonylurea; an oral antidiabetic drug (trade name Orinase) used in the treatment of adult-onset diabetes mellitus	0
+catharsis.n.01	(psychoanalysis) purging of emotional tensions	0
+fetish.n.03	excessive or irrational devotion to some activity	0
+ophthalmia.n.01	severe conjunctivitis	0
+inferiority.n.03	the quality of being a competitive disadvantage	0
+resistance.n.09	(psychiatry) an unwillingness to bring repressed feelings into conscious awareness	0
+ventricular_aneurysm.n.01	a localized dilation or protrusion on the wall of the left ventricle of the heart (occurring after a myocardial infarction)	0
+sweet-potato_ring_rot.n.01	disease of sweet potatoes in which roots are girdled by rings of dry rot	0
+cooley's_anemia.n.01	a fatal form of homozygous thalassemia (inherited from both parents) in which there is no hemoglobin; skeletal deformations; heart and spleen and liver enlarged	0
+nerve_entrapment.n.01	repeated and long-term nerve compression (usually in nerves near joints that are subject to inflammation or swelling)	0
+bewilderment.n.01	confusion resulting from failure to understand	0
+thatch.n.04	a house roof made with a plant material (as straw)	1
+collectivization.n.01	the organization of a nation or economy on the basis of collectivism	0
+union.n.09	the occurrence of a uniting of separate parts	0
+coronary_occlusion.n.01	occlusion of a coronary artery caused either by progressive atherosclerosis or by a blood clot	0
+traffic_light.n.01	a visual signal to control the flow of traffic at intersections	1
+dalmatian.n.02	a large breed having a smooth white coat with black or brown spots; originated in Dalmatia	1
+hydrarthrosis.n.01	inflammation and swelling of a movable joint because of excess synovial fluid	0
+biochemistry.n.01	the organic chemistry of compounds and processes occurring in organisms; the effort to understand biology within the context of chemistry	0
+chainlink_fence.n.01	a fence of steel wires woven into a diamond pattern	1
+monorchism.n.01	failure of one testes to descend into the scrotum	0
+womanhood.n.01	the state of being an adult woman	0
+compass.n.03	the limit of capability	0
+great_white_shark.n.01	large aggressive shark widespread in warm seas; known to attack humans	1
+croquet_ball.n.01	a wooden ball used in playing croquet	1
+disregard.n.01	lack of attention and due care	0
+disfavor.n.02	an inclination to withhold approval from some person or group	0
+jacamar.n.01	tropical American insectivorous bird having a long sharp bill and iridescent green or bronze plumage	1
+ethics.n.02	the philosophical study of moral values and rules	0
+eskimo_dog.n.01	breed of heavy-coated Arctic sled dog	1
+armadillo.n.01	burrowing chiefly nocturnal mammal with body covered with strong horny plates	1
+visibility.n.02	degree of exposure to public notice	0
+muteness.n.02	a refusal to speak when expected	0
+imprudence.n.01	a lack of caution in practical affairs	0
+tolerance.n.04	willingness to recognize and respect the beliefs or practices of others	0
+scoliosis.n.01	an abnormal lateral curve to the vertebral column	0
+nonconformity.n.02	a lack of orthodoxy in thoughts or beliefs	0
+grey_whale.n.01	medium-sized greyish-black whale of the northern Pacific	1
+speaking.n.01	the utterance of intelligible speech	0
+washbasin.n.02	a basin for washing the hands (`wash-hand basin' is a British expression)	1
+parturition.n.01	the process of giving birth	0
+intracranial_aneurysm.n.01	an aneurysm of a cranial artery	0
+persian_cat.n.01	a long-haired breed of cat	1
+diplopia.n.01	visual impairment in which an object is seen as two objects	0
+sidereal_year.n.01	the time for the earth to make one complete revolution around the sun, relative to the fixed stars	0
+leadership.n.04	the ability to lead	0
+three-toed_sloth.n.01	a sloth that has three long claws on each forefoot and each hindfoot	1
+fatigue_crack.n.01	a crack in metal resulting from metal fatigue	0
+leprosy_bacillus.n.01	cause of leprosy	0
+jealousy.n.01	a feeling of jealous envy (especially of a rival)	0
+deviated_septum.n.01	abnormal displacement of any wall that separates two chambers (usually in the nasal cavity)	0
+lipomatosis.n.01	pathology in which fat accumulates in lipomas in the body	0
+little_potato.n.01	rhizoctinia disease of potatoes	0
+tonsillitis.n.01	inflammation of the tonsils (especially the palatine tonsils)	0
+ballistics.n.02	the science of flight dynamics	0
+drain.n.04	a gradual depletion of energy or resources	0
+cheeseburger.n.01	a hamburger with melted cheese on it	1
+bent.n.01	a relatively permanent inclination to react in a particular way	0
+cardigan.n.02	slightly bowlegged variety of corgi having rounded ears and a long tail	1
+valvulitis.n.01	inflammation of a valve (especially of a cardiac valve as a consequence of rheumatic fever)	0
+ram.n.05	uncastrated adult male sheep	1
+confectionery.n.02	a confectioner's shop	1
+indigo_bunting.n.01	small deep blue North American bunting	1
+collie.n.01	a silky-coated sheepdog with a long ruff and long narrow head developed in Scotland	1
+timber_wolf.n.01	a wolf with a brindled grey coat living in forested northern regions of North America	1
+knee_pad.n.01	protective garment consisting of a pad worn by football or baseball or hockey players	1
+nonconformism.n.02	the practice of nonconformity	0
+difficulty.n.04	the quality of being difficult	0
+cloak.n.01	anything that covers or conceals	1
+degeneration.n.01	the process of declining from a higher to a lower level of effective power or vitality or essential quality	0
+fussiness.n.02	unnecessary elaborateness in details	0
+boa_constrictor.n.01	very large boa of tropical America and West Indies	1
+equality_before_the_law.n.01	the right to equal protection of the laws	0
+x-ray_therapy.n.01	the therapeutic use of X rays	0
+barbell.n.01	a bar to which heavy discs are attached at each end; used in weightlifting	1
+scottish_deerhound.n.01	very large and tall rough-coated dog bred for hunting deer; known as the royal dog of Scotland	1
+fifties.n.01	the decade from 1950 to 1959	0
+water_conservation.n.01	the conservation of water resources	0
+stove.n.02	any heating apparatus	1
+mountain_tent.n.01	a lightweight tent with a floor; flaps close with a zipper	1
+anemia.n.02	a lack of vitality	0
+superiority.n.01	the quality of being superior	0
+turnstile.n.01	a gate consisting of a post that acts as a pivot for rotating arms; set in a passageway for controlling the persons entering	1
+sea_slug.n.01	any of various marine gastropods of the suborder Nudibranchia having a shell-less and often beautifully colored body	1
+approval.n.02	a feeling of liking something or someone good	0
+brachydactyly.n.01	abnormal shortness of fingers and toes	0
+lymphadenopathy.n.01	chronic abnormal enlargement of the lymph nodes (usually associated with disease)	0
+cacogenesis.n.01	inability to produce hybrids that are both viable and fertile	0
+sectarianism.n.01	a narrow-minded adherence to a particular sect or party or denomination	0
+experience.n.02	the content of direct observation or participation in an event	0
+demand.n.04	the act of demanding	0
+pause.n.02	temporary inactivity	0
+caudal_anesthesia.n.01	regional anesthesia resulting from injection of an anesthetic into the caudal end of the spinal canal; now largely replaced by epidural anesthesia	0
+irradiation.n.01	the condition of being exposed to radiation	0
+chow.n.03	breed of medium-sized dogs with a thick coat and fluffy curled tails and distinctive blue-black tongues; believed to have originated in northern China	1
+functional_anatomy.n.01	the study of anatomy in its relation to function	0
+clog.n.01	footwear usually with wooden soles	1
+web_site.n.01	a computer connected to the internet that maintains a series of web pages on the World Wide Web	1
+fly.n.05	fisherman's lure consisting of a fishhook decorated to look like an insect	1
+keratoconjunctivitis.n.01	inflammation of the cornea and conjunctiva	0
+american_coot.n.01	a coot found in North America	1
+foraging.n.01	the act of searching for food and provisions	0
+defecation.n.01	the elimination of fecal waste through the anus	0
+wear.n.01	impairment resulting from long use	0
+violin.n.01	bowed stringed instrument that is the highest member of the violin family; this instrument has four strings and a hollow body and an unfretted fingerboard and is played with a bow	1
+bald_eagle.n.01	a large eagle of North America that has a white head and dark wings and body	1
+police_van.n.01	van used by police to transport prisoners	1
+nursing.n.01	the work of caring for the sick or injured or infirm	0
+strength.n.08	the condition of financial success	0
+jitters.n.01	extreme nervousness	0
+jean.n.01	(usually plural) close-fitting trousers of heavy denim for manual work or casual wear	1
+writer's_block.n.01	an inability to write; the words wouldn't come"	0
+pride.n.01	a feeling of self-respect and personal worth	0
+sussex_spaniel.n.01	an English breed with short legs and a golden liver-colored coat	1
+wool.n.01	a fabric made from the hair of sheep	1
+shih-tzu.n.01	a Chinese breed of small dog similar to a Pekingese	1
+beta-carotene.n.01	an isomer of carotene that is found in dark green and dark yellow fruits and vegetables	0
+soft-coated_wheaten_terrier.n.01	Irish breed of medium-sized terrier with an abundant coat any shade of wheat and very hairy head and muzzle	1
+flavorlessness.n.01	the property of having no flavor	0
+disinvestment.n.01	the withdrawal of capital from a country or corporation	0
+heave.n.04	an involuntary spasm of ineffectual vomiting	0
+hen.n.03	flesh of an older chicken suitable for stewing	1
+resistance.n.08	the degree of unresponsiveness of a disease-causing microorganism to antibiotics or other drugs (as in penicillin-resistant bacteria)	0
+heliotherapy.n.01	therapeutic exposure to sunlight	0
+individualism.n.03	the doctrine that government should not interfere in commercial affairs	0
+dereliction.n.02	willful negligence	0
+pool_table.n.01	game equipment consisting of a heavy table on which pool is played	1
+cocker_spaniel.n.01	a small breed with wavy silky hair; originally developed in England	1
+physician-patient_privilege.n.01	the right of a physician to refuse to divulge confidential information from a patient without the consent of the patient	0
+boldness.n.02	impudent aggressiveness	0
+prison.n.02	a prisonlike situation; a place of seeming confinement	1
+screen.n.03	the display that is electronically created on the surface of the large end of a cathode-ray tube	1
+insight.n.04	grasping the inner nature of things intuitively	0
+giving.n.01	the act of giving	0
+thread_blight.n.01	a disease of tropical woody plants (cacao or tea or citrus)	0
+airedale.n.01	breed of large wiry-coated terrier bred in Yorkshire	1
+anarthria.n.01	partial or total loss of articulate speech resulting from lesions of the central nervous system	0
+wig.n.01	hairpiece covering the head and made of real or synthetic hair	1
+lighter.n.02	a device for lighting or igniting fuel or charges or fires	1
+gazelle.n.01	small swift graceful antelope of Africa and Asia having lustrous eyes	1
+paddle.n.04	a short light oar used without an oarlock to propel a canoe or small boat	1
+screw.n.02	a simple machine of the inclined-plane type consisting of a spirally threaded cylindrical rod that engages with a similarly threaded hole	1
+pembroke.n.01	the smaller and straight-legged variety of corgi having pointed ears and a short tail	1
+mortarboard.n.02	an academic cap with a flat square with a tassel on top	1
+peonage.n.01	the condition of a peon	0
+extortion.n.02	unjust exaction (as by the misuse of authority)	0
+barrel.n.02	a cylindrical container that holds liquids	1
+prickly_heat.n.01	obstruction of the sweat ducts during high heat and humidity	0
+sulphur_butterfly.n.01	any of numerous yellow or orange butterflies	1
+rationing.n.01	the act of rationing	0
+schooner.n.01	a large beer glass	1
+truthfulness.n.01	the quality of being truthful	0
+sundial.n.01	timepiece that indicates the daylight hours by the shadow that the gnomon casts on a calibrated dial	1
+brittany_spaniel.n.01	tall active short-tailed French breed of bird dog having a usually smooth orange- or liver-and-white coat	1
+albright's_disease.n.01	fibrous dysplasia of bone affecting multiple bones	0
+sea_urchin.n.01	shallow-water echinoderms having soft bodies enclosed in thin spiny globular shells	1
+meekness.n.01	the feeling of patient, submissive humbleness	0
+1830s.n.01	the decade from 1830 to 1839	0
+speech_disorder.n.01	a disorder of oral speech	0
+killer_whale.n.01	predatory black-and-white toothed whale with large dorsal fin; common in cold seas	1
+vinegar.n.02	dilute acetic acid	0
+wisdom.n.02	the trait of utilizing knowledge and experience with common sense and insight	0
+bullfrog.n.01	largest North American frog; highly aquatic with a deep-pitched voice	1
+reception.n.04	the act of receiving	0
+orangutan.n.01	large long-armed ape of Borneo and Sumatra having arboreal habits	1
+steel_drum.n.01	a concave percussion instrument made from the metal top of an oil drum; has an array of flattened areas that produce different tones when struck (of Caribbean origin)	1
+plate.n.07	the thin under portion of the forequarter	1
+acorn.n.01	fruit of the oak tree: a smooth thin-walled nut in a woody cup-shaped base	1
+teapot.n.01	pot for brewing tea; usually has a spout and handle	1
+corpulence.n.01	the property of excessive fatness	0
+lesser_panda.n.01	reddish-brown Old World raccoon-like carnivore; in some classifications considered unrelated to the giant pandas	1
+agronomy.n.01	the application of soil and plant sciences to land management and crop production	0
+neuralgia.n.01	acute spasmodic pain along the course of one or more nerves	0
+sideroblastic_anemia.n.01	refractory anemia characterized by sideroblasts in the bone marrow	0
+stoicism.n.01	an indifference to pleasure or pain	0
+ice_lolly.n.01	ice cream or water ice on a small wooden stick	1
+energizing.n.01	the activity of causing to have energy and be active	0
+bloodguilt.n.01	the state of being guilty of bloodshed and murder	0
+cinema.n.02	a theater where films are shown	1
+anoxemia.n.01	abnormally low oxygen content in arterial blood	0
+pinwheel.n.02	a wheel that has numerous pins that are set at right angles to its rim	1
+crop_failure.n.01	the failure of crops to produce a marketable surplus	0
+humor.n.02	the trait of appreciating (and being able to express) the humorous	0
+organ.n.05	wind instrument whose sound is produced by means of pipes arranged in sets supplied with air from a bellows and controlled from a large complex musical keyboard	1
+minibus.n.01	a light bus (4 to 10 passengers)	1
+long-horned_beetle.n.01	long-bodied beetle having very long antennae	1
+osteosclerosis.n.01	abnormal hardening or eburnation of bone	0
+hygiene.n.02	the science concerned with the prevention of illness and maintenance of health	0
+canine_chorea.n.01	chorea in dogs	0
+dissatisfaction.n.01	the feeling of being displeased and discontent	0
+hematoma.n.01	a localized swelling filled with blood	0
+barracouta.n.01	a large marine food fish common on the coasts of Australia, New Zealand, and southern Africa	1
+warthog.n.01	African wild swine with warty protuberances on the face and large protruding tusks	1
+french_loaf.n.01	a loaf of French bread	1
+enervation.n.03	surgical removal of a nerve	0
+garter_snake.n.01	any of numerous nonvenomous longitudinally-striped viviparous North American and Central American snakes	1
+leafhopper.n.01	small leaping insect that sucks the juices of plants	1
+redbone.n.01	a speedy red or red-and-tan American hound	1
+urbanization.n.01	the condition of being urbanized	0
+impatience.n.03	a dislike of anything that causes delay	0
+basophilia.n.01	the tendency of cells to stain with basic dyes	0
+jellyfish.n.02	any of numerous usually marine and free-swimming coelenterates that constitute the sexually reproductive forms of hydrozoans and scyphozoans	1
+heist.n.01	the act of stealing	0
+local_anesthesia.n.01	loss of sensation in a small area of the body (as when a local anesthetic is injected for a tooth extraction)	0
+altar.n.02	a raised structure on which gifts or sacrifices to a god are made	1
+dysomia.n.01	impairment of the sense of smell	0
+parotitis.n.01	inflammation of one or both parotid glands	0
+gibbon.n.02	smallest and most perfectly anthropoid arboreal ape having long arms and no tail; of southern Asia and East Indies	1
+bloodiness.n.02	a disposition to shed blood	0
+acorn_squash.n.01	squash plant bearing small acorn-shaped fruits having yellow flesh and dark green or yellow rind with longitudinal ridges	1
+white_stork.n.01	the common stork of Europe; white with black wing feathers and a red bill	1
+colorlessness.n.01	the visual property of being without chromatic color	0
+alert.n.01	condition of heightened watchfulness or preparation for action	0
+pedestal.n.03	an architectural support or base (as for a column or statue)	1
+wine_bottle.n.01	a bottle for holding wine	1
+shower_curtain.n.01	a curtain that keeps water from splashing out of the shower area	1
+puffer.n.02	any of numerous marine fishes whose elongated spiny body can inflate itself with water or air to form a globe; several species contain a potent nerve poison; closely related to spiny puffers	1
+acantholysis.n.01	a breakdown of a cell layer in the epidermis (as in pemphigus)	0
+black_swan.n.01	large Australian swan having black plumage and a red bill	1
+tarsitis.n.01	inflammation of the eyelid	0
+genus_galax.n.01	evergreen herbs of southeastern United States	0
+bannister.n.02	a railing at the side of a staircase or balcony to prevent people from falling	1
+rhinoceros_beetle.n.01	any of various large chiefly tropical beetles having horns on the head; pest on coconuts	1
+acute_leukemia.n.01	rapidly progressing leukemia	0
+boathouse.n.01	a shed at the edge of a river or lake; used to store boats	1
+piggy_bank.n.01	a child's coin bank (often shaped like a pig)	1
+chest.n.02	box with a lid; used for storage; usually large and sturdy	1
+digital_watch.n.01	a watch with a digital display	1
+abstraction.n.03	the process of formulating general concepts by abstracting common properties of instances	0
+continental_drift.n.01	the gradual movement and formation of continents (as described by plate tectonics)	0
+scabbard.n.01	a sheath for a sword or dagger or bayonet	1
+establishmentarianism.n.01	the doctrine of supporting the social or political establishment	0
+keratalgia.n.01	pain in the cornea	0
+abaya.n.01	(Arabic) a loose black robe from head to toe; traditionally worn by Muslim women	1
+tomato_streak.n.01	disease of a wide range of plants (tomatoes, potatoes, peas) resulting from a mixed infection of potato and tomato mosaic	0
+melagra.n.01	rheumatic or myalgic pains in the arms or legs	0
+puck.n.02	a vulcanized rubber disk 3 inches in diameter that is used instead of a ball in ice hockey	1
+twit.n.02	aggravation by deriding or mocking or criticizing	0
+cellulitis.n.01	an inflammation of body tissue (especially that below the skin) characterized by fever and swelling and redness and pain	0
+flagpole.n.02	a tall staff or pole on which a flag is raised	1
+tow_truck.n.01	a truck equipped to hoist and pull wrecked cars (or to remove cars from no-parking zones)	1
+loyalty.n.01	the quality of being loyal	0
+visual_impairment.n.01	impairment of the sense of sight	0
+seismography.n.01	the measurement of tremors and shocks and undulatory movements of earthquakes	0
+rugby_ball.n.01	inflated oval ball used in playing rugby	1
+gleichenia.n.01	type genus of Gleicheniaceae: leptosporangiate ferns with sessile sporangia; South Africa to Malaysia and New Zealand	0
+gas_pump.n.01	a pump in a service station that draws gasoline from underground storage tanks	1
+pole.n.07	one of two antipodal points where the Earth's axis of rotation intersects the Earth's surface	1
+coho.n.02	small salmon of northern Pacific coasts and the Great Lakes	1
+zoomorphism.n.01	the attribution of animal forms or qualities to a god	0
+privilege.n.03	(law) the right to refuse to divulge information obtained in a confidential relationship	0
+evil.n.03	the quality of being morally wrong in principle or practice	0
+paleornithology.n.01	the paleobiology of birds	0
+heroin_addiction.n.01	an addiction to heroin	0
+credibility.n.01	the quality of being believable or trustworthy	0
+consumerism.n.01	the theory that an increasing consumption of goods is economically beneficial	0
+eating_disorder.n.01	a disorder of the normal eating routine	0
+frigidity.n.01	sexual unresponsiveness (especially of women) and inability to achieve orgasm during intercourse	0
+tibetan_mastiff.n.01	very large powerful rough-coated dog native to central Asia	1
+lakeland_terrier.n.01	breed of wire-haired terrier originally from the Lake District of England and used for hunting	1
+binoculars.n.01	an optical instrument designed for simultaneous use by both eyes	1
+pulmonary_embolism.n.01	blockage of the pulmonary artery by foreign matter or by a blood clot	0
+prohibition.n.04	refusal to approve or assent to	0
+metoprolol.n.01	beta blocker (trade name Lopressor) used in treating hypertension and angina and arrhythmia and acute myocardial infarction; has adverse side effects (depression and exacerbation of congestive heart failure etc.)	0
+speedboat.n.01	a fast motorboat	1
+ureteritis.n.01	inflammation of the ureter	0
+gown.n.02	the members of a university as distinguished from the other residents of the town in which the university is located	1
+inconstancy.n.02	the quality of being changeable and variable	0
+impermanence.n.01	the property of not existing for indefinitely long durations	0
+mailbox.n.01	a private box for delivery of mail	1
+pretzel.n.01	glazed and salted cracker typically in the shape of a loose knot	1
+chihuahua.n.01	a city in northern Mexico in the state of Chihuahua; commercial center of northern Mexico	1
+goose.n.03	flesh of a goose (domestic or wild)	1
+buckeye.n.01	the inedible nutlike seed of the horse chestnut	1
+terrapin.n.01	any of various edible North American web-footed turtles living in fresh or brackish water	1
+endarterectomy.n.01	surgical removal of the inner lining of an artery that is clogged with atherosclerosis	0
+stomatitis.n.01	inflammation of the mucous membrane of the mouth	0
+english_foxhound.n.01	an English breed slightly larger than the American foxhounds originally used to hunt in packs	1
+elephantiasis_neuromatosa.n.01	hypertrophy of a limb	0
+architecture.n.03	the profession of designing buildings and environments with consideration for their esthetic effect	0
+grand_piano.n.01	a piano with the strings on a horizontal harp-shaped frame; usually supported by three legs	1
+guenon.n.01	small slender African monkey having long hind limbs and tail and long hair around the face	1
+insolvency.n.01	the lack of financial resources	0
+shoe_shop.n.01	a shop where shoes are sold	1
+letter_opener.n.01	dull knife used to cut open the envelopes in which letters are mailed or to slit uncut pages of books	1
+hatchet.n.02	a small ax with a short handle used with one hand (usually to chop wood)	1
+trench_coat.n.01	a military style raincoat; belted with deep pockets	1
+unemployment.n.01	the state of being unemployed or not having a job	0
+self-expression.n.01	the expression of one's individuality (usually through creative activities)	0
+meerkat.n.01	a mongoose-like viverrine of South Africa having a face like a lemur and only four toes	1
+harvestman.n.01	spiderlike arachnid with a small rounded body and very long thin legs	1
+politics.n.02	the study of government of states and other political units	0
+disobedience.n.02	the trait of being unwilling to obey	0
+iniquity.n.01	absence of moral or spiritual values	0
+groom.n.01	a man participant in his own marriage ceremony	1
+ruffed_grouse.n.01	valued as a game bird in eastern United States and Canada	1
+military_uniform.n.01	prescribed identifying uniform for soldiers	1
+softening.n.01	the process of becoming softer	0
+mahuang.n.01	Chinese ephedra yielding ephedrine	0
+transurethral_resection_of_the_prostate.n.01	removal of significant amounts of prostate tissue (as in cases of benign prostatic hyperplasia)	0
+keratectasia.n.01	abnormal bulging of the cornea of the eye	0
+mailbag.n.02	letter carrier's shoulder bag	1
+jejunoileitis.n.01	inflammation of the jejunum and the ileum of the small intestine	0
+soap_dispenser.n.01	dispenser of liquid soap	1
+banana.n.02	elongated crescent-shaped yellow fruit with soft sweet flesh	1
+jail_delivery.n.01	the use of force to liberate prisoners	0
+torch.n.01	a light usually carried in the hand; consists of some flammable substance	1
+greenhouse.n.01	a building with glass walls and roof; for the cultivation and exhibition of plants under controlled conditions	1
+implausibility.n.01	the quality of provoking disbelief	0
+chime.n.01	a percussion instrument consisting of a set of tuned bells that are struck with a hammer; used as an orchestral instrument	1
+bath_towel.n.01	a large towel; to dry yourself after a bath	1
+walnut_blight.n.01	a disease of English walnut trees	0
+faultlessness.n.01	the quality of being without an error or fault	0
+cretinism.n.01	severe hypothyroidism resulting in physical and mental stunting	0
+pizza.n.01	Italian open pie made of thin bread dough spread with a spiced mixture of e.g. tomato sauce and cheese	1
+stretcher.n.01	a wooden framework on which canvas is stretched and fixed for oil painting	1
+lakeside.n.01	the shore of a lake	1
+sixties.n.01	the decade from 1960 to 1969	0
+shirking.n.01	the evasion of work or duty	0
+monitor.n.05	electronic equipment that is used to check the quality or content of electronic transmissions	1
+growing_pains.n.02	emotional distress arising during adolescence	0
+unacceptability.n.01	unsatisfactoriness by virtue of not conforming to approved standards	0
+toy_poodle.n.01	the breed of very small poodles	1
+gingivitis.n.01	inflammation of the gums	0
+allergy.n.01	hypersensitivity reaction to a particular allergen; symptoms can vary greatly in intensity	0
+inwardness.n.04	preoccupation with what concerns human inner nature (especially ethical or ideological values)	0
+irish_water_spaniel.n.01	breed of large spaniels developed in Ireland having a heavy coat of liver-colored curls and a topknot of long curls and a nearly hairless tail	1
+norwich_terrier.n.01	English breed of small short-legged terrier with a straight wiry red or grey or black-and-tan coat and erect ears	1
+acidity.n.03	pH values below 7	0
+death.n.08	the act of killing	0
+discord.n.01	lack of agreement or harmony	0
+fondness.n.01	a predisposition to like something	0
+appendicitis.n.01	inflammation of the vermiform appendix	0
+folliculitis.n.01	inflammation of a hair follicle	0
+ptarmigan.n.01	large Arctic and subarctic grouse with feathered feet and usually white winter plumage	1
+discipleship.n.01	the position of disciple	0
+consumption.n.01	the process of taking food into the body through the mouth (as by eating)	0
+toilet_seat.n.01	the hinged seat on a toilet	1
+proselytism.n.01	the practice of proselytizing	0
+diaper.n.01	garment consisting of a folded cloth drawn up between the legs and fastened at the waist; worn by infants to catch excrement	1
+marital_relationship.n.01	the relationship between wife and husband	0
+moderation.n.04	the action of lessening in severity or intensity	0
+pug.n.01	small compact smooth-coated breed of Asiatic origin having a tightly curled tail and broad flat wrinkled muzzle	1
+penance.n.03	voluntary self-punishment in order to atone for some wrongdoing	0
+agaric.n.02	a saprophytic fungus of the order Agaricales having an umbrellalike cap with gills on the underside	1
+priest-penitent_privilege.n.01	the right of a clergyman to refuse to divulge confidential information received from a person during confession or similar exchanges	0
+myelinization.n.01	the development of a myelin sheath around a nerve fiber	0
+guacamole.n.01	a dip made of mashed avocado mixed with chopped onions and other seasonings	1
+postnasal_drip.n.01	chronic secretion of mucus from the rear of the nasal cavity into the nasopharynx	0
+sex_appeal.n.01	attractiveness to the opposite sex	0
+sex_drive.n.01	a physiological need for sexual activity	0
+acridity.n.03	the quality of being sharply disagreeable in language or tone	0
+dishwasher.n.01	a machine for washing dishes	1
+atherosclerosis.n.01	a stage of arteriosclerosis involving fatty deposits (atheromas) inside the arterial walls, thus narrowing the arteries	0
+defensive.n.01	an attitude of defensiveness (especially in the phrase `on the defensive')	0
+copout.n.01	a failure to face some difficulty squarely	0
+hoopskirt.n.01	a skirt stiffened with hoops	1
+free_rein.n.01	the removal of constraints	0
+malacia.n.01	a state of abnormal softening of tissue	0
+downrightness.n.01	the quality of being direct and straightforward	0
+tennis_ball.n.01	ball about the size of a fist used in playing tennis	1
+charley_horse.n.01	a muscular cramp (especially in the thigh or calf) following vigorous exercise	0
+dungeness_crab.n.02	small edible crab of Pacific coast of North America	1
+frying_pan.n.01	a pan used for frying foods	1
+holster.n.02	a belt with loops or slots for carrying small hand tools	1
+tenosynovitis.n.01	inflammation of a tendon and its enveloping sheath	0
+library.n.02	a collection of literary documents or records kept for reference or borrowing	1
+tripod.n.01	a three-legged rack used for support	1
+fraudulence.n.02	the quality of being fraudulent	0
+phalangitis.n.01	inflammation of a finger or toe	0
+knot.n.03	a hard cross-grained round piece of wood in a board where a branch emerged	1
+set.n.12	(psychology) being temporarily ready to respond in a particular way	0
+lacewing.n.01	any of two families of insects with gauzy wings (Chrysopidae and Hemerobiidae); larvae feed on insect pests such as aphids	1
+patas.n.01	reddish long-tailed monkey of west Africa	1
+hemoglobinemia.n.01	presence of excessive hemoglobin in the blood plasma	0
+thromboembolism.n.01	occlusion of a blood vessel by an embolus that has broken away from a thrombus	0
+robin.n.02	large American thrush having a rust-red breast and abdomen	1
+aurora_borealis.n.01	the aurora of the northern hemisphere	0
+girondism.n.01	the doctrine of the Girondists	0
+capuchin.n.02	monkey of Central America and South America having thick hair on the head that resembles a monk's cowl	1
+female_bonding.n.01	the formation of a close personal relationship between women	0
+instrumentality.n.02	the quality of being instrumental for some purpose	0
+rock_python.n.01	very large python of tropical and southern Africa	1
+sandbar.n.01	a bar of sand	1
+tick.n.04	a light mattress	1
+throne.n.01	the chair of state for a monarch, bishop, etc.	1
+fair_deal.n.01	fair treatment	0
+unpopularity.n.01	the quality of lacking general approval or acceptance	0
+rapeseed.n.01	seed of rape plants; source of an edible oil	1
+academic_freedom.n.01	the freedom of teachers and students to express their ideas in school without religious or political or institutional restrictions	0
+punching_bag.n.02	an inflated ball or bag that is suspended and punched for training in boxing	1
+reflux.n.01	an abnormal backward flow of body fluids	0
+redefinition.n.01	the act of giving a new definition	0
+solar_gravity.n.01	the gravity of the sun	0
+christmas_stocking.n.01	a stocking that is filled with small Christmas presents	1
+lack.n.01	the state of needing something that is absent or unavailable	0
+conformity.n.03	orthodoxy in thoughts and belief	0
+light.n.07	the visual effect of illumination on objects or scenes as created in pictures	0
+ileitis.n.01	inflammation of the ileum	0
+atheism.n.02	a lack of belief in the existence of God or gods	0
+teddy.n.01	plaything consisting of a child's toy bear (usually plush and stuffed with soft materials)	1
+humanity.n.01	the quality of being humane	0
+twig_blight.n.01	a disease of the ends of twigs of woody plants	0
+adrenalectomy.n.01	surgical removal of one or both adrenal glands	0
+extravagance.n.01	the quality of exceeding the appropriate limits of decorum or probability or truth	0
+inspissation.n.01	the process of thickening by dehydration	0
+earthstar.n.01	any fungus of the family Geastraceae; in form suggesting a puffball whose outer peridium splits into the shape of a star	1
+trisomy.n.01	chrosomal abnormality in which there is one more than the normal number of chromosomes in a cell	0
+gondola.n.02	long narrow flat-bottomed boat propelled by sculling; traditionally used on canals of Venice	1
+axolotl.n.01	larval salamander of mountain lakes of Mexico that usually lives without metamorphosing	1
+sciatica.n.01	neuralgia along the sciatic nerve	0
+judgment.n.06	the capacity to assess situations or circumstances shrewdly and to draw sound conclusions	0
+coffee_mug.n.01	a mug intended for serving coffee	1
+fundamentalism.n.01	the interpretation of every word in the sacred texts as literal truth	0
+red_fox.n.03	the common Old World fox; having reddish-brown fur; commonly considered a single circumpolar species	1
+beer_glass.n.01	a relatively large glass for serving beer	1
+cost_cutting.n.01	the act of cutting costs	0
+near-death_experience.n.01	the experience of being close to death but surviving	0
+poncho.n.01	a blanket-like cloak with a hole in the center for the head	1
+pancreatitis.n.01	inflammation of the pancreas; usually marked by abdominal pain	0
+barometer.n.01	an instrument that measures atmospheric pressure	1
+samoyed.n.03	Siberian breed of white or cream-colored dog of the spitz family	1
+cerebral_aneurysm.n.01	an aneurysm of the carotid artery	0
+hypersensitivity.n.02	extreme sensitivity	0
+cold_feet.n.01	timidity that prevents the continuation of a course of action	0
+angora.n.03	domestic breed of rabbit with long white silky hair	1
+opacification.n.01	the process of becoming cloudy or opaque	0
+impatience.n.02	a restless desire for change and excitement	0
+groenendael.n.01	black-coated sheepdog with a heavily plumed tail	1
+beacon.n.03	a tower with a light that gives warning of shoals to passing ships	1
+peacock.n.02	male peafowl; having a crested head and very large fanlike tail marked with iridescent eyes or spots	1
+cradle.n.03	birth of a person	1
+whiptail.n.01	any of numerous very agile and alert New World lizards	1
+dishrag.n.01	a cloth for washing dishes	1
+cassette.n.01	a container that holds a magnetic tape used for recording or playing sound or video	1
+cowboy_boot.n.01	a boot with a high arch and fancy stitching; worn by American cowboys	1
+erythema.n.01	abnormal redness of the skin resulting from dilation of blood vessels (as in sunburn or inflammation)	0
+careerism.n.01	the practice of advancing your career at the expense of your personal integrity	0
+accordion.n.01	a portable box-shaped free-reed instrument; the reeds are made to vibrate by air from the bellows controlled by the player	1
+factuality.n.01	the quality of being actual or based on fact	0
+nephroptosis.n.01	prolapse of the kidney	0
+agrology.n.01	science of soils in relation to crops	0
+hip.n.05	the fruit of a rose plant	1
+tape_player.n.01	electronic equipment for playing back magnetic tapes	1
+coronary_thrombosis.n.01	obstruction of blood flow in a coronary artery by a blood clot (thrombus)	0
+lymphogranuloma.n.01	swelling of a lymph node	0
+sense.n.05	a natural appreciation or ability	0
+tabby.n.01	a cat with a grey or tawny coat mottled with black	1
+sufism.n.01	Islamic mysticism	0
+caldron.n.01	a very large pot that is used for boiling	1
+overskirt.n.01	an outer skirt worn over another skirt	1
+go-kart.n.01	a small low motor vehicle with four wheels and an open framework; used for racing	1
+pier.n.02	(architecture) a vertical supporting structure (as a portion of wall between two doors or windows)	1
+komondor.n.01	Hungarian breed of large powerful shaggy-coated white dog; used also as guard dog	1
+detente.n.01	the easing of tensions or strained relations (especially between nations)	0
+marmot.n.01	stocky coarse-furred burrowing rodent with a short bushy tail found throughout the northern hemisphere; hibernates in winter	1
+american_egret.n.01	a common egret of the genus Egretta found in America; it is a variety of the Old World white egret Casmerodius albus	1
+azo_group.n.01	the bivalent group -N=N- united to two hydrocarbon groups	0
+peace.n.03	the absence of mental stress or anxiety	0
+consomme.n.01	clear soup usually of beef or veal or chicken	1
+picket_fence.n.01	a fence made of upright pickets	1
+wolf_spider.n.01	ground spider that hunts its prey instead of using a web	1
+black_widow.n.01	venomous New World spider; the female is black with an hourglass-shaped red mark on the underside of the abdomen	1
+cardiomegaly.n.01	an abnormal enlargement of the heart	0
+curiousness.n.01	a state of active curiosity	0
+adenitis.n.01	inflammation of a gland or lymph node	0
+rachitis.n.01	inflammation of the vertebral column	0
+siamang.n.01	large black gibbon of Sumatra having the 2nd and 3rd toes partially united by a web	1
+resolution.n.08	the subsidence of swelling or other signs of inflammation (especially in a lung)	0
+solar_dish.n.01	a concave mirror that concentrates the rays of the sun; can produce high temperatures	1
+interstitial_pneumonia.n.01	chronic lung disease affecting the interstitial tissue of the lungs	0
+damage.n.02	loss of military equipment	0
+enervation.n.01	lack of vitality	0
+election.n.04	the predestination of some individuals as objects of divine mercy (especially as conceived by Calvinists)	0
+oystercatcher.n.01	black-and-white shorebird with stout legs and bill; feed on oysters etc.	1
+crane.n.04	lifts and moves heavy objects; lifting tackle is suspended from a pivoted boom that rotates around a vertical axis	1
+foot_rot.n.01	contagious degenerative infection of the feet of hoofed animals (especially cattle and sheep)	0
+american_dream.n.01	the widespread aspiration of Americans to live better than their parents did	0
+academic_gown.n.01	a gown worn by academics or judges	1
+reading.n.01	the cognitive process of understanding a written linguistic message	0
+male_bonding.n.01	the formation of a close personal relationship between men	0
+elephantiasis.n.01	hypertrophy of certain body parts (usually legs and scrotum); the end state of the disease filariasis	0
+buckle.n.01	fastener that fastens together two ends of a belt or strap; often has loose prong	1
+1850s.n.01	the decade from 1850 to 1859	0
+lab_coat.n.01	a light coat worn to protect clothing from substances used while working in a laboratory	1
+laryngitis.n.01	inflammation of the mucous membrane of the larynx; characterized by hoarseness or loss of voice and coughing	0
+madagascar_cat.n.01	small lemur having its tail barred with black	1
+bull_mastiff.n.01	large powerful breed developed by crossing the bulldog and the mastiff	1
+garbage_truck.n.01	a truck for collecting domestic refuse	1
+dhole.n.01	fierce wild dog of the forests of central and southeast Asia that hunts in packs	1
+punishment.n.01	the act of punishing	0
+red_wolf.n.01	reddish-grey wolf of southwestern North America	1
+upright.n.02	a piano with a vertical sounding board	1
+rain_barrel.n.01	a barrel used as a cistern to hold rainwater	1
+scoreboard.n.01	a large board for displaying the score of a contest (and some other information)	1
+saltshaker.n.01	a shaker with a perforated top for sprinkling salt	1
+artichoke.n.02	a thistlelike flower head with edible fleshy leaves and heart	1
+chemosis.n.01	edema of the mucous membrane of the eyeball and eyelid lining	0
+admiral.n.02	any of several brightly colored butterflies	1
+inability.n.01	lack of ability (especially mental ability) to do something	0
+1760s.n.01	the decade from 1760 to 1769	0
+stripe_blight.n.01	a disease of oats	0
+amphibian.n.01	a flat-bottomed motor vehicle that can travel on land or water	1
+remembrance.n.01	the ability to recall past occurrences	0
+airliner.n.01	a commercial airplane that carries passengers	1
+pay-phone.n.01	a coin-operated telephone	1
+inexpedience.n.01	the quality of being unsuited to the end in view	0
+bassoon.n.01	a double-reed instrument; the tenor of the oboe family	1
+irritation.n.03	(pathology) abnormal sensitivity to stimulation	0
+maillot.n.01	a woman's one-piece bathing suit	1
+pacifism.n.02	the belief that all international disputes can be settled by arbitration	0
+hartebeest.n.01	a large African antelope with lyre-shaped horns that curve backward	1
+free_will.n.01	the power of making free choices unconstrained by external agencies	0
+china_cabinet.n.01	a cabinet (usually with glass doors) for storing and displaying china	1
+black_rot.n.01	a fungous disease causing darkening and decay of the leaves of fruits and vegetables	0
+hamper.n.02	a basket usually with a cover	1
+tuberculoid_leprosy.n.01	leprosy characterized by tumors in the skin and cutaneous nerves	0
+fire_screen.n.01	a metal screen before an open fire for protection (especially against flying sparks)	1
+lotion.n.01	any of various cosmetic preparations that are applied to the skin	1
+islamophobia.n.01	prejudice against Muslims	0
+stingray.n.01	large venomous ray with large barbed spines near the base of a thin whiplike tail capable of inflicting severe wounds	1
+lithiasis.n.01	the formation of stones (calculi) in an internal organ	0
+mousetrap.n.01	a trap for catching mice	1
+organic_chemistry.n.01	the chemistry of compounds containing carbon (originally defined as the chemistry of substances produced by living organisms but now extended to substances synthesized artificially)	0
+ambulance.n.01	a vehicle that takes people to and from hospitals	1
+agrobacterium_tumefaciens.n.01	the bacteria that produce crown gall disease in plants	0
+forestry.n.01	the science of planting and caring for forests and the management of growing timber	0
+bernese_mountain_dog.n.01	large powerful long-haired black-coated Swiss dog with deep tan or russet markings on legs and white blaze and feet and chest marking; formerly used for draft	1
+enterolithiasis.n.01	the presence of calculi in the intestines	0
+parallel_bars.n.01	gymnastic apparatus consisting of two parallel wooden rods supported on uprights	1
+redshank.n.01	a common Old World wading bird with long red legs	1
+imperfectibility.n.01	the capability of becoming imperfect	0
+matter.n.05	(used with negation) having consequence	0
+refusal.n.01	the act of refusing	0
+hangover.n.01	disagreeable aftereffects from the use of drugs (especially alcohol)	0
+mellowness.n.05	geniality, as through the effects of alcohol or marijuana	0
+compassion.n.01	a deep awareness of and sympathy for another's suffering	0
+originality.n.01	the ability to think and act independently	0
+racer.n.02	a fast car that competes in races	1
+water_snake.n.01	any of various mostly harmless snakes that live in or near water	1
+volleyball.n.02	an inflated ball used in playing volleyball	1
+discord.n.02	disagreement among those expected to cooperate	0
+hiring_freeze.n.01	a freeze on hiring	0
+tractor.n.02	a truck that has a cab but no body; used for pulling large trailers or vans	1
+fern_genus.n.01	genera of ferns and fern allies	0
+agrobiology.n.01	the study of plant nutrition and growth especially as a way to increase crop yield	0
+bouvier_des_flandres.n.01	rough-coated breed used originally in Belgium for herding and guarding cattle	1
+lion.n.01	large gregarious predatory feline of Africa and India having a tawny coat with a shaggy mane in the male	1
+viceroyship.n.01	the position of viceroy	0
+miniature_pinscher.n.01	small German version of a Doberman pinscher	1
+insight.n.03	the clear (and often sudden) understanding of a complex situation	0
+tomato_blight.n.01	a disease of tomato plants	0
+volvulus.n.01	abnormal twisting of the intestines (usually in the area of the ileum or sigmoid colon) resulting in intestinal obstruction	0
+shopping_basket.n.01	a handbasket used to carry goods while shopping	1
+water_ouzel.n.01	small stocky diving bird without webbed feet; frequents fast-flowing streams and feeds along the bottom	1
+hoydenism.n.01	masculinity in women (especially in girls and young women)	0
+acute_hemorrhagic_encephalitis.n.01	encephalitis that resembles apoplexy due to blood extravasation	0
+entertainment_center.n.01	a wall unit containing sound and television systems	1
+birdhouse.n.01	a shelter for birds	1
+fruitlessness.n.01	a lack of creative imagination	0
+face_powder.n.01	cosmetic powder for the face	1
+black_and_gold_garden_spider.n.01	a widely distributed North American garden spider	1
+oil_conservation.n.01	the conservation of petroleum resources	0
+reaction.n.06	extreme conservatism in political or social matters	0
+otter.n.01	the fur of an otter	1
+playfulness.n.02	a disposition to find (or make) causes for amusement	0
+lemon.n.01	yellow oval fruit with juicy acidic flesh	1
+grille.n.02	grating that admits cooling air to car's radiator	1
+siberian_husky.n.01	breed of sled dog developed in northeastern Siberia; they resemble the larger Alaskan malamutes	1
+cervicitis.n.01	inflammation of the uterine cervix	0
+limousine.n.01	large luxurious car; usually driven by a chauffeur	1
+porcupine.n.01	relatively large rodents with sharp erectile bristles mingled with the fur	1
+scuba_diver.n.01	an underwater diver who uses scuba gear	1
+mastoiditis.n.01	inflammation of the mastoid	0
+arthrocentesis.n.01	removal of fluid from a joint by centesis	0
+langur.n.01	slender long-tailed monkey of Asia	1
+motivation.n.02	the condition of being motivated	0
+microwave.n.02	kitchen appliance that cooks food by passing an electromagnetic wave through it; heat results from the absorption of energy by the water molecules in the food	1
+ski.n.01	narrow wood or metal or plastic runners used in pairs for gliding over snow	1
+hognose_snake.n.01	harmless North American snake with upturned nose; may spread its head and neck or play dead when disturbed	1
+whitehall.n.02	the British civil service	0
+erroneousness.n.01	inadvertent incorrectness	0
+jay.n.02	crested largely blue bird	1
+ibex.n.01	wild goat of mountain areas of Eurasia and northern Africa having large recurved horns	1
+attack.n.05	the act of attacking	0
+why.n.01	the cause or intention underlying an action or situation, especially in the phrase `the whys and wherefores'	0
+fatherhood.n.03	the status of a religious leader	0
+teacher-student_relation.n.01	the academic relation between teachers and their students	0
+photocopier.n.01	a copier that uses photographic methods of making copies	1
+reflex_camera.n.01	camera that allows the photographer to view and focus the exact scene being photographed	1
+censure.n.01	harsh criticism or disapproval	0
+catarrh.n.01	inflammation of the nose and throat with increased production of mucus	0
+lockout.n.01	a management action resisting employee's demands; employees are barred from entering the workplace until they agree to terms	0
+sandal.n.01	a shoe consisting of a sole fastened by straps to the foot	1
+desire.n.02	an inclination to want things	0
+tibetan_terrier.n.01	breed of medium-sized terriers bred in Tibet resembling Old English sheepdogs with fluffy curled tails	1
+baseball.n.02	a ball used in playing baseball	1
+standard_poodle.n.01	a breed or medium-sized poodles	1
+perception.n.03	the process of perceiving	0
+urbanization.n.02	the social process whereby cities grow and societies become more urban	0
+lionfish.n.01	brightly striped fish of the tropical Pacific having elongated spiny fins	1
+majority.n.03	the age at which persons are considered competent to manage their own affairs	0
+airship.n.01	a steerable self-propelled aircraft	1
+fascination.n.01	the state of being intensely interested (as by awe or terror)	0
+ischemia.n.01	local anemia in a given body part sometimes resulting from vasoconstriction or thrombosis or embolism	0
+american_lobster.n.02	lobster of Atlantic coast of America	1
+bet.n.02	the act of gambling	0
+drake.n.02	adult male of a wild or domestic duck	1
+nationalism.n.04	the doctrine that nations should act independently (rather than collectively) to attain their goals	0
+handkerchief.n.01	a square piece of cloth used for wiping the eyes or nose or as a costume accessory	1
+kraurosis.n.01	atrophy and shriveling of the skin or mucous membrane	0
+glossalgia.n.01	pain in the tongue	0
+occupation.n.02	the control of a country by military forces of a foreign power	0
+apprenticeship.n.01	the position of apprentice	0
+myelitis.n.01	inflammation of the spinal cord	0
+bolo_tie.n.01	a cord fastened around the neck with an ornamental clasp and worn as a necktie	1
+bittern.n.01	relatively small compact tawny-brown heron with nocturnal habits and a booming cry; found in marshes	1
+competence.n.01	the quality of being adequately or well qualified physically and intellectually	0
+americanism.n.01	loyalty to the United States and its institutions	0
+balanitis.n.01	inflammation of the head of the penis	0
+halo_blight.n.01	a blight affecting the leaves of oats and other grasses	0
+stump_speech.n.01	political oratory	0
+horse_cart.n.01	heavy cart; drawn by a horse; used for farm work	1
+schipperke.n.01	breed of small stocky black dogs originally used as watchdogs on boats in the Netherlands and Belgium	1
+becomingness.n.01	the quality of being becoming	0
+irreproducibility.n.01	the quality of being unreproducible	0
+pityriasis_alba.n.01	common form of pityriasis (usually in children or young adults) characterized by round patches of depigmentation	0
+light.n.12	public awareness	0
+forgetfulness.n.01	tendency to forget	0
+endarteritis.n.01	inflammation of the inner lining of an artery	0
+mobile_home.n.01	a large house trailer that can be connected to utilities and can be parked in one place and used as permanent housing	1
+disownment.n.01	refusal to acknowledge as one's own	0
+suspension_bridge.n.01	a bridge that has a roadway supported by cables that are anchored at both ends	1
+golf_ball.n.01	a small hard ball used in playing golf; dimpled to reduce wind resistance	1
+ipod.n.01	(trademark) a pocket-sized device used to play music files	1
+ox.n.01	an adult castrated bull of the genus Bos; especially Bos taurus	1
+oneiromancy.n.01	divination through the interpretation of dreams	0
+white_wolf.n.01	wolf of Arctic North America having white fur and a black-tipped tail	1
+philosophy.n.02	the rational investigation of questions about existence and knowledge and ethics	0
+exhaustion.n.01	extreme fatigue	0
+spiny_lobster.n.02	large edible marine crustacean having a spiny carapace but lacking the large pincers of true lobsters	1
+water_jug.n.01	a jug that holds water	1
+toy_terrier.n.01	a small active dog	1
+quail.n.01	flesh of quail; suitable for roasting or broiling if young; otherwise must be braised	1
+worthlessness.n.02	the quality of being without practical use	0
+indiscretion.n.01	the trait of being injudicious	0
+microphone.n.01	device for converting sound waves into electrical energy	1
+osteomalacia.n.01	abnormal softening of bones caused by deficiencies of phosphorus or calcium or vitamin D	0
+nail.n.03	a former unit of length for cloth equal to 1/16 of a yard	1
+eruca.n.01	annual to perennial herbs of the Mediterranean region	0
+common_newt.n.01	small semiaquatic salamander	1
+wall_clock.n.01	a clock mounted on a wall	1
+snowmobile.n.01	tracked vehicle for travel on snow having skis in front	1
+beggary.n.02	the state of being a beggar or mendicant	0
+alp.n.01	any high mountain	1
+glossitis.n.01	inflammation of the tongue	0
+sombrero.n.02	a straw hat with a tall crown and broad brim; worn in American southwest and in Mexico	1
+ladle.n.01	a spoon-shaped vessel with a long handle; frequently used to transfer liquids from one container to another	1
+improvidence.n.01	a lack of prudence and care by someone in the management of resources	0
+scalability.n.01	the quality of being scalable	0
+solicitude.n.01	a feeling of excessive concern	0
+autarky.n.01	economic independence as a national policy	0
+b-scan_ultrasonography.n.01	the use of ultrasonography to view structure in the back of the eye	0
+bonnet.n.01	a hat tied under the chin	1
+fountain_pen.n.01	a pen that is supplied with ink from a reservoir in its barrel	1
+rocking_chair.n.01	a chair mounted on rockers	1
+radiculitis.n.01	inflammation of the radicle of a nerve	0
+fireboat.n.01	a boat equipped to fight fires on ships or along a waterfront	1
+rock_beauty.n.01	gold and black butterflyfish found from West Indies to Brazil	1
+melancholy.n.02	a constitutional tendency to be gloomy and depressed	0
+citizenship.n.01	the status of a citizen with rights and duties	0
+incapacity.n.01	lack of intellectual power	0
+twenties.n.02	the decade from 1920 to 1929	0
+fatherhood.n.04	the status of a father	0
+dichromacy.n.01	a deficiency of color vision in which the person can match any given hue by mixing only two other wavelengths of light (as opposed to the three wavelengths needed by people with normal color vision)	0
+singleness.n.02	the quality of concentrating on one central objective	0
+padlock.n.01	a detachable lock; has a hinged shackle that can be passed through the staple of a hasp or the links in a chain and then snapped shut	1
+sporotrichosis.n.01	a chronic fungal infection of the skin and lymph nodes	0
+bank_failure.n.01	the inability of a bank to meet its credit obligations	0
+intravenous_injection.n.01	an injection into a vein	0
+hypophysectomy.n.01	surgical removal of the pituitary gland	0
+temptation.n.02	the desire to have or do something that you know you should avoid	0
+heliobacter_pylori.n.01	the type species of genus Heliobacter; produces urease and is associated with several gastroduodenal diseases (including gastritis and gastric ulcers and duodenal ulcers and other peptic ulcers)	0
+discomfort.n.01	the state of being tense and feeling pain	0
+immorality.n.01	the quality of not being in accord with standards of right or good conduct	0
+glandular_disease.n.01	a disorder of the glands of the body	0
+refrigerator.n.01	white goods in which food can be stored at low temperatures	1
+stone.n.13	a lack of feeling or expression or movement	0
+workaholism.n.01	compulsiveness about working	0
+yellow_lady's_slipper.n.01	maroon to purple-brown orchid with yellow lip; Europe, North America and Japan	1
+seventies.n.01	the decade from 1970 to 1979	0
+sports_car.n.01	a small low car with a high-powered engine; usually seats two persons	1
+spotted_salamander.n.01	glossy black North American salamander with yellow spots	1
+emphasis.n.03	special and significant stress by means of position or repetition e.g.	0
+comic_book.n.01	a magazine devoted to comic strips	1
+retardation.n.04	lack of normal development of intellectual capacities	0
+cliff_dwelling.n.01	a rock and adobe dwelling built on sheltered ledges in the sides of a cliff	1
+drumstick.n.01	the lower joint of the leg of a fowl	1
+slug.n.02	a unit of mass equal to the mass that accelerates at 1 foot/sec/sec when acted upon by a force of 1 pound; approximately 14.5939 kilograms	1
+keeshond.n.01	a spitz-like dog having a shaggy greyish coat and tightly curled tail originating in Holland	1
+fidelity.n.02	the quality of being faithful	0
+mosaic.n.02	viral disease in solanaceous plants (tomatoes, potatoes, tobacco) resulting in mottling and often shriveling of the leaves	0
+plunger.n.03	hand tool consisting of a stick with a rubber suction cup at one end; used to clean clogged drains	1
+alveolar_ectasia.n.01	abnormal enlargement of the air sacs in the lungs	0
+iron.n.04	home appliance consisting of a flat metal base that is heated and used to smooth cloth	1
+conservation.n.02	the preservation and careful management of the environment and of natural resources	0
+paralytic_abasia.n.01	abasia related to paralysis of the leg muscles	0
+sanction.n.01	formal and explicit approval	0
+absolutism.n.04	the doctrine of an absolute being	0
+shovel.n.03	a fire iron consisting of a small shovel used to scoop coals or ashes in a fireplace	1
+excitement.n.02	the state of being emotionally aroused and worked up	0
+tank.n.01	an enclosed armored military vehicle; has a cannon and moves on caterpillar treads	1
+disorder.n.03	a disturbance of the peace or of public order	0
+wing.n.06	a hockey player stationed in a forward position on either side	1
+error.n.03	a misconception resulting from incorrect information	0
+lorikeet.n.01	any of various small lories	1
+pot.n.04	a container in which plants are cultivated	1
+bobsled.n.02	a long racing sled (for 2 or more people) with a steering mechanism	1
+phlebitis.n.01	inflammation of a vein (usually in the legs)	0
+paper_towel.n.01	a disposable towel made of absorbent paper	1
+tub.n.02	a large open vessel for holding or storing liquids	1
+hotdog.n.02	a frankfurter served hot on a bun	1
+dishonesty.n.01	the quality of being dishonest	0
+miniature_schnauzer.n.01	a small schnauzer	1
+platypus.n.01	small densely furred aquatic monotreme of Australia and Tasmania having a broad bill and tail and webbed feet; only species in the family Ornithorhynchidae	1
+protology.n.01	the study of origins and first things	0
+finance.n.03	the management of money and credit and banking and investments	0
+cock.n.05	adult male bird	1
+pelican.n.01	large long-winged warm-water seabird having a large bill with a distensible pouch for fish	1
+suspense.n.02	an uncertain cognitive state	0
+mine_disposal.n.01	the disposal of explosive mines	0
+milk_leg.n.01	painful thrombosis of the femoral vein in the leg following childbirth	0
+cleaver.n.01	a butcher's knife having a large square blade	1
+dearth.n.01	an acute insufficiency	0
+aloneness.n.01	a disposition toward being alone	0
+horned_viper.n.01	highly venomous viper of northern Africa and southwestern Asia having a horny spine above each eye	1
+centipede.n.01	chiefly nocturnal predacious arthropod having a flattened body of 15 to 173 segments each with a pair of legs, the foremost pair being modified as prehensors	1
+hematocytopenia.n.01	an abnormally low number of red blood cells in the blood	0
+carbonara.n.01	sauce for pasta; contains eggs and bacon or ham and grated cheese	1
+vizsla.n.01	Hungarian hunting dog resembling the Weimaraner but having a rich deep red coat	1
+interstellar_space.n.01	the space between stars	0
+disability.n.01	the condition of being unable to perform as a consequence of physical or mental unfitness	0
+lymphangiectasia.n.01	dilatation of a lymph vessel	0
+aggression.n.01	a disposition to behave aggressively	0
+black-and-tan_coonhound.n.01	American breed of large powerful hound dogs used for hunting raccoons and other game	1
+macaque.n.01	short-tailed monkey of rocky regions of Asia and Africa	1
+radio_telescope.n.01	astronomical telescope that picks up electromagnetic radiations in the radio-frequency range from extraterrestrial sources	1
+antiquity.n.01	the historic period preceding the Middle Ages in Europe	0
+misocainea.n.01	hatred of new ideas	0
+pop_bottle.n.01	a bottle for holding soft drinks	1
+sleep_disorder.n.01	a disturbance of the normal sleep pattern	0
+stole.n.01	a wide scarf worn about their shoulders by women	1
+aphrodisia.n.01	a desire for heterosexual intimacy	0
+electric_guitar.n.01	a guitar whose sound is amplified by electrical means	1
+trombone.n.01	a brass instrument consisting of a long tube whose length can be varied by a U-shaped slide	1
+plate_rack.n.01	a rack for holding plates to dry after they have been washed	1
+irish_wolfhound.n.01	large breed of hound with a rough thick coat	1
+border_terrier.n.01	small rough-coated terrier of British origin	1
+aortitis.n.01	inflammation of the aorta	0
+accretion.n.01	an increase by natural growth or addition	0
+mordacity.n.01	a disposition to biting	0
+colpitis.n.01	inflammation of the vagina	0
+wreck.n.01	something or someone that has suffered ruin or dilapidation	1
+costochondritis.n.01	inflammation at the junction of a rib and its cartilage	0
+wildness.n.01	a feeling of extreme emotional intensity	0
+steel_arch_bridge.n.01	a steel bridge constructed in the form of an arch	1
+barber_chair.n.01	a large fixed adjustable chair in which barbers seat their customers	1
+space_shuttle.n.01	a reusable spacecraft with wings for a controlled descent through the Earth's atmosphere	1
+efficiency.n.02	skillfulness in avoiding wasted time and effort	0
+irish_setter.n.01	an Irish breed with a chestnut-brown or mahogany-red coat	1
+telegnosis.n.01	apparent knowledge of distant events without using sensory perceptions	0
+bighorn.n.02	wild sheep of mountainous regions of western North America having massive curled horns	1
+antipodal.n.01	the relation of opposition along a diameter	0
+insecurity.n.01	the state of being subject to danger or injury	0
+indian_elephant.n.01	Asian elephant having smaller ears and tusks primarily in the male	1
+pickup.n.01	a light truck with an open body and low sides and a tailboard	1
+epigraphy.n.01	the study of ancient inscriptions	0
+racket.n.04	a sports implement (usually consisting of a handle and an oval frame with a tightly interlaced network of strings) used to strike a ball (or shuttlecock) in various games	1
+staffordshire_bullterrier.n.01	English breed of strong stocky dog having a broad skull and smooth coat	1
+thyroiditis.n.01	inflammation of the thyroid gland	0
+honeycomb.n.01	a structure of small hexagonal cells constructed from beeswax by bees and used to store honey and larvae	1
+pencil_sharpener.n.01	a rotary implement for sharpening the point on pencils	1
+bedlington_terrier.n.01	a light terrier groomed to resemble a lamb	1
+thresher.n.01	a farm machine for separating seeds or grain from the husks and straw	1
+individualism.n.02	a belief in the importance of the individual and the virtue of self-reliance and personal independence	0
+coil.n.01	a structure consisting of something wound in a continuous series of loops	1
+cheetah.n.01	long-legged spotted cat of Africa and southwestern Asia having nonretractile claws; the swiftest mammal; can be trained to run down game	1
+american_staffordshire_terrier.n.01	American breed of muscular terriers with a short close-lying stiff coat	1
+eggnog.n.01	a punch made of sweetened milk or cream mixed with eggs and usually alcoholic liquor	1
+thrombophlebitis.n.01	phlebitis in conjunction with the formation of a blood clot (thrombus)	0
+supplementation.n.02	the act of supplementing	0
+pinkness.n.01	the quality of being pink	0
+totality.n.02	the quality of being complete and indiscriminate	0
+vault.n.03	an arched brick or stone ceiling or roof	1
+beaver.n.03	a full beard	1
+freedom_of_thought.n.01	the right to hold unpopular ideas	0
+envelope.n.03	a curve that is tangent to each of a family of curves	1
+savoir-faire.n.01	social skill	0
+sidewinder.n.01	small pale-colored desert rattlesnake of southwestern United States; body moves in an s-shaped curve	1
+epanorthosis.n.01	immediate rephrasing for intensification or justification	0
+reel.n.02	music composed for dancing a reel	1
+harp.n.02	a pair of curved vertical supports for a lampshade	1
+miniature_poodle.n.01	a breed of small poodles	1
+hammerhead.n.03	medium-sized live-bearing shark with eyes at either end of a flattened hammer-shaped head; worldwide in warm waters; can be dangerous	1
+brain_drain.n.01	depletion or loss of intellectual and technical personnel	0
+sensuality.n.01	desire for sensual pleasures	0
+inexperience.n.01	lack of experience and the knowledge and understanding derived from experience	0
+black_stork.n.01	Old World stork that is glossy black above and white below	1
+size_constancy.n.01	the tendency to perceive the veridical size of a familiar object despite differences in their distance (and consequent differences in the size of the pattern projected on the retina of the eye)	0
+rifle.n.01	a shoulder firearm with a long barrel and a rifled bore	1
+apostasy.n.01	the state of having rejected your religious beliefs or your political party or a cause (often in favor of opposing beliefs or causes)	0
+irish_terrier.n.01	medium-sized breed with a wiry brown coat; developed in Ireland	1
+remote_control.n.01	a device that can be used to control a machine or apparatus from a distance	1
+non-discrimination.n.01	fairness in treating people without prejudice	0
+pku_test.n.01	a test of newborn infants for phenylketonuria	0
+typewriter_keyboard.n.01	a keyboard for manually entering characters to be printed	1
+vase.n.01	an open jar of glass or porcelain used as an ornament or to hold flowers	1
+service_cutback.n.01	the act of reducing service	0
+stargazing.n.01	observation of the stars	0
+brabancon_griffon.n.01	a variety of Brussels griffon having a short smooth coat	1
+flatworm.n.01	parasitic or free-living worms having a flattened body	1
+covetousness.n.01	an envious eagerness to possess something	0
+stupidity.n.01	a poor ability to understand or to profit from experience	0
+flat-coated_retriever.n.01	an English breed having a shiny black or liver-colored coat; retrieves game from land or water	1
+chestnut_blight.n.01	a disease of American chestnut trees	0
+lhasa.n.02	a breed of terrier having a long heavy coat raised in Tibet as watchdogs	1
+favoritism.n.01	an inclination to favor some person or group	0
+deliberation.n.05	the trait of thoughtfulness in action or decision	0
+pansinusitis.n.01	inflammation of all of the paranasal sinuses	0
+ritualism.n.01	the study of religious or magical rites and ceremonies	0
+bed-wetting.n.01	enuresis during sleep; especially common in children (who usually outgrow it)	0
+anemone_fish.n.01	live associated with sea anemones	1
+equal_opportunity.n.01	the right to equivalent opportunities for employment regardless of race or color or sex or national origin	0
+file.n.03	office furniture consisting of a container for keeping papers in order	1
+grasshopper.n.01	terrestrial plant-eating insect with hind legs adapted for leaping	1
+soup_bowl.n.01	a bowl for serving soup	1
+restfulness.n.01	the attribute of being restful	0
+vitrification.n.02	the process of becoming vitreous	0
+snowplow.n.01	a vehicle used to push snow from roads	1
+photosensitivity.n.01	sensitivity to the action of radiant energy	0
+1820s.n.01	the decade from 1820 to 1829	0
+sock.n.01	hosiery consisting of a cloth covering for the foot; worn inside the shoe; reaches to between the ankle and the knee	1
+guillotine.n.02	instrument of execution that consists of a weighted blade between two vertical poles; used for beheading people	1
+gall.n.03	abnormal swelling of plant tissue caused by insects or microorganisms or injury	0
+anhidrosis.n.01	failure of the sweat glands	0
+jack-o'-lantern.n.02	lantern carved from a pumpkin	1
+jaguar.n.01	a large spotted feline of tropical America similar to the leopard; in some classifications considered a member of the genus Felis	1
+basketball.n.02	an inflated ball used in playing basketball	1
+box_turtle.n.01	chiefly terrestrial turtle of North America; shell can be closed tightly	1
+warp.n.03	a moral or mental distortion	0
+jealousy.n.02	zealous vigilance	0
+decoction.n.01	(pharmacology) the extraction of water-soluble drug substances by boiling	0
+giant_schnauzer.n.01	a large schnauzer	1
+fig.n.04	fleshy sweet pear-shaped yellowish or purple multiple fruit eaten fresh or preserved or dried	1
+prayer_rug.n.01	a small rug used by Muslims during their devotions	1
+kyphosis.n.01	an abnormal backward curve to the vertebral column	0
+melody.n.02	the perception of pleasant arrangements of musical notes	0
+submarine.n.01	a submersible warship usually armed with torpedoes	1
+damselfly.n.01	slender non-stinging insect similar to but smaller than the dragonfly but having wings folded when at rest	1
+stone_wall.n.01	a fence built of rough stones; used to separate fields	1
+running_shoe.n.01	a light comfortable shoe designed for running	1
+medicine_chest.n.01	cabinet that holds medicines and toiletries	1
+panencephalitis.n.01	diffuse inflammation of the entire brain	0
+simplicity.n.03	absence of affectation or pretense	0
+rock_crab.n.01	crab of eastern coast of North America	1
+monastery.n.01	the residence of a religious community	1
+geopolitics.n.01	the study of the effects of economic geography on the powers of the state	0
+labor_pain.n.01	pain and discomfort associated with contractions of the uterus during labor	0
+inaction.n.01	the state of being inactive	0
+recompense.n.02	the act of compensating for service or loss or injury	0
+hammer.n.05	a heavy metal sphere attached to a flexible wire; used in the hammer throw	1
+streetcar.n.01	a wheeled vehicle that runs on rails and is propelled by electricity	1
+double_pneumonia.n.01	lobar pneumonia involving both lungs	0
+motor_scooter.n.01	a wheeled vehicle with small wheels and a low-powered gasoline engine geared to the rear wheel	1
+west_highland_white_terrier.n.01	small white long-coated terrier developed in Scotland	1
+gila_monster.n.01	large orange and black lizard of southwestern United States; not dangerous unless molested	1
+stapedectomy.n.01	surgical removal of the stapes of the middle ear	0
+sax.n.02	a single-reed woodwind with a conical bore	1
+pyelitis.n.01	inflammation of the renal pelvis	0
+paleogeography.n.01	the study of the geography of ancient times or ancient epochs	0
+laparocele.n.01	hernia through the abdomen	0
+can_opener.n.01	a device for cutting cans open	1
+brain_coral.n.01	massive reef-building coral having a convoluted and furrowed surface	1
+low_blow.n.01	unscrupulous abuse	0
+bookcase.n.01	a piece of furniture with shelves for storing books	1
+bow.n.08	a decorative interlacing of ribbons	1
+damnation.n.01	the act of damning	0
+glossoptosis.n.01	abnormal downward or back placement of the tongue	0
+keratomycosis.n.01	fungal infection of the cornea	0
+congestion.n.02	excessive crowding	0
+plasmacytoma.n.01	neoplasm of plasma cells (usually in bone marrow)	0
+cello.n.01	a large stringed instrument; seated player holds it upright while playing	1
+window_shade.n.01	an opaque window blind that can cover or uncover a window	1
+harmonica.n.01	a small rectangular free-reed instrument having a row of free reeds set back in air holes and played by blowing into the desired hole	1
+algebra.n.01	the mathematics of generalized arithmetical operations	0
+cellularity.n.01	the state of having cells	0
+ladybug.n.01	small round bright-colored and spotted beetle that usually feeds on aphids and other insect pests	1
+wok.n.01	pan with a convex bottom; used for frying in Chinese cooking	1
+sweatshirt.n.01	cotton knit pullover with long sleeves worn during athletic activity	1
+incomprehension.n.01	an inability to understand	0
+car_wheel.n.01	a wheel that has a tire and rim and hubcap; used to propel the car	1
+bulbul.n.01	nightingale spoken of in Persian poetry	1
+basset.n.01	smooth-haired breed of hound with short legs and long ears	1
+meralgia.n.01	pain in the thigh	0
+trailer_truck.n.01	a truck consisting of a tractor and trailer together	1
+apiary.n.01	a shed containing a number of beehives	1
+pill_bottle.n.01	a small bottle for holding pills	1
+jersey.n.03	a close-fitting pullover shirt	1
+butcher_shop.n.01	a shop in which meat and poultry (and sometimes fish) are sold	1
+maltese_dog.n.01	breed of toy dogs having a long straight silky white coat	1
+uvulitis.n.01	inflammation of the uvula	0
+arteriolosclerosis.n.01	sclerosis of the arterioles	0
+unrighteousness.n.01	failure to adhere to moral principles	0
+competitiveness.n.01	an aggressive willingness to compete	0
+potpie.n.01	deep-dish meat and vegetable pie or a meat stew with dumplings	1
+commensalism.n.01	the relation between two different kinds of organisms when one receives benefits from the other without damaging it	0
+planetarium.n.01	a building housing an instrument for projecting the positions of the planets onto a domed ceiling	1
+hyalinization.n.01	the state of being hyaline or having become hyaline	0
+mink.n.01	the expensive fur of a mink	1
+desktop_computer.n.01	a personal computer small enough to fit conveniently in an individual workspace	1
+illiteracy.n.02	an inability to read	0
+protest.n.01	a formal and solemn declaration of objection	0
+hog.n.03	domestic swine	1
+lynch_law.n.01	the practice of punishing people by hanging without due process of law	0
+drum.n.01	a musical percussion instrument; usually consists of a hollow cylinder with a membrane stretched across each end	1
+spinal_curvature.n.01	an abnormal curvature of the vertebral column	0
+balanoposthitis.n.01	inflammation of both the head of the penis and the foreskin	0
+right_to_liberty.n.01	the right to be free	0
+inattentiveness.n.01	a lack of attentiveness (as to children or helpless people)	0
+emasculation.n.01	loss of power and masculinity	0
+chesapeake_bay_retriever.n.01	American breed having a short thick oily coat ranging from brown to light tan	1
+screwup.n.01	the complete mismanagement or mishandling of a situation	0
+bubble.n.01	a hollow globule of gas (e.g., air or carbon dioxide)	1
+ochronosis.n.01	an accumulation of dark pigment in cartilage and other connective tissue; usually a symptom of alkaptonuria or phenol poisoning	0
+hand-held_computer.n.01	a portable battery-powered computer small enough to be carried in your pocket	1
+sturgeon.n.01	large primitive fishes valued for their flesh and roe; widely distributed in the North Temperate Zone	1
+anti-semitism.n.01	the intense dislike for and prejudice against Jewish people	0
+unhelpfulness.n.01	an inability to be helpful	0
+inhomogeneity.n.01	the quality of being inhomogeneous	0
+fountain.n.01	a structure from which an artificially produced jet of water arises	1
+cougar.n.01	large American feline resembling a lion	1
+plane.n.05	a carpenter's hand tool with an adjustable blade for smoothing or shaping wood	1
+yawl.n.01	a ship's small boat (usually rowed by 4 or 6 oars)	1
+cardigan.n.01	knitted jacket that is fastened up the front with buttons or a zipper	1
+thrombocytopenic_purpura.n.01	purpura associated with a reduction in circulating blood platelets which can result from a variety of factors	0
+deployment.n.01	the distribution of forces in preparation for battle or work	0
+plastering.n.01	the application of plaster	0
+apron.n.02	(golf) the part of the fairway leading onto the green	1
+potter's_wheel.n.01	a horizontal rotating wheel holding the clay being shaped by a potter	1
+cellular_telephone.n.01	a hand-held mobile radiotelephone for use in an area divided into small sections, each with its own short-range transmitter/receiver	1
+giant_panda.n.01	large black-and-white herbivorous mammal of bamboo forests of China and Tibet; in some classifications considered a member of the bear family or of a separate family Ailuropodidae	1
+vacuum.n.04	an electrical home appliance that cleans by suction	1
+gordon_setter.n.01	a Scottish breed with a black-and-tan coat	1
+borzoi.n.01	tall fast-moving dog breed	1
+llama.n.01	wild or domesticated South American cud-chewing animal related to camels but smaller and lacking a hump	1
+matchstick.n.01	a short thin stick of wood used in making matches	1
+radio.n.03	a communication system based on broadcasting electromagnetic waves	1
+lower_criticism.n.01	the study of existing manuscripts of the Scriptures in order to determine the original text	0
+insufficiency.n.01	a lack of competence	0
+disrespect.n.02	a disrespectful mental attitude	0
+goblet.n.01	a drinking glass with a base and stem	1
+komodo_dragon.n.01	the largest lizard in the world (10 feet); found on Indonesian islands	1
+perineotomy.n.01	surgical incision into the perineum	0
+simplicity.n.02	a lack of penetration or subtlety	0
+boxer.n.04	a breed of stocky medium-sized short-haired dog with a brindled coat and square-jawed muzzle developed in Germany	1
+perversity.n.02	deliberately deviating from what is good	0
+letters.n.02	scholarly attainment	0
+ice_bear.n.01	white bear of Arctic regions	1
+suffragism.n.01	the belief that the right to vote should be extended (as to women)	0
+hardening.n.01	abnormal hardening or thickening of tissue	0
+great_grey_owl.n.01	large dish-faced owl of northern North America and western Eurasia	1
+sulk.n.01	a mood or display of sullen aloofness or withdrawal	0
+villainy.n.01	the quality of evil by virtue of villainous behavior	0
+liner.n.04	a large commercial ship (especially one that carries passengers on a regular schedule)	1
+pillow.n.01	a cushion to support the head of a sleeping person	1
+printer.n.02	(computer science) an output device that prints the results of data processing	1
+private_practice.n.01	the practice of a profession independently and not as an employee	0
+weevil.n.01	any of several families of mostly small beetles that feed on plants and plant products; especially snout beetles and seed beetles	1
+caffein_addiction.n.01	an addiction to caffein	0
+clampdown.n.01	sudden restriction on an activity	0
+unbelief.n.01	a rejection of belief	0
+sea_anemone.n.01	marine polyps that resemble flowers but have oral rings of tentacles; differ from corals in forming no hard skeleton	1
+power_drill.n.01	a power tool for drilling holes into hard materials	1
+perfume.n.02	a toiletry that emits and diffuses a fragrant odor	1
+vesiculitis.n.01	inflammation of a seminal vesicle (usually in conjunction with prostatitis)	0
+inadmissibility.n.01	unacceptability as a consequence of not being admissible	0
+reversal.n.04	a decision to reverse an earlier decision	0
+anemia.n.01	a deficiency of red blood cells	0
+wisdom.n.04	the quality of being prudent and sensible	0
+water_bottle.n.01	a bottle for holding water	1
+anguish.n.01	extreme mental distress	0
+welsh_springer_spaniel.n.01	a red-and-white breed slightly smaller than the English springer spaniel	1
+snail.n.01	freshwater or marine or terrestrial gastropod mollusk usually having an external enclosing spiral shell	1
+offensiveness.n.01	the quality of being offensive	0
+electric_ray.n.01	any sluggish bottom-dwelling ray of the order Torpediniformes having a rounded body and electric organs on each side of the head capable of emitting strong electric discharges	1
+macaw.n.01	long-tailed brilliantly colored parrot of Central America and South America; among the largest and showiest of parrots	1
+slowness.n.02	a rate demonstrating an absence of haste or hurry	0
+vestment.n.01	gown (especially ceremonial garments) worn by the clergy	1
+intramuscular_injection.n.01	an injection into a muscle	0
+cabbage_butterfly.n.01	white butterfly whose larvae (cabbageworms) feed on cabbage	1
+maillot.n.02	tights for dancers or gymnasts	1
+american_chameleon.n.01	small arboreal tropical American insectivorous lizards with the ability to change skin color	1
+tiger_shark.n.01	large dangerous warm-water shark with striped or spotted body	1
+aortic_aneurysm.n.01	an aneurysm of the aorta	0
+tunnel_vision.n.01	visual impairment involving a loss of peripheral vision	0
+celiocentesis.n.01	removal of fluid from the abdomen by centesis	0
+rubber_eraser.n.01	an eraser made of rubber (or of a synthetic material with properties similar to rubber); commonly mounted at one end of a pencil	1
+monostotic_fibrous_dysplasia.n.01	fibrous dysplasia of bone confined to a single bone	0
+liberality.n.01	an inclination to favor progress and individual freedom	0
+unpredictability.n.03	lacking predictability	0
+shakiness.n.02	the quality of being unstable and insecure	0
+hare.n.01	swift timid long-eared mammal larger than a rabbit having a divided upper lip and long hind legs; young born furred and with open eyes	1
+paddlewheel.n.01	a large wheel fitted with paddles and driven by an engine in order to propel a boat	1
+diverticulitis.n.01	inflammation of a diverticulum in the digestive tract (especially the colon); characterized by painful abdominal cramping and fever and constipation	0
+soccer_ball.n.01	an inflated ball used in playing soccer	1
+crayfish.n.03	small freshwater decapod crustacean that resembles a lobster	1
+festering.n.01	(medicine) the formation of morbific matter in an abscess or a vesicle and the discharge of pus	0
+cocaine_addiction.n.01	an addiction to cocaine	0
+embolism.n.02	occlusion of a blood vessel by an embolus (a loose clot or air bubble or other particle)	0
+panpipe.n.01	a primitive wind instrument consisting of several parallel pipes bound together	1
+shrinking.n.02	the act of becoming less	0
+bakery.n.01	a workplace where baked goods (breads and cakes and pastries) are produced or sold	1
+disunity.n.01	lack of unity (usually resulting from dissension)	0
+shield.n.02	armor carried on the arm to intercept blows	1
+mercifulness.n.02	a disposition to be kind and forgiving	0
+monarchism.n.01	a belief in and advocacy of monarchy as a political system	0
+european_gallinule.n.01	purple gallinule of southern Europe	1
+starfish.n.01	echinoderms characterized by five arms extending from a central disk	1
+bionics.n.01	application of biological principles to the study and design of engineering systems (especially electronic systems)	0
+discontentment.n.01	a longing for something better than the present situation	0
+barn.n.01	an outlying farm building for storing grain or animal feed and housing farm animals	1
+menarche.n.01	the first occurrence of menstruation in a woman	0
+dock.n.05	landing in a harbor next to a pier where ships are loaded and unloaded or repaired; may have gates to let water in or out	1
+mexican_hairless.n.01	any of an old breed of small nearly hairless dogs of Mexico	1
+environmentalism.n.02	the activity of protecting the environment from pollution or destruction	0
+indebtedness.n.01	an obligation to pay money to another party	0
+sorrel.n.05	a horse of a brownish orange to light brown color	1
+crash_helmet.n.01	a padded helmet worn by people riding bicycles or motorcycles; protects the head in case of accidents	1
+torpor.n.01	a state of motor and mental inactivity with a partial suspension of sensibility	0
+bustard.n.01	large heavy-bodied chiefly terrestrial game bird capable of powerful swift flight; classified with wading birds but frequents grassy steppes	1
+cocktail_shaker.n.01	a shaker for mixing cocktails	1
+indri.n.01	large short-tailed lemur of Madagascar having thick silky fur in black and white and fawn	1
+stage.n.07	any scene regarded as a setting for exhibiting or doing something	1
+standard_schnauzer.n.01	a medium-sized schnauzer	1
+laxness.n.02	the condition of being physiologically lax	0
+sparganiaceae.n.01	coextensive with the genus Sparganium	0
+hebetude.n.01	mental lethargy or dullness	0
+indiscipline.n.01	the trait of lacking discipline	0
+polyarteritis.n.01	inflammation of several arteries	0
+impeachability.n.01	the state of being liable to impeachment	0
+insecureness.n.01	the state of being exposed to risk or anxiety	0
+bassinet.n.02	a perambulator that resembles a bassinet	1
+clumber.n.01	a thickset spaniel with longish silky hair	1
+anorexia.n.01	a prolonged disorder of eating due to loss of appetite	0
+decline.n.02	a condition inferior to an earlier condition; a gradual falling off from a better state	0
+pay_cut.n.01	the act of reducing a salary	0
+flamingo.n.01	large pink to scarlet web-footed wading bird with down-bent bill; inhabits brackish lakes	1
+weimaraner.n.01	large breed of hound having a smooth greyish coat; originated in Germany	1
+hair_slide.n.01	a decorative hinged clip that girls and women put in their hair to hold it in place	1
+water_on_the_knee.n.01	hydrarthrosis affecting the knee	0
+green_mamba.n.01	green phase of the black mamba	1
+hourglass.n.01	a sandglass that runs for sixty minutes	1
+cash_machine.n.01	an unattended machine (outside some banks) that dispenses money when a personal coded card is used	1
+arabian_camel.n.01	one-humped camel of the hot deserts of northern Africa and southwestern Asia	1
+unwillingness.n.01	the trait of being unwilling	0
+hay.n.01	grass mowed and cured for use as fodder	1
+shoji.n.01	a translucent screen made of a wooden frame covered with rice paper	1
+scale.n.07	a measuring instrument for weighing; shows amount of mass	1
+hummingbird.n.01	tiny American bird having brilliant iridescent plumage and long slender bills; wings are specialized for vibrating flight	1
+lens_cap.n.01	cap used to keep lens free of dust when not in use	1
+haziness.n.01	vagueness attributable to being not clearly defined	0
+loupe.n.01	small magnifying glass (usually set in an eyepiece) used by jewelers and horologists	1
+feather_boa.n.01	a long thin fluffy scarf of feathers or fur	1
+hobbyism.n.01	a devotion to hobbies	0
+1780s.n.01	the decade from 1780 to 1789	0
+jejunitis.n.01	inflammation of the jejunum of the small intestine	0
+chickadee.n.01	any of various small grey-and-black songbirds of North America	1
+football_helmet.n.01	a padded helmet with a face mask to protect the head of football players	1
+wild_boar.n.01	Old World wild swine having a narrow body and prominent tusks from which most domestic swine come; introduced in United States	1
+hematocolpometra.n.01	accumulation of blood in the vagina and uterus	0
+hook.n.04	a mechanical device that is curved or bent to suspend or hold or pull something	1
+hang-up.n.01	an emotional preoccupation	0
+object_recognition.n.01	the visual perception of familiar objects	0
+paresthesia.n.01	abnormal skin sensations (as tingling or tickling or itching or burning) usually associated with peripheral nerve damage	0
+sloth_bear.n.01	common coarse-haired long-snouted bear of south-central Asia	1
+physics.n.01	the science of matter and energy and their interactions	0
+wallaby.n.01	any of various small or medium-sized kangaroos; often brightly colored	1
+tench.n.01	freshwater dace-like game fish of Europe and western Asia noted for ability to survive outside water	1
+trifle.n.01	a cold pudding made of layers of sponge cake spread with fruit or jelly; may be decorated with nuts, cream, or chocolate	1
+hibernation.n.03	the act of retiring into inactivity	0
+falsity.n.01	the state of being false or untrue	0
+unmalleability.n.01	a lack of malleability	0
+distance.n.04	indifference by personal withdrawal	0
+inequality.n.01	lack of equality	0
+wombat.n.01	burrowing herbivorous Australian marsupials about the size of a badger	1
+embryonal_carcinoma.n.01	malignant neoplasm of the testis	0
+hydrocele.n.01	disorder in which serous fluid accumulates in a body sac (especially in the scrotum)	0
+lipemia.n.01	presence of excess lipids in the blood	0
+projector.n.01	an optical device for projecting a beam of light	1
+golden_retriever.n.01	an English breed having a long silky golden coat	1
+breastplate.n.01	armor plate that protects the chest; the front part of a cuirass	1
+nineties.n.01	the decade from 1890 to 1899	0
+notebook.n.02	a small compact portable computer	1
+easiness.n.03	the quality of being easy in behavior or style	0
+lawn_mower.n.01	garden tool for mowing grass on lawns	1
+necessity.n.01	the condition of being essential or indispensable	0
+modernity.n.01	the quality of being current or of the present	0
+papillon.n.01	small slender toy spaniel with erect ears and a black-spotted brown to white coat	1
+whiskey_jug.n.01	a jug that contains whiskey	1
+bikini.n.02	a woman's very brief bathing suit	1
+appetizingness.n.01	the property of stimulating the appetite	0
+megalith.n.01	memorial consisting of a very large stone forming part of a prehistoric structure (especially in western Europe)	1
+hydrothorax.n.01	accumulation of fluid in the pleural cavity (the space between the lungs and the walls of the chest) often resulting from disease of the heart or kidneys	0
+isopod.n.01	any of various small terrestrial or aquatic crustaceans with seven pairs of legs adapted for crawling	1
+stupa.n.01	a dome-shaped shrine erected by Buddhists	1
+dandie_dinmont.n.01	a breed of small terrier with long wiry coat and drooping ears	1
+rotisserie.n.01	an oven or broiler equipped with a rotating spit on which meat cooks as it turns	1
+dogsled.n.01	a sled pulled by dogs	1
+vulnerability.n.02	susceptibility to injury or attack	0
+joystick.n.02	a manual control consisting of a vertical handle that can move freely in two directions; used as an input device to computers or to devices controlled by computers	1
+space_heater.n.01	heater consisting of a self-contained (usually portable) unit to warm a room	1
+self-education.n.01	the process of educating yourself	0
+l-dopa.n.01	the levorotatory form of dopa (trade names Bendopa and Brocadopa and Larodopa); as a drug it is used to treat Parkinson's disease	0
+faultfinding.n.01	persistent petty and unjustified criticism	0
+cystoid_macular_edema.n.01	a specific pattern of swelling in the central retina	0
+fold.n.07	the act of folding	0
+wire-haired_fox_terrier.n.01	a fox terrier with wiry hair	1
+chain_saw.n.01	portable power saw; teeth linked to form an endless chain	1
+ballplayer.n.01	an athlete who plays baseball	1
+tympanitis.n.01	inflammation of the inner ear	0
+model_t.n.01	the first widely available automobile powered by a gasoline engine; mass-produced by Henry Ford from 1908 to 1927	1
+rationality.n.02	the quality of being consistent with or based on logic	0
+tailed_frog.n.01	western North American frog with a taillike copulatory organ	1
+dugong.n.01	sirenian tusked mammal found from eastern Africa to Australia; the flat tail is bilobate	1
+toilet_tissue.n.01	a soft thin absorbent paper for use in toilets	1
+old_english_sheepdog.n.01	large sheepdog with a profuse shaggy bluish-grey-and-white coat and short tail; believed to trace back to the Roman occupation of Britain	1
+tree_frog.n.02	any of various Old World arboreal frogs distinguished from true frogs by adhesive suckers on the toes	1
+guinea_pig.n.02	stout-bodied nearly tailless domesticated cavy; often kept as a pet and widely used in research	1
+simplicity.n.01	the quality of being simple or uncompounded	0
+mud_turtle.n.01	bottom-dwelling freshwater turtle inhabiting muddy rivers of North America and Central America	1
+eft.n.01	a newt in its terrestrial stage of development	1
+chorioretinitis.n.01	inflammation of the choroid layer behind the retina	0
+television.n.02	a telecommunication system that transmits images of objects (stationary or moving) between distant points	1
+sewing_machine.n.01	a textile machine used as a home appliance for sewing	1
+inferiority.n.01	the state of being inferior	0
+canoe.n.01	small and light boat; pointed at both ends; propelled with a paddle	1
+sickness.n.02	defectiveness or unsoundness	0
+cab.n.03	a car driven by a person whose job is to take passengers where they want to go in exchange for money	1
+balance.n.04	equality of distribution	0
+exoneration.n.01	the condition of being relieved from blame or obligation	0
+passenger_car.n.01	a railcar where passengers ride	1
+anencephaly.n.01	a defect in brain development resulting in small or missing brain hemispheres	0
+african_crocodile.n.01	a dangerous crocodile widely distributed in Africa	1
+jury_duty.n.01	the civic duty to serve on a jury	0
+house_finch.n.01	small finch originally of the western United States and Mexico	1
+metritis.n.01	inflammation of the lining of the uterus (of the endometrium)	0
+horizontal_bar.n.01	gymnastic apparatus consisting of a bar supported in a horizontal position by uprights at both ends	1
+lunar_month.n.01	the period between successive new moons (29.531 days)	0
+visual_space.n.01	the visual perception of space	0
+fairness.n.02	ability to make judgments free from discrimination or dishonesty	0
+self-criticism.n.01	criticism of yourself	0
+swivet.n.01	a panic or extreme discomposure	0
+schistosome_dermatitis.n.01	a sensitization reaction to repeated invasion of the skin by cercariae of schistosomes	0
+afghan_hound.n.01	tall graceful breed of hound with a long silky coat; native to the Near East	1
+band_aid.n.01	trade name for an adhesive bandage to cover small cuts or blisters	1
+junco.n.01	small North American finch seen chiefly in winter	1
+balloon.n.02	small thin inflatable rubber bag with narrow neck	1
+smoothness.n.05	the quality of being free from errors or interruptions	0
+park_bench.n.01	a bench in a public park	1
+softness.n.10	a disposition to be lenient in judging others	0
+limpkin.n.01	wading bird of Florida, Cuba and Jamaica having a drooping bill and a distinctive wailing call	1
+truth.n.02	conformity to reality or actuality	0
+security.n.03	freedom from anxiety or fear	0
+ostrich.n.02	fast-running African flightless bird with two-toed feet; largest living bird	1
+bullet_train.n.01	a high-speed passenger train	1
+femininity.n.01	the trait of behaving in ways considered typical for women	0
+gasmask.n.01	a protective mask with a filter; protects the face and lungs against poisonous gases	1
+kerry_blue_terrier.n.01	an Irish breed of medium-sized terriers with a silky blue-grey coat	1
+castle.n.02	a large building formerly occupied by a ruler and fortified against attack	1
+window_screen.n.01	screen to keep insects from entering a building through the open window	1
+rest.n.04	a state of inaction	0
+spider_monkey.n.01	arboreal monkey of tropical America with long slender legs and long prehensile tail	1
+wallet.n.01	a pocket-size case for holding papers and paper money	1
+queasiness.n.01	a mild state of nausea	0
+conflict.n.05	an incompatibility of dates or events	0
+ulemorrhagia.n.01	bleeding of the gums	0
+scours.n.01	diarrhea in livestock	0
+escape.n.02	an inclination to retreat from unpleasant realities through diversion or fantasy	0
+apple_blight.n.01	a disease of apple trees	0
+perfectibility.n.01	the capability of becoming perfect	0
+doberman.n.01	medium large breed of dog of German origin with a glossy black and tan coat; used as a watchdog	1
+crock_pot.n.01	an electric cooker that maintains a relatively low temperature	1
+hiv.n.01	infection by the human immunodeficiency virus	0
+neutering.n.01	the sterilization of an animal	0
+street_sign.n.01	a sign visible from the street	1
+mosque.n.01	(Islam) a Muslim place of worship that usually has a minaret	1
+individuality.n.01	the quality of being individual	0
+leatherback_turtle.n.01	wide-ranging marine turtle with flexible leathery carapace; largest living turtle	1
+business.n.07	business concerns collectively	0
+hornbill.n.01	bird of tropical Africa and Asia having a very large bill surmounted by a bony protuberance; related to kingfishers	1
+bulletproof_vest.n.01	a vest capable of resisting the impact of a bullet	1
+immunity.n.03	the quality of being unaffected by something	0
+corn.n.02	the dried grains or kernels or corn used as animal feed or ground for meal	1
+greater_swiss_mountain_dog.n.01	the largest of the four Swiss breeds	1
+muzzle.n.03	a leather or wire restraint that fits over an animal's snout (especially a dog's nose and jaws) and prevents it from eating or biting	1
+marimba.n.01	a percussion instrument with wooden bars tuned to produce a chromatic scale and with resonators; played with small mallets	1
+trimaran.n.01	a fast sailboat with 3 parallel hulls	1
+inaccuracy.n.01	the quality of being inaccurate and having errors	0
+hard_disc.n.01	a rigid magnetic disk mounted permanently in a drive unit	1
+shape_constancy.n.01	the tendency to perceive the shape of a rigid object as constant despite differences in the viewing angle (and consequent differences in the shape of the pattern projected on the retina of the eye)	0
+paleobotany.n.01	the study of fossil plants	0
+minivan.n.01	a small box-shaped passenger van; usually has removable seats; used as a family car	1
+whooping_cough.n.01	a disease of the respiratory mucous membrane	0
+trophoblastic_cancer.n.01	malignant neoplasm of the uterus derived from the epithelium of the chorion	0
+otoplasty.n.01	reconstructive surgery of the auricle of the external ear	0
+cruelty.n.03	the quality of being cruel and causing tension or annoyance	0
+french_horn.n.01	a brass musical instrument consisting of a conical tube that is coiled into a spiral and played by means of valves	1
+sulphur-crested_cockatoo.n.01	white cockatoo with a yellow erectile crest	1
+abulia.n.01	a loss of will power	0
+vulture.n.01	any of various large diurnal birds of prey having naked heads and weak claws and feeding chiefly on carrion	1
+corkscrew.n.01	a bottle opener that pulls corks	1
+japanese_spaniel.n.01	breed of toy dogs originating in Japan having a silky black-and-white or red-and-white coat	1
+foretaste.n.01	an early limited awareness of something yet to occur	0
+dead_heat.n.01	a tie in a race	0
+absence.n.01	the state of being absent	0
+abacus.n.01	a tablet placed horizontally on top of the capital of a column as an aid in supporting the architrave	1
+structure.n.03	the complex composition of knowledge as elements and their combinations	0
+betrothal.n.02	the act of becoming betrothed or engaged	0
+complex.n.03	(psychoanalysis) a combination of emotions and impulses that have been rejected from awareness but still influence a person's behavior	0
+sacredness.n.01	the quality of being sacred	0
+eumycetes.n.01	category used in some classifications: coextensive with division Eumycota	0
+tobacco_shop.n.01	a shop that sells pipes and pipe tobacco and cigars and cigarettes	1
+analysis.n.04	the use of closed-class words instead of inflections: e.g., `the father of the bride' instead of `the bride's father'	0
+cup.n.03	any cup-shaped concavity	1
+crossword_puzzle.n.01	a puzzle in which words corresponding to numbered clues are to be found and written in to squares in the puzzle	1
+psychogenesis.n.01	the development in the life of an individual of some disorder that is caused by psychological rather than physiological factors	0
+oil_filter.n.01	a filter that removes impurities from the oil used to lubricate an internal-combustion engine	1
+kindness.n.01	the quality of being warmhearted and considerate and humane and sympathetic	0
+triceratops.n.01	huge ceratopsian dinosaur having three horns and the neck heavily armored with a very solid frill	1
+permissiveness.n.01	a disposition to allow freedom of choice and behavior	0
+binder.n.03	holds loose papers or magazines	1
+vulnerability.n.01	the state of being vulnerable or exposed	0
+hippopotamus.n.01	massive thick-skinned herbivorous animal living in or around rivers of tropical Africa	1
+puritanism.n.02	strictness and austerity in conduct and religion	0
+maraca.n.01	a percussion instrument consisting of a hollow gourd containing pebbles or beans; often played in pairs	1
+american_alligator.n.01	large alligator of the southeastern United States	1
+mental_note.n.01	special attention with intent to remember	0
+spindle.n.01	(biology) tiny fibers that are seen in cell division; the fibers radiate from two poles and meet at the equator in the middle	1
+polecat.n.02	dark brown mustelid of woodlands of Eurasia that gives off an unpleasant odor when threatened	1
+apathy.n.01	an absence of emotion or enthusiasm	0
+umbrella.n.01	a lightweight handheld collapsible canopy	1
+withdrawal.n.03	the act of withdrawing	0
+sealyham_terrier.n.01	a wire-haired terrier with short legs that was first bred in Sealyham	1
+electric_fan.n.01	a fan run by an electric motor	1
+beagle.n.01	a small short-legged smooth-coated breed of hound	1
+hypoesthesia.n.01	impairment of tactile sensitivity; decrease of sensitivity	0
+viaduct.n.01	bridge consisting of a series of arches supported by piers used to carry a road (or railroad) over a valley	1
+syncope.n.02	(phonology) the loss of sounds from within a word (as in `fo'c'sle' for `forecastle')	0
+ease.n.02	a freedom from financial difficulty that promotes a comfortable state	0
+walker_hound.n.01	an American breed of foxhound	1
+safety_pin.n.01	a pin in the form of a clasp; has a guard so the point of the pin will not stick the user	1
+indian_cobra.n.01	a cobra of tropical Africa and Asia	1
+studio_couch.n.01	convertible consisting of an upholstered couch that can be converted into a double bed	1
+pace.n.01	the rate of moving (especially walking or running)	0
+ovarian_pregnancy.n.01	ectopic pregnancy in the ovary	0
+1750s.n.01	the decade from 1750 to 1759	0
+moving_van.n.01	a van used for moving home or office furniture	1
+excoriation.n.02	severe censure	0
+dial_telephone.n.01	a telephone with a dial for registering the number to be called	1
+commitment.n.03	an engagement by contract involving financial obligation	0
+newfoundland.n.01	a breed of very large heavy dogs with a thick coarse usually black coat; highly intelligent dogs and vigorous swimmers; developed in Newfoundland	1
+chiffonier.n.01	a tall elegant chest of drawers	1
+temper.n.03	a disposition to exhibit uncontrolled anger	0
+alligator_lizard.n.01	slim short-limbed lizard having a distinctive fold on each side that permits expansion; of western North America	1
+common_iguana.n.01	large herbivorous tropical American arboreal lizards with a spiny crest along the back; used as human food in Central America and South America	1
+silky_terrier.n.01	Australian breed of toy dogs having a silky blue coat	1
+weasel.n.01	a person who is regarded as treacherous or sneaky	1
+sea_snake.n.01	any of numerous venomous aquatic viviparous snakes having a fin-like tail; of warm littoral seas; feed on fish which they immobilize with quick-acting venom	1
+prairie_chicken.n.01	brown mottled North American grouse of western prairies	1
+cliff.n.01	a steep high face of rock	1
+pajama.n.02	(usually plural) loose-fitting nightclothes worn for sleeping or lounging; have a jacket top and trousers	1
+suffocation.n.02	the condition of being deprived of oxygen (as by having breathing stopped)	0
+candor.n.02	the quality of being honest and straightforward in attitude and speech	0
+bloodstain.n.01	a discoloration caused by blood	0
+night_snake.n.01	nocturnal prowler of western United States and Mexico	1
+brown_study.n.01	a state of deep absorption or thoughtfulness	0
+feel.n.01	an intuitive awareness; 	0
+container_ship.n.01	a cargo ship designed to hold containerized cargoes	1
+saint_bernard.n.01	a Swiss alpine breed of large powerful dog with a thick coat of hair used as a rescue dog	1
+hot_pot.n.01	a stew of meat and potatoes cooked in a tightly covered pot	1
+red-backed_sandpiper.n.01	small common sandpiper that breeds in northern or Arctic regions and winters in southern United States or Mediterranean regions	1
+hyena.n.01	doglike nocturnal mammal of Africa and southern Asia that feeds chiefly on carrion	1
+inconvenience.n.03	the quality of not being useful or convenient	0
+folding_chair.n.01	a chair that can be folded flat for storage	1
+chiton.n.02	primitive elongated bilaterally symmetrical marine mollusk having a mantle covered with eight calcareous plates	1
+prospect.n.01	the possibility of future success	0
+missile.n.01	a rocket carrying a warhead of conventional or nuclear explosives; may be ballistic or directed by remote control	1
+dysmenorrhea.n.01	painful menstruation	0
+saccharinity.n.01	the excessive sweetness of saccharin	0
+dragonfly.n.01	slender-bodied non-stinging insect having iridescent wings that are outspread at rest; adults and nymphs feed on mosquitoes etc.	1
+beaker.n.01	a flatbottomed jar made of glass or plastic; used for chemistry	1
+betrayal.n.02	the quality of aiding an enemy	0
+car_mirror.n.01	a mirror that the driver of a car can use	1
+imbalance.n.01	a lack of balance or state of disequilibrium	0
+four-poster.n.01	a bed with posts at the four corners that can be used to support a canopy or curtains	1
+hypercholesterolemia.n.01	the presence of an abnormal amount of cholesterol in the cells and plasma of the blood; associated with the risk of atherosclerosis	0
+land_reform.n.01	a redistribution of agricultural land (especially by government action)	0
+leadership.n.03	the status of a leader	0
+forklift.n.01	a small industrial vehicle with a power operated forked platform in front that can be inserted under loads to lift and move them	1
+chain_mail.n.01	(Middle Ages) flexible armor made of interlinked metal rings	1
+alkaptonuria.n.01	a rare recessive metabolic anomaly marked by ochronosis and the presence of alkapton in the urine	0
+stethoscope.n.01	a medical instrument for listening to the sounds generated inside the body	1
+hand_blower.n.01	a hand-held electric blower that can blow warm air onto the hair; used for styling hair	1
+white_supremacy.n.01	the prejudice that members of the white race are superior to members of other races	0
+candle.n.01	stick of wax with a wick in the middle	1
+mask.n.04	a protective covering worn over the face	1
+ear.n.05	fruiting spike of a cereal plant especially corn	1
+stress.n.01	the relative prominence of a syllable or musical note (especially with regard to stress or pitch)	0
+ibizan_hound.n.01	breed of slender agile medium-sized hound found chiefly in the Balearic Islands; said to have been bred originally by the Pharaohs of ancient Egypt	1
+elephantiasis_scroti.n.01	swelling of the scrotum resulting from chronic lymphatic obstruction	0
+frostbite.n.01	destruction of tissue by freezing and characterized by tingling, blistering and possibly gangrene	0
+echidna.n.01	a burrowing monotreme mammal covered with spines and having a long snout and claws for hunting ants and termites; native to New Guinea	1
+water_tower.n.01	a large reservoir for water	1
+groundlessness.n.01	the quality of lacking substance or value	0
+scleritis.n.01	inflammation of the sclera	0
+greed.n.01	excessive desire to acquire or possess more (especially more material wealth) than one needs or deserves	0
+packet.n.02	(computer science) a message or message fragment	1
+1900s.n.01	the decade from 1900 to 1909	0
+megaloblastic_anemia.n.01	anemia characterized by many large immature and dysfunctional red blood cells (megaloblasts) in the bone marrow; associated with pernicious anemia	0
+indolence.n.01	inactivity resulting from a dislike of work	0
+green_lizard.n.01	a common Eurasian lizard about a foot long	1
+realism.n.01	the attribute of accepting the facts of life and favoring practicality and literal truth	0
+confession.n.01	an admission of misdeeds or faults	0
+low_spirits.n.01	a state of mild depression	0
+disk_brake.n.01	hydraulic brake in which friction is applied to both sides of a spinning disk by the brake pads	1
+australian_terrier.n.01	small greyish wire-haired breed of terrier from Australia similar to the cairn	1
+geyser.n.01	a spring that discharges hot water and steam	1
+bib.n.01	top part of an apron; covering the chest	1
+hermit_crab.n.01	small soft-bodied marine crustaceans living in cast-off shells of gastropods	1
+appenzeller.n.01	a smaller of the four Swiss breeds	1
+strabismus.n.01	abnormal alignment of one or both eyes	0
+green_snake.n.02	either of two North American chiefly insectivorous snakes that are green in color	1
+little_blue_heron.n.01	small bluish-grey heron of the western hemisphere	1
+orientation.n.05	a person's awareness of self with regard to position and time and place and personal relationships	0
+purposelessness.n.01	the quality of lacking any definite purpose	0
+blenheim_spaniel.n.01	red-and-white variety of English toy spaniel	1
+fruition.n.01	the condition of bearing fruit	0
+church.n.02	a place for public (especially Christian) worship	1
+english_springer.n.01	a breed having typically a black-and-white coat	1
+beach_wagon.n.01	a car that has a long body and rear door with space behind rear seat	1
+unicycle.n.01	a vehicle with a single wheel that is driven by pedals	1
+coldness.n.02	a lack of affection or enthusiasm	0
+irrational_hostility.n.01	extreme prejudice	0
+amicability.n.01	a disinclination to quarrel	0
+spotlight.n.02	a lamp that produces a strong beam of light to illuminate a restricted area; used to focus attention of a stage performer	1
+self-knowledge.n.01	an understanding of yourself and your goals and abilities	0
+failure.n.07	loss of ability to function normally	0
+hemothorax.n.01	accumulation of blood in the pleural cavity (the space between the lungs and the walls of the chest)	0
+pitcher.n.02	an open vessel with a handle and a spout for pouring	1
+saluki.n.01	old breed of tall swift keen-eyed hunting dogs resembling greyhounds; from Egypt and southwestern Asia	1
+swelling.n.01	an abnormal protuberance or localized enlargement	0
+spaghetti_squash.n.01	squash plant bearing oval fruit with smooth yellowish skin and tender stranded flesh resembling spaghetti	1
+petri_dish.n.01	a shallow dish used to culture bacteria	1
+holdout.n.02	a refusal by a negotiator to come to terms in the hope of obtaining a better deal	0
+maze.n.01	complex system of paths or tunnels in which it is easy to get lost	1
+sumerology.n.01	the archeology of ancient Sumerians	0
+vision.n.03	the perceptual experience of seeing	0
+nineties.n.02	the decade from 1990 to 1999	0
+manhole_cover.n.01	a flush iron cover for a manhole (as in a street)	1
+paralysis.n.01	loss of the ability to move a body part	0
+polygamy.n.01	having more than one spouse at a time	0
+koala.n.01	sluggish tailless Australian arboreal marsupial with grey furry ears and coat; feeds on eucalyptus leaves and bark	1
+pleurisy.n.01	inflammation of the pleura of the lungs (especially the parietal layer)	0
+zucchini.n.01	marrow squash plant whose fruit are eaten when small	1
+revolutionism.n.01	a belief in the spread of revolutionary principles	0
+amorousness.n.02	the arousal of feelings of sexual desire	0
+the_hots.n.01	intense sexual desire	0
+sunglass.n.01	a convex lens that focuses the rays of the sun; used to start a fire	1
+thunder_snake.n.01	small reddish wormlike snake of eastern United States	1
+cardoon.n.02	only parts eaten are roots and especially stalks (blanched and used as celery); related to artichokes	1
+sagacity.n.01	the mental ability to understand and discriminate between relations	0
+snootiness.n.01	the quality of being snooty	0
+resistance.n.06	the capacity of an organism to defend itself against harmful environmental agents	0
+cowboy_hat.n.01	a hat with a wide brim and a soft crown; worn by American ranch hands	1
+depersonalization.n.01	emotional dissociative disorder in which there is loss of contact with your own personal reality accompanied by feelings of unreality and strangeness	0
+dam.n.01	a barrier constructed to contain the flow of water or to keep out the sea	1
+conch.n.01	any of various edible tropical marine gastropods of the genus Strombus having a brightly-colored spiral shell with large outer lip	1
+coffeepot.n.01	tall pot in which coffee is brewed	1
+cornet.n.01	a brass musical instrument with a brilliant tone; has a narrow tube and a flared bell and is played by means of valves	1
+hepatoma.n.01	carcinoma of the liver	0
+exorbitance.n.01	excessive excess	0
+wildness.n.03	an unruly disposition to do as one pleases	0
+granny_smith.n.01	apple with a green skin and hard tart flesh	1
+carditis.n.01	inflammation of the heart	0
+lumbermill.n.01	a mill for dressing logs and lumber	1
+trichomoniasis.n.01	infection of the vagina	0
+rhodesian_ridgeback.n.01	a powerful short-haired African hunting dog having a crest of reversed hair along the spine	1
+pick.n.05	a small thin device (of metal or plastic or ivory) used to pluck a stringed instrument	1
+finger-pointing.n.01	the imputation of blame	0
+nematode.n.01	unsegmented worms with elongated rounded body pointed at both ends; mostly free-living but some are parasitic	1
+coyote.n.01	small wolf native to western North America	1
+employment.n.01	the state of being employed or having a job	0
+repugnance.n.01	intense aversion	0
+vine_snake.n.01	slender arboreal snake found from southern Arizona to Bolivia	1
+thimble.n.02	a small metal cap to protect the finger while sewing; can be used as a small container	1
+grace.n.04	a disposition to kindness and compassion	0
+briard.n.01	old French breed of large strong usually black dogs having a long tail and long wavy and slightly stiff coat	1
+elastosis.n.01	breakdown of elastic tissue (as the loss of elasticity in the skin of elderly people that results from degeneration of connective tissue)	0
+mongoose.n.01	agile grizzled Old World viverrine; preys on snakes and rodents	1
+edacity.n.02	extreme gluttony	0
+eel.n.01	the fatty flesh of eel; an elongate fish found in fresh water in Europe and America; large eels are usually smoked or pickled	1
+african_elephant.n.01	an elephant native to Africa having enormous flapping ears and ivory tusks	1
+impala.n.01	African antelope with ridged curved horns; moves with enormous leaps	1
+brevity.n.01	the use of brief expressions	0
+coordination.n.02	the regulation of diverse elements into an integrated and harmonious operation	0
+oxygen_mask.n.01	a breathing device that is placed over the mouth and nose; supplies oxygen from an attached storage tank	1
+mellowness.n.01	kindheartedness through maturity or old age	0
+jackfruit.n.02	immense East Indian fruit resembling breadfruit; it contains an edible pulp and nutritious seeds that are commonly roasted	1
+meat_loaf.n.01	a baked loaf of ground meat	1
+egyptian_cat.n.01	a domestic cat of Egypt	1
+widowhood.n.02	the state of being a widow who has not remarried	0
+permanence.n.01	the property of being able to exist for an indefinite duration	0
+laryngopharyngitis.n.01	inflammation of the larynx and pharynx	0
+absolutism.n.03	the principle of complete and unrestricted power in government	0
+inattention.n.01	lack of attention	0
+daisy.n.01	any of numerous composite plants having flower heads with well-developed ray flowers usually arranged in a single whorl	1
+leaf_beetle.n.01	brightly colored beetle that feeds on plant leaves; larvae infest roots and stems	1
+cannon.n.02	heavy gun fired from a tank	1
+enterotoxemia.n.01	a disease of cattle and sheep that is attributed to toxins absorbed from the intestines	0
+radial_asymmetry.n.01	the absence of symmetry about an axis	0
+hamster.n.01	short-tailed Old World burrowing rodent with large cheek pouches	1
+dowitcher.n.01	shorebird of the sandpiper family that resembles a snipe	1
+rule.n.12	measuring stick consisting of a strip of wood or metal or plastic with a straight edge that is used for drawing straight lines and measuring lengths	1
+urocele.n.01	extravasation of urine into the scrotal sac	0
+rationality.n.01	the state of having good sense and sound judgment	0
+rebellion.n.01	refusal to accept some authority or code or convention	0
+fault.n.06	responsibility for a bad situation or event	0
+hen-of-the-woods.n.01	large greyish-brown edible fungus forming a mass of overlapping caps that somewhat resembles a hen at the base of trees	1
+oxcart.n.01	a cart that is drawn by an ox	1
+king.n.04	preeminence in a particular category or group or field	0
+comfortableness.n.02	a feeling of being at ease in a relationship	0
+vending_machine.n.01	a slot machine for selling goods	1
+mixing_bowl.n.01	bowl used with an electric mixer	1
+italian_greyhound.n.01	a toy dog developed from the greyhound	1
+pomegranate.n.02	large globular fruit having many seeds with juicy red pulp in a tough brownish-red rind	1
+inevitability.n.01	the quality of being unavoidable	0
+pirate.n.03	a ship that is manned by pirates	1
+pricing.n.01	the evaluation of something in terms of its price	0
+oboe.n.01	a slender double-reed instrument; a woodwind with a conical bore and a double-reed mouthpiece	1
+abasia.n.01	inability to walk	0
+insulin_shock.n.01	hypoglycemia produced by excessive insulin in the system causing coma	0
+monotony.n.02	constancy of tone or pitch or inflection	0
+rickets.n.01	childhood disease caused by deficiency of vitamin D and sunlight associated with impaired metabolism of calcium and phosphorus	0
+yorkshire_terrier.n.01	very small breed having a long glossy coat of bluish-grey and tan	1
+gummosis.n.01	pathological production of gummy exudates in citrus and various stone-fruit trees	0
+inflexibility.n.01	a lack of physical flexibility	0
+oscilloscope.n.01	electronic equipment that provides visual images of varying electrical quantities	1
+tiger_cat.n.02	a cat having a striped coat	1
+ringlet.n.04	any of various butterflies belonging to the family Satyridae	1
+rote.n.01	memorization by repetition	0
+fox_squirrel.n.01	exceptionally large arboreal squirrel of eastern United States	1
+american_black_bear.n.01	brown to black North American bear; smaller and less ferocious than the brown bear	1
+african_hunting_dog.n.01	a powerful doglike mammal of southern and eastern Africa that hunts in large packs; now rare in settled area	1
+chain.n.06	a unit of length	1
+diamondback.n.01	large deadly rattlesnake with diamond-shaped markings	1
+hankering.n.01	a yearning for something or to do something	0
+goldfish.n.01	small golden or orange-red freshwater fishes of Eurasia used as pond or aquarium fishes	1
+mutism.n.01	the condition of being unable or unwilling to speak	0
+african_chameleon.n.01	a chameleon found in Africa	1
+spur_blight.n.01	a disease of raspberries	0
+mashed_potato.n.01	potato that has been peeled and boiled and then mashed	1
+orthogonality.n.01	the relation of opposition between things at right angles	0
+election_fraud.n.01	misrepresentation or alteration of the true results of an election	0
+overreaction.n.01	an excessive reaction; a reaction with inappropriate emotional behavior	0
+pulmonary_tuberculosis.n.01	involving the lungs with progressive wasting of the body	0
+confidence.n.04	a trustful relationship	0
+homophobia.n.01	prejudice against (fear or dislike of) homosexual people and homosexuality	0
+atelectasis.n.01	collapse of an expanded lung (especially in infants); also failure of pulmonary alveoli to expand at birth	0
+cicada.n.01	stout-bodied insect with large membranous wings; male has drum-like organs for producing a high-pitched drone	1
+theocracy.n.02	the belief in government by divine guidance	0
+spider_web.n.01	a web resembling the webs spun by spiders	1
+aggressiveness.n.01	the quality of being bold and enterprising	0
+trolleybus.n.01	a passenger bus with an electric motor that draws power from overhead wires	1
+velvet.n.01	a silky densely piled fabric with a plain back	1
+pomeranian.n.01	breed of very small compact long-haired dogs of the spitz type	1
+espresso_maker.n.01	a coffee maker that forces live steam under pressure through dark roasted coffee grounds	1
+election.n.03	the status or fact of being elected	0
+malamute.n.01	breed of sled dog developed in Alaska	1
+repatriation.n.01	the act of returning to the country of origin	0
+squirrel_monkey.n.01	small long-tailed monkey of Central American and South America with greenish fur and black muzzle	1
+menu.n.02	the dishes making up a meal	1
+bottlecap.n.01	a cap that seals a bottle	1
+skunk.n.04	American musteline mammal typically ejecting an intensely malodorous fluid when startled; in some classifications put in a separate subfamily Mephitinae	1
+cyclosis.n.01	the circulation of cytoplasm within a cell	0
+goldfinch.n.02	small European finch having a crimson face and yellow-and-black wings	1
+carton.n.02	a box made of cardboard; opens by flaps on top	1
+promontory.n.01	a natural elevation (especially a rocky one that juts out into the sea)	1
+neurofibroma.n.01	tumor of the fibrous covering of a peripheral nerve	0
+zebra.n.01	any of several fleet black-and-white striped African equines	1
+plow.n.01	a farm tool having one or more heavy blades to break the soil and cut a furrow prior to sowing	1
+brass.n.07	a memorial made of brass	1
+drama.n.04	the quality of being arresting or highly emotional	0
+norfolk_terrier.n.01	English breed of small terrier with a straight wiry grizzled coat and dropped ears	1
+revocation.n.01	the state of being cancelled or annulled	0
+lymphangitis.n.01	inflammation of a lymph vessel	0
+brown_bear.n.01	large ferocious bear of Eurasia	1
+hyperacidity.n.01	excessive acidity	0
+fissiparity.n.02	the tendency to break into parts	0
+keratoscleritis.n.01	inflammation of the cornea and sclera of the eye	0
+bell_cote.n.01	a small shelter for bells; has a gable or shed roof	1
+entlebucher.n.01	the smallest of the Sennenhunde	1
+rheumatic_aortitis.n.01	aortitis occurring in rheumatic fever	0
+marmoset.n.01	small soft-furred South American and Central American monkey with claws instead of nails	1
+swing.n.01	a state of steady vigorous action that is characteristic of an activity	1
+fairness.n.01	conformity with rules or standards	0
+bison.n.01	any of several large humped bovids having shaggy manes and large heads and short horns	1
+tin_ear.n.02	insensitivity to the appropriateness or subtlety of language	0
+nephrolithiasis.n.01	the presence of kidney stones (calculi) in the kidney	0
+trust.n.03	the trait of believing in the honesty and reliability of others	0
+aplasia.n.01	failure of some tissue or organ to develop	0
+whippet.n.01	small slender dog of greyhound type developed in England	1
+arming.n.01	the act of equiping with weapons in preparation for war	0
+gout.n.01	a painful inflammation of the big toe and foot caused by defects in uric acid metabolism resulting in deposits of the acid and its salts in the blood and joints	0
+king_snake.n.01	any of numerous nonvenomous North American constrictors; feed on other snakes and small mammals	1
+face_recognition.n.02	the visual perception of familiar faces	0
+liposarcoma.n.01	sarcoma of fat cells	0
+dung_beetle.n.01	any of numerous beetles that roll balls of dung on which they feed and in which they lay eggs	1
+fur_coat.n.01	a coat made of fur	1
+symphysis.n.01	an abnormal adhesion of two or more structures	0
+washer.n.03	a home appliance for washing clothes and linens automatically	1
+epididymitis.n.01	painful inflammation of the epididymis	0
+polaroid_camera.n.01	a camera that develops and produces a positive print within seconds	1
+freight_car.n.01	a railway car that carries freight	1
+sociability.n.01	the relative tendency or disposition to be sociable or associate with one's fellows	0
+water_buffalo.n.01	an Asian buffalo that is often domesticated for use as a draft animal	1
+scorpion.n.03	arachnid of warm dry regions having a long segmented tail ending in a venomous stinger	1
+crib.n.01	baby bed with high sides made of slats	1
+herpes_zoster.n.01	eruptions along a nerve path often accompanied by severe neuralgia	0
+analog_clock.n.01	a clock that displays the time of day by the position of hands on a dial	1
+siamese_cat.n.01	a slender short-haired blue-eyed breed of cat having a pale coat with dark ears paws face and tail tip	1
+cosmology.n.01	the metaphysical study of the origin and nature of the universe	0
+spatula.n.01	a turner with a narrow flexible blade	1
+drug_addiction.n.01	an addiction to a drug (especially a narcotic drug)	0
+backpack.n.01	a bag carried by a strap on your back or shoulder	1
+hepatitis.n.01	inflammation of the liver caused by a virus or a toxin	0
+home_theater.n.01	television and video equipment designed to reproduce in the home the experience of being in a movie theater	1
+edacity.n.01	excessive desire to eat	0
+pharmacology.n.01	the science or study of drugs: their preparation and properties and uses and effects	0
+loafer.n.02	a low leather step-in shoe; the top resembles a moccasin but it has a broad flat heel	1
+magnetic_compass.n.01	compass based on an indicator (as a magnetic needle) that points to the magnetic north	1
+patio.n.01	usually paved outdoor area adjoining a residence	1
+bathing_cap.n.01	a tight-fitting cap that keeps hair dry while swimming	1
+ingratitude.n.01	a lack of gratitude	0
+meekness.n.02	a disposition to be patient and long suffering	0
+half_track.n.01	a motor vehicle propelled by half tracks; frequently used by the military	1
+acoustic_guitar.n.01	sound is not amplified by electrical means	1
+gar.n.01	primitive predaceous North American fish covered with hard scales and having long jaws with needlelike teeth	1
+status_quo.n.01	the existing state of affairs	0
+homesickness.n.01	a longing to return home	0
+bucket.n.01	a roughly cylindrical vessel that is open at the top	1
+vertebrate_paleontology.n.01	the paleontology of vertebrates	0
+purse.n.02	a sum of money spoken of as the contents of a money purse	1
+great_dane.n.01	very large powerful smooth-coated breed of dog	1
+misreading.n.01	misinterpretation caused by inaccurate reading	0
+open_door.n.02	freedom of access	0
+cd_player.n.01	a stand-alone piece of electronic equipment that either has its own display or attaches to a television set	1
+ideation.n.01	the process of forming and relating ideas	0
+moped.n.01	a motorbike that can be pedaled or driven by a low-powered gasoline engine	1
+bummer.n.02	a bad reaction to a hallucinogenic drug	0
+falsification.n.02	a willful perversion of facts	0
+parachute.n.01	rescue equipment consisting of a device that fills with air and retards your fall	1
+odometer.n.01	a meter that shows mileage traversed	1
+constructiveness.n.01	the quality of serving to build or improve	0
+yurt.n.01	a circular domed dwelling that is portable and self-supporting; originally used by nomadic Mongol and Turkic people of central Asia but now used as inexpensive alternative or temporary housing	1
+good-temperedness.n.01	a cheerful willingness to be obliging	0
+saltiness.n.03	the property of containing salt (as a compound or in solution)	0
+banded_gecko.n.01	any of several geckos with dark bands across the body and differing from typical geckos in having movable eyelids; of United States southwest and Florida Gulf Coast	1
+convertible.n.01	a car that has top that can be folded or removed	1
+cryptorchidy.n.01	failure of one or both testes to move into the scrotum as the male fetus develops	0
+dumbbell.n.01	an exercising weight; two spheres connected by a short bar that serves as a handle	1
+agama.n.01	small terrestrial lizard of warm regions of the Old World	1
+talentlessness.n.01	a lack of talent	0
+iritis.n.01	inflammation of the iris	0
+carousel.n.02	a large, rotating machine with seats for children to ride or amusement	1
+stinkhorn.n.01	any of various ill-smelling brown-capped fungi of the order Phallales	1
+unitization.n.02	the act of packaging cargo into unit loads	0
+ant.n.01	social insect living in organized colonies; characteristically the males and fertile queen have wings during breeding season; wingless sterile females are the workers	1
+cauliflower.n.02	compact head of white undeveloped flowers	1
+lampshade.n.01	a protective ornamental shade used to screen a light bulb from direct view	1
+barrow.n.03	a cart for carrying small loads; has handles and one or more wheels	1
+volcano.n.02	a mountain formed by volcanic material	1
+barn_spider.n.01	an orange and tan spider with darkly banded legs that spins an orb web daily	1
+worm_fence.n.01	rail fence consisting of a zigzag of interlocking rails	1
+doubt.n.01	the state of being unsure of something	0
+paintbrush.n.01	a brush used as an applicator (to apply paint)	1
+liberalization.n.01	the act of making less strict	0
+toucan.n.01	brilliantly colored arboreal fruit-eating bird of tropical America having a very large thin-walled beak	1
+book_jacket.n.01	a paper jacket for a book; a jacket on which promotional information is usually printed	1
+neck_brace.n.01	a brace worn to steady the neck	1
+magpie.n.01	long-tailed black-and-white crow that utters a raucous chattering call	1
+the_way_of_the_world.n.01	the manner in which people typically behave or things typically happen	0
+sour_grapes.n.01	disparagement of something that is unattainable	0
+cholecystitis.n.01	inflammation of the gall bladder	0
+rage.n.02	a state of extreme anger	0
+maypole.n.01	a vertical pole or post decorated with streamers that can be held by dancers celebrating May Day	1
+german_shepherd.n.01	breed of large shepherd dogs used in police work and as a guide for the blind	1
+osteotomy.n.01	surgical sectioning of bone	0
+dynamism.n.03	the activeness of an energetic personality	0
+space_bar.n.01	the bar-shaped typewriter key that introduces spaces when used	1
+lifeboat.n.01	a strong sea boat designed to rescue people from a sinking ship	1
+wardrobe.n.01	a tall piece of furniture that provides storage space for clothes; has a door and rails or hooks for hanging clothes	1
+affine_geometry.n.01	the geometry of affine transformations	0
+tenderness.n.01	a tendency to express warm and affectionate feeling	0
+dilapidation.n.02	the process of becoming dilapidated	0
+broccoli.n.02	branched green undeveloped flower heads	1
+ovaritis.n.01	inflammation of the ovaries	0
+barbershop.n.01	a shop where men can get their hair cut	1
+french_bulldog.n.01	small stocky version of the bulldog having a sleek coat and square head	1
+gong.n.01	a percussion instrument consisting of a metal plate that is struck with a softheaded drumstick	1
+curly-coated_retriever.n.01	an English breed having a tightly curled black or liver-colored coat; retrieves game from land or water	1
+splenitis.n.01	inflammation of the spleen	0
+sea_lion.n.01	any of several large eared seals of the northern Pacific related to fur seals but lacking their valuable coat	1
+fiddler_crab.n.01	burrowing crab of American coastal regions having one claw much enlarged in the male	1
+uncreativeness.n.01	a lack of creativity	0
+leopard.n.02	large feline of African and Asian forests usually having a tawny coat with black spots	1
+endocervicitis.n.01	inflammation of the mucous lining of the uterine cervix	0
+harvester.n.01	someone who helps to gather the harvest	1
+ski_mask.n.01	a woolen face mask to protect the face from cold while skiing on snow	1
+bastardy.n.01	the status of being born to parents who were not married	0
+pineapple.n.02	large sweet fleshy tropical fruit with a terminal tuft of stiff leaves; widely cultivated	1
+difference.n.01	the quality of being unlike or dissimilar	0
+bow_tie.n.01	a man's tie that ties in a bow	1
+ground_beetle.n.01	predacious shining black or metallic terrestrial beetle that destroys many injurious insects	1
+tricycle.n.01	a vehicle with three wheels that is moved by foot pedals	1
+rottweiler.n.01	German breed of large vigorous short-haired cattle dogs	1
+forgiveness.n.01	compassionate feelings that support a willingness to forgive	0
+tiger_beetle.n.01	active usually bright-colored beetle that preys on other insects	1
+shopping_cart.n.01	a handcart that holds groceries or other goods while shopping	1
+brambling.n.01	Eurasian finch	1
+tray.n.01	an open receptacle for holding or displaying or serving articles or food	1
+trill.n.02	the articulation of a consonant (especially the consonant `r') with a rapid flutter of the tongue against the palate or uvula	0
+seat_belt.n.01	a safety belt used in a car or plane to hold you in your seat in case of an accident	1
+aeromedicine.n.01	the study and treatment of disorders associated with flight (especially with space flight)	0
+herbal_medicine.n.02	the use of medicinal herbs to prevent or treat disease or promote health	0
+bluetick.n.01	a very fast American hound; white mottled with bluish grey	1
+mantis.n.01	predacious long-bodied large-eyed insect of warm regions; rests with forelimbs raised as in prayer	1
+angiotelectasia.n.01	dilation and enlargement of arterioles	0
+bolete.n.01	any fungus of the family Boletaceae	1
+drug_war.n.01	conflict between law enforcement and those who deal in illegal drugs	0
+anosmia.n.01	absence of the sense of smell (as by damage to olfactory nasal tissue or the olfactory nerve or by obstruction of the nasal passages)	0
+tiger.n.02	large feline of forests in most of Asia having a tawny coat with black stripes; endangered	1
+miliary_tuberculosis.n.01	acute tuberculosis characterized by the appearance of tiny tubercles on one or more organs of the body (presumably resulting from tubercle bacilli being spread in the bloodstream)	0
+tusker.n.01	any mammal with prominent tusks (especially an elephant or wild boar)	1
+horoscopy.n.01	the drawing up and interpretation of horoscopes	0
+hesitation.n.01	indecision in speech or action	0
+heartburning.n.01	intense resentment	0
+cassette_player.n.01	electronic equipment for playing cassettes	1
+projective_geometry.n.01	the geometry of properties that remain invariant under projection	0
+ice_cream.n.01	frozen dessert containing cream and sugar and flavoring	1
+removal.n.01	the act of removing	0
+poll.n.05	the counting of votes (as in an election)	0
+purposefulness.n.01	the quality of having a definite purpose	0
+mortar.n.02	used as a bond in masonry or for covering a wall	1
+partridge.n.01	flesh of either quail or grouse	1
+whistle.n.03	a small wind instrument that produces a whistling sound by blowing into it	1
+stopwatch.n.01	a timepiece that can be started or stopped for exact timing (as of a race)	1
+animalism.n.02	preoccupation with satisfaction of physical drives and appetites	0
+badger.n.02	sturdy carnivorous burrowing mammal with strong claws; widely distributed in the northern hemisphere	1
+infection.n.01	the pathological state resulting from the invasion of the body by pathogenic microorganisms	0
+overanxiety.n.01	excessive anxiety	0
+thing.n.11	a persistent illogical feeling of desire or aversion	0
+shetland_sheepdog.n.01	a small sheepdog resembling a collie that was developed in the Shetland Islands	1
+head_cabbage.n.02	any of several varieties of cabbage having a large compact globular head; may be steamed or boiled or stir-fried or used raw in coleslaw	1
+bookshop.n.01	a shop where books are sold	1
+vincent's_angina.n.01	an acute communicable infection of the respiratory tract and mouth marked by ulceration of the mucous membrane	0
+addiction.n.01	being abnormally tolerant to and dependent on something that is psychologically or physically habit-forming (especially alcohol or narcotic drugs)	0
+inwardness.n.02	preoccupation especially with one's attitudes and ethical or ideological values	0
+memory.n.03	the power of retaining and recalling past experience	0
+breakwater.n.01	a protective structure of stone or concrete; extends from shore into the water to prevent a beach from washing away	1
+european_fire_salamander.n.01	a kind of European salamander	1
+waffle_iron.n.01	a kitchen appliance for baking waffles; the appliance usually consists of two indented metal pans hinged together so that they create a pattern on the waffle	1
+german_short-haired_pointer.n.01	liver or liver-and-white hunting dog developed in Germany; 3/4 pointer and 1/4 bloodhound	1
+quarter-century.n.01	a period of 25 years	0
+brassiere.n.01	an undergarment worn by women to support their breasts	1
+school_bus.n.01	a bus used to transport children to or from school	1
+defensiveness.n.01	excessive sensitivity to criticism	0
+sleeping_bag.n.01	large padded bag designed to be slept in outdoors; usually rolls up like a bedroll	1
+espresso.n.01	strong black coffee brewed by forcing hot water under pressure through finely ground coffee beans	1
+necklace.n.01	jewelry consisting of a cord or chain (often bearing gems) worn about the neck as an ornament (especially by women)	1
+black_grouse.n.01	grouse of which the male is bluish-black	1
+drilling_platform.n.01	drilling rig consisting of an offshore platform (floating or fixed to the sea bed) from which many oil wells can be bored radially	1
+miniskirt.n.01	a very short skirt	1
+hemochromatosis.n.01	pathology in which iron accumulates in the tissues; characterized by bronzed skin and enlarged liver and diabetes mellitus and abnormalities of the pancreas and the joints	0
+allegiance.n.02	the loyalty that citizens owe to their country (or subjects to their sovereign)	0
+oophoritis.n.01	inflammation of one or both ovaries	0
+kite.n.01	a bank check that has been fraudulently altered to increase its face value	1
+conscience.n.02	conformity to one's own sense of right conduct	0
+disgust.n.01	strong feelings of dislike	0
+rise.n.09	an increase in cost	0
+bloodhound.n.01	a breed of large powerful hound of European origin having very acute smell and used in tracking	1
+red-breasted_merganser.n.01	widely distributed merganser of America and Europe	1
+duality.n.03	(geometry) the interchangeability of the roles of points and planes in the theorems of projective geometry	0
+lynx.n.02	short-tailed wildcats with usually tufted ears; valued for their fur	1
+micropaleontology.n.01	the paleontology of microfossils	0
+butternut_squash.n.02	buff-colored squash with a long usually straight neck and sweet orange flesh	1
+gorilla.n.01	largest anthropoid ape; terrestrial and vegetarian; of forests of central west Africa	1
+warplane.n.01	an aircraft designed and used for combat	1
+restaurant.n.01	a building where people go to eat	1
+wisdom.n.03	ability to apply knowledge or experience or understanding or common sense and insight	0
+jeep.n.01	a car suitable for traveling over rough terrain	1
+great_pyrenees.n.01	bred of large heavy-coated white dogs resembling the Newfoundland	1
+anger.n.02	the state of being angry	0
+malinois.n.01	fawn-colored short-haired sheepdog	1
+norwegian_elkhound.n.01	breed of compact medium-sized dog with a heavy grey coat developed in Norway for hunting elk	1
+anasarca.n.01	generalized edema with accumulation of serum in subcutaneous connective tissue	0
+mouse.n.04	a hand-operated electronic device that controls the coordinates of a cursor on your computer screen as you move it around on a pad; on the bottom of the device is a ball that rolls on the surface of the pad	1
+sunscreen.n.01	a cream spread on the skin; contains a chemical (as PABA) to filter out ultraviolet light and so protect from sunburn	1
+leonberg.n.01	a large dog (usually with a golden coat) produced by crossing a St Bernard and a Newfoundland	1
+richness.n.04	the quality of having high intrinsic value	0
+haemodoraceae.n.01	some genera placed in family Liliaceae	0
+digital_clock.n.01	a clock that displays the time of day digitally	1
+cuirass.n.01	medieval body armor that covers the chest and back	1
+palsy.n.02	a condition marked by uncontrollable tremor	0
+sunglasses.n.01	spectacles that are darkened or polarized to protect the eyes from the glare of the sun	1
+anaplasia.n.01	loss of structural differentiation within a cell or group of cells often with increased capacity for multiplication, as in a malignant tumor	0
+cockroach.n.01	any of numerous chiefly nocturnal insects; some are domestic pests	1
+bathtub.n.01	a relatively large open container that you fill with water and use to wash the body	1
+sympathy.n.01	an inclination to support or be loyal to or to agree with an opinion	0
+syringe.n.01	a medical instrument used to inject or withdraw fluids	1
+abdicator.n.01	one who formally relinquishes an office or responsibility	0
+achromia.n.01	an absence of normal pigmentation especially in the skin (as in albinism) or in red blood cells	0
+cairn.n.02	small rough-haired breed of terrier from Scotland	1
+profit.n.02	the advantageous quality of being beneficial	0
+narcosis.n.01	unconsciousness induced by narcotics or anesthesia	0
+tile_roof.n.01	a roof made of fired clay tiles	1
+ruddy_turnstone.n.01	common Arctic turnstone that winters in South America and Australia	1
+quill.n.01	pen made from a bird's feather	1
+arrest.n.02	the state of inactivity following an interruption	0
+acanthosis.n.01	an abnormal but benign thickening of the prickle-cell layer of the skin (as in psoriasis)	0
+apostasy.n.02	the act of abandoning a party for cause	0
+dingo.n.01	wolflike yellowish-brown wild dog of Australia	1
+bee.n.02	a social gathering to carry out some communal task or to hold competitions	1
+education.n.03	the gradual process of acquiring knowledge	0
+angiitis.n.01	inflammation of a blood vessel or lymph duct	0
+keratoiritis.n.01	inflammation of the cornea and the iris of the eye	0
+milk_can.n.01	large can for transporting milk	1
+restlessness.n.04	inability to rest or relax or be still	0
+chocolate_sauce.n.01	sauce made with unsweetened chocolate or cocoa and sugar and water	1
+carpenter's_kit.n.01	a set of carpenter's tools	1
+doormat.n.02	a mat placed outside an exterior door for wiping the shoes before entering	1
+parisology.n.01	the use of ambiguous words	0
+palace.n.02	the governing group of a kingdom	1
+fire_engine.n.01	any of various large trucks that carry firemen and equipment to the site of a fire	1
+catamaran.n.01	a sailboat with two parallel hulls held together by single deck	1
+african_grey.n.01	commonly domesticated grey parrot with red-and-black tail and white face; native to equatorial Africa	1
+recreational_vehicle.n.01	a motorized wheeled vehicle used for camping or other recreational activities	1
+baboon.n.01	large terrestrial monkeys having doglike muzzles	1
+hair_spray.n.01	toiletry consisting of a commercial preparation that is sprayed on the hair to hold it in place	1
+neuroethics.n.01	the study of ethical implications of treatments for neurological diseases	0
+black_knot.n.01	disease of plum and cherry trees characterized by black excrescences on the branches	0
+gulf.n.02	an unbridgeable disparity (as from a failure of understanding)	0
+antiestablishmentarianism.n.01	the doctrine of opposition to the social and political establishment	0
+measuring_cup.n.01	graduated cup used to measure liquid or granular ingredients	1
+lodging.n.03	the act of lodging	0
+architectonics.n.01	the science of architecture	0
+loudspeaker.n.01	electro-acoustic transducer that converts electrical signals into sounds loud enough to be heard at a distance	1
+anterior_synechia.n.01	adhesion between the iris and the cornea	0
+impaction.n.02	a disorder in which feces are impacted in the lower colon	0
+revolver.n.01	a pistol with a revolving cylinder (usually having six chambers for bullets)	1
+combination_lock.n.01	lock that can be opened only by turning dials in a special sequence	1
+coral_reef.n.01	a reef consisting of coral consolidated into limestone	1
+psychology.n.01	the science of mental life	0
+beer_bottle.n.01	a bottle that holds beer	1
+strainer.n.01	a filter to retain larger pieces while smaller pieces and liquids pass through	1
+allurement.n.01	attractiveness	0
+hemosiderosis.n.01	abnormal deposit of hemosiderin; often a symptom of thalassemia or hemochromatosis	0
+basenji.n.01	small smooth-haired breed of African origin having a tightly curled tail and the inability to bark	1
+anglicanism.n.01	the faith and doctrine and practice of the Anglican Church	0
+self-consciousness.n.02	self-awareness plus the additional realization that others are similarly aware of you	0
+disadvantage.n.01	the quality of having an inferior or less favorable position	0
+mountain_bike.n.01	a bicycle with a sturdy frame and fat tires; originally designed for riding in mountainous country	1
+love.n.04	a deep feeling of sexual desire and attraction	0
+bearberry.n.03	chiefly evergreen subshrubs of northern to Arctic areas	0
+leptomeningitis.n.01	inflammation of the leptomeninges	0
+sialadenitis.n.01	inflammation of the salivary glands	0
+nonresistance.n.01	group refusal to resort to violence even in defense against violence	0
+latitude.n.02	freedom from normal restraints in conduct	0
+participation.n.02	the condition of sharing in common with others (as fellows or partners etc.)	0
+golfcart.n.01	a small motor vehicle in which golfers can ride between shots	1
+sexual_desire.n.01	a desire for sexual intimacy	0
+howler_monkey.n.01	monkey of tropical South American forests having a loud howling cry	1
+ashcan.n.01	a bin that holds rubbish until it is collected	1
+pencil_box.n.01	a box for holding pencils	1
+chambered_nautilus.n.01	cephalopod of the Indian and Pacific oceans having a spiral shell with pale pearly partitions	1
+dipsomania.n.01	an intense persistent desire to drink alcoholic beverages to excess	0
+border_collie.n.01	developed in the area between Scotland and England usually having a black coat with white on the head and tip of tail used for herding both sheep and cattle	1
+panax.n.01	perennial herbs of eastern North America and Asia having aromatic tuberous roots: ginseng	0
+friendship.n.01	the state of being friends (or friendly)	0
+bee_eater.n.01	colorful chiefly tropical Old World bird having a strong graceful flight; feeds on especially bees	1
+distress.n.01	psychological suffering	0
+infection.n.06	moral corruption or contamination	0
+table_lamp.n.01	a lamp that sits on a table	1
+decision_making.n.01	the cognitive process of reaching a decision	0
+paleomammalogy.n.01	the paleobiology of ancient mammals	0
+extinction.n.04	complete annihilation	0
+parking_meter.n.01	a coin-operated timer located next to a parking space; depositing money into it entitles you to park your car there for a specified length of time	1
+grey_fox.n.01	dark grey American fox; from Central America through southern United States	1
+wood_rabbit.n.01	common small rabbit of North America having greyish or brownish fur and a tail with a white underside; a host for Ixodes pacificus and Ixodes scapularis (Lyme disease ticks)	1
+hearing_impairment.n.01	impairment of the sense of hearing	0
+egality.n.01	social and political equality	0
+labrador_retriever.n.01	breed originally from Labrador having a short black or golden-brown coat	1
+clasp.n.02	the act of grasping	0
+laptop.n.01	a portable computer small enough to use in your lap	1
+optimism.n.02	a general disposition to expect the best in all things	0
+overfeeding.n.01	excessive feeding	0
+otitis.n.01	inflammation of the ear	0
+flute.n.01	a high-pitched woodwind instrument; a slender tube closed at one end with finger holes on one end and an opening near the closed end across which the breath is blown	1
+stomach.n.03	an inclination or liking for things involving conflict or difficulty or unpleasantness	0
+obstipation.n.01	severe constipation resulting from an obstruction in the intestines	0
+electrification.n.02	the act of providing electricity	0
+otterhound.n.01	hardy British hound having long pendulous ears and a thick coarse shaggy coat with an oily undercoat; bred for hunting otters	1
+disbandment.n.01	the act of disbanding	0
+necrotizing_enterocolitis.n.01	an acute inflammatory disease occurring in the intestines of premature infants; necrosis of intestinal tissue may follow	0
+pericarditis.n.01	inflammation of the pericardium	0
+theology.n.01	the rational and systematic study of religion and its influences and of the nature of religious truth	0
+trilobite.n.01	an extinct arthropod that was abundant in Paleozoic times; had an exoskeleton divided into three parts	1
+pekinese.n.01	a Chinese breed of small short-legged dogs with a long silky coat and broad flat muzzle	1
+jinrikisha.n.01	a small two-wheeled cart for one passenger; pulled by one person	1
+undependability.n.01	the trait of not being dependable or reliable	0
+philomath.n.01	a lover of learning	0
+dining_table.n.01	a table at which meals are served	1
+slot.n.07	a slot machine that is used for gambling	1
+computer_keyboard.n.01	a keyboard that is a data input device for computers; arrangement of keys is modelled after the typewriter keyboard	1
+burrito.n.01	a flour tortilla folded around a filling	1
+triumphal_arch.n.01	a monumental archway; usually they are built to commemorate some notable victory	1
+ascites.n.01	accumulation of serous fluid in peritoneal cavity	0
+adaptability.n.01	the ability to change (or be changed) to fit changed circumstances	0
+theater_curtain.n.01	a hanging cloth that conceals the stage from the view of the audience; rises or parts at the beginning and descends or closes between acts and at the end of a performance	1
+sore_throat.n.01	inflammation of the fauces and pharynx	0
+alalia.n.01	paralysis of the vocal cords resulting in an inability to speak	0
+banjo.n.01	a stringed instrument of the guitar family that has long neck and circular body	1
+sea_cucumber.n.01	echinoderm having a flexible sausage-shaped body, tentacles surrounding the mouth and tube feet; free-living mud feeders	1
+pickelhaube.n.01	a spiked helmet worn by German soldiers	1
+narrow-mindedness.n.01	an inclination to criticize opposing opinions or shocking behavior	0
+resurrection.n.02	a revival from inactivity and disuse	0
+kelpie.n.02	an Australian sheepdog with pointed ears	1
+pointing_out.n.01	indication by demonstration	0
+king_crab.n.03	large edible crab of northern Pacific waters especially along the coasts of Alaska and Japan	1
+mosquito_net.n.01	a fine net or screen (especially around beds) to protect against mosquitos	1
+ballpoint.n.01	a pen that has a small metal ball as the point of transfer of ink to paper	1
+switch.n.01	control consisting of a mechanical or electrical or electronic device for making or breaking or changing the connections in a circuit	1
+healthfulness.n.01	the quality of promoting good health	0
+kuvasz.n.01	long-established Hungarian breed of tall light-footed but sturdy white dog; used also as a hunting dog	1
+mushroom.n.01	common name for an edible agaric (contrasting with the inedible toadstool)	1
+walking_stick.n.02	any of various mostly tropical insects having long twiglike bodies	1
+color_constancy.n.01	the tendency for a color to look the same under widely different viewing conditions	0
+sliding_door.n.01	a door that opens by sliding instead of swinging	1
+criminology.n.01	the scientific study of crime and criminal behavior and law enforcement	0
+bloodshed.n.01	the shedding of blood resulting in murder	0
+swab.n.02	cleaning implement consisting of absorbent material fastened to a handle; for cleaning floors	1
+funk.n.01	a state of nervous depression	0
+mitten.n.01	glove that encases the thumb separately and the other four fingers together	1
+hypocellularity.n.01	the state of having abnormally few cells	0
+red_wine.n.01	wine having a red color derived from skins of dark-colored grapes	1
+preemption.n.02	the right of a government to seize or appropriate something (as property)	0
+balance_beam.n.01	a gymnastic apparatus used by women gymnasts	1
+thirties.n.02	the decade from 1930 to 1939	0
+projectile.n.01	a weapon that is forcibly thrown or projected at a targets but is not self-propelled	1
+snow_leopard.n.01	large feline of upland central Asia having long thick whitish fur	1
+sobriety.n.02	moderation in or abstinence from alcohol or other drugs	0
+visceral_leishmaniasis.n.01	leishmaniasis of the viscera	0
+ping-pong_ball.n.01	light hollow ball used in playing table tennis	1
+snorkel.n.01	breathing device consisting of a bent tube fitting into a swimmer's mouth and extending above the surface; allows swimmer to breathe while face down in the water	1
+strawberry.n.02	any of various low perennial herbs with many runners and bearing white flowers followed by edible fruits having many small achenes scattered on the surface of an enlarged red pulpy berry	1
+retrospect.n.01	contemplation of things past	0
+crumbliness.n.01	excessive breakableness	0
+bell_pepper.n.02	large bell-shaped sweet pepper in green or red or yellow or orange or black varieties	1
+unenlightenment.n.01	a lack of understanding	0
+forsaking.n.01	the act of forsaking	0
+crate.n.01	a rugged box (usually made of wood); used for shipping	1
+hypnogenesis.n.01	the induction of sleep or hypnosis	0
+bearskin.n.02	tall hat; worn by some British soldiers on ceremonial occasions	1
+nipple.n.02	a flexible cap on a baby's feeding bottle or pacifier	1
+seashore.n.01	the shore of a sea or ocean	1
+heart_attack.n.01	a sudden severe instance of abnormal heart function	0
+nuclear_rna.n.01	ribonucleic acid found in the nucleolus of the cell	0
+ringneck_snake.n.01	any of numerous small nonvenomous North American snakes with a yellow or orange ring around the neck	1
+misquotation.n.01	an incorrect quotation	0
+lipstick.n.01	makeup that is used to color the lips	1
+causalgia.n.01	a burning pain in a limb along the course of a peripheral nerve; usually associated with skin changes	0
+broom.n.02	any of various shrubs of the genera Cytisus or Genista or Spartium having long slender branches and racemes of yellow flowers	1
+guilt.n.01	the state of having committed an offense	0
+boston_bull.n.01	small pug-faced American terrier breed having a smooth brindle or black coat with white markings	1
+coral_fungus.n.01	any of numerous fungi of the family Clavariaceae often brightly colored that grow in often intricately branched clusters like coral	1
+calisthenics.n.01	the practice of calisthenic exercises	0
+cryesthesia.n.01	hypersensitivity to cold	0
+loggerhead.n.02	very large carnivorous sea turtle; wide-ranging in warm open seas	1
+slide_rule.n.01	analog computer consisting of a handheld instrument used for rapid calculations; have been replaced by pocket calculators	1
+futurism.n.02	the position that the meaning of life should be sought in the future	0
+totem_pole.n.01	a tribal emblem consisting of a pillar carved and painted with totemic figures; erected by Indian tribes of the northwest Pacific coast	1
+frilled_lizard.n.01	large arboreal insectivorous Australian lizard with a ruff of skin around the neck	1
+colobus.n.01	arboreal monkey of western and central Africa with long silky fur and reduced thumbs	1
+anonymity.n.01	the state of being anonymous	0
+sprachgefuhl.n.01	an intuitive feeling for the natural idiom of a language	0
+colitis.n.01	inflammation of the colon	0
+tarantula.n.02	large hairy tropical spider with fangs that can inflict painful but not highly venomous bites	1
+proboscis_monkey.n.01	Borneo monkey having a long bulbous nose	1
+bagel.n.01	(Yiddish) glazed yeast-raised doughnut-shaped roll with hard crust	1
+unhealthfulness.n.01	the quality of promoting poor health	0
+quilt.n.01	bedding made of two layers of cloth filled with stuffing and stitched together	1
+herpes.n.01	viral diseases causing eruptions of the skin or mucous membrane	0
+apprehension.n.04	the act of apprehending (especially apprehending a criminal)	0
+monosomy.n.01	chromosomal abnormality consisting of the absence of one chromosome from the normal diploid number	0
+dependability.n.01	the quality of being dependable or reliable	0
+suit.n.01	a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color	1
+chimpanzee.n.01	intelligent somewhat arboreal ape of equatorial African forests	1
+swimming_trunks.n.01	swimsuit worn by men while swimming	1
+volition.n.01	the capability of conscious choice and decision and intention	0
+toyshop.n.01	shop where toys are sold	1
+conjunctivitis.n.01	inflammation of the conjunctiva of the eye	0
+kit_fox.n.01	small grey fox of southwestern United States; may be a subspecies of Vulpes velox	1
+jigsaw_puzzle.n.01	a puzzle that requires you to reassemble a picture that has been mounted on a stiff base and cut into interlocking pieces	1
+affection.n.01	a positive feeling of liking	0
+english_setter.n.01	an English breed having a plumed tail and a soft silky coat that is chiefly white	1
+deafness.n.01	partial or complete loss of hearing	0
+callosotomy.n.01	severing the corpus callosum so that communication between the cerebral hemispheres is interrupted (in cases of severe intractable epilepsy)	0
+membership.n.02	the state of being a member	0
+orange.n.04	any pigment producing the orange color	1
+steam_locomotive.n.01	a locomotive powered by a steam engine	1
+kimono.n.01	a loose robe; imitated from robes originally worn by Japanese	1
+alienage.n.01	the quality of being alien	0
+electric_locomotive.n.01	a locomotive that is powered by an electric motor	1
+desk.n.01	a piece of furniture with a writing surface and usually drawers or other compartments	1
+hypnotherapy.n.01	the use of hypnosis in psychotherapy	0
+gyromitra.n.01	any fungus of the genus Gyromitra	1
+radiochemistry.n.01	the chemistry of radioactive substances	0
+affenpinscher.n.01	European breed of small dog resembling a terrier with dark wiry hair and a tufted muzzle	1
+dutch_oven.n.02	iron or earthenware cooking pot; used for stews	1
+valley.n.01	a long depression in the surface of the land that usually contains a river	1
+rift.n.01	a gap between cloud masses	0
+shower_cap.n.01	a tight cap worn to keep hair dry while showering	1
+choriomeningitis.n.01	a cerebral meningitis with cellular infiltration of the meninges	0
+obelisk.n.01	a stone pillar having a rectangular cross section tapering towards a pyramidal top	1
+assault_rifle.n.01	any of the automatic rifles or semiautomatic rifles with large magazines designed for military use	1
+debt.n.03	an obligation to pay or do something	0
+scotch_terrier.n.01	old Scottish breed of small long-haired usually black terrier with erect tail and ears	1
+safe.n.02	a ventilated or refrigerated cupboard for securing provisions from pests	1
+extinction.n.03	the reduction of the intensity of radiation as a consequence of absorption and radiation	0
+radiator.n.01	any object that radiates energy	1
+solid_geometry.n.01	the geometry of 3-dimensional space	0
+king_penguin.n.01	large penguin on islands bordering the Antarctic Circle	1
+props.n.01	proper respect	0
+arctic_fox.n.01	thickly-furred fox of Arctic regions; brownish in summer and white in winter	1
+paraffin.n.03	(British usage) kerosine	0
+stiff_upper_lip.n.01	self-restraint in the expression of emotion (especially fear or grief)	0
+spoonbill.n.01	wading birds having a long flat bill with a tip like a spoon	1
+radium_therapy.n.01	the use of radium in radiation therapy	0
+titi.n.03	small South American monkeys with long beautiful fur and long nonprehensile tail	1
+aircraft_carrier.n.01	a large warship that carries planes and has a long flat deck for takeoffs and landings	1
+dome.n.01	a concave shape whose distinguishing characteristic is that the concavity faces downward	1
+restlessness.n.01	the quality of being ceaselessly moving or active	0
+toaster.n.02	a kitchen appliance (usually electric) for toasting bread	1
+dough.n.01	a flour mixture stiff enough to knead or roll	1
+redundancy.n.02	the attribute of being superfluous and unneeded	0
+moratorium.n.01	a legally authorized postponement before some obligation must be discharged	0
+monarch.n.02	large migratory American butterfly having deep orange wings with black and white markings; the larvae feed on milkweed	1
+custard_apple.n.02	the fruit of any of several tropical American trees of the genus Annona having soft edible pulp	1
+catabiosis.n.01	normal aging of cells	0
+wooden_spoon.n.01	a booby prize consisting of a spoon made of wood	1
+albatross.n.02	large web-footed birds of the southern hemisphere having long narrow wings; noted for powerful gliding flight	1
+black-footed_ferret.n.01	musteline mammal of prairie regions of United States; nearly extinct	1
+grocery_store.n.01	a marketplace where groceries are sold	1
+bicycle-built-for-two.n.01	a bicycle with two sets of pedals and two seats	1

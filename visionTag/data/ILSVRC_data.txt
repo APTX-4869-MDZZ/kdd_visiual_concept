@@ -1,0 +1,999 @@
+kit_fox.n.01	small grey fox of southwestern United States; may be a subspecies of Vulpes velox	1
+english_setter.n.01	an English breed having a plumed tail and a soft silky coat that is chiefly white	1
+australian_terrier.n.01	small greyish wire-haired breed of terrier from Australia similar to the cairn	1
+grey_whale.n.01	medium-sized greyish-black whale of the northern Pacific	1
+lesser_panda.n.01	reddish-brown Old World raccoon-like carnivore; in some classifications considered unrelated to the giant pandas	1
+egyptian_cat.n.01	a domestic cat of Egypt	1
+ibex.n.01	wild goat of mountain areas of Eurasia and northern Africa having large recurved horns	1
+persian_cat.n.01	a long-haired breed of cat	1
+cougar.n.01	large American feline resembling a lion	1
+gazelle.n.01	small swift graceful antelope of Africa and Asia having lustrous eyes	1
+porcupine.n.01	relatively large rodents with sharp erectile bristles mingled with the fur	1
+sea_lion.n.01	any of several large eared seals of the northern Pacific related to fur seals but lacking their valuable coat	1
+badger.n.02	sturdy carnivorous burrowing mammal with strong claws; widely distributed in the northern hemisphere	1
+great_dane.n.01	very large powerful smooth-coated breed of dog	1
+scottish_deerhound.n.01	very large and tall rough-coated dog bred for hunting deer; known as the royal dog of Scotland	1
+killer_whale.n.01	predatory black-and-white toothed whale with large dorsal fin; common in cold seas	1
+mink.n.01	the expensive fur of a mink	1
+african_elephant.n.01	an elephant native to Africa having enormous flapping ears and ivory tusks	1
+red_wolf.n.01	reddish-grey wolf of southwestern North America	1
+jaguar.n.01	a large spotted feline of tropical America similar to the leopard; in some classifications considered a member of the genus Felis	1
+hyena.n.01	doglike nocturnal mammal of Africa and southern Asia that feeds chiefly on carrion	1
+titi.n.03	small South American monkeys with long beautiful fur and long nonprehensile tail	1
+three-toed_sloth.n.01	a sloth that has three long claws on each forefoot and each hindfoot	1
+sorrel.n.05	a horse of a brownish orange to light brown color	1
+black-footed_ferret.n.01	musteline mammal of prairie regions of United States; nearly extinct	1
+dalmatian.n.02	a large breed having a smooth white coat with black or brown spots; originated in Dalmatia	1
+staffordshire_bullterrier.n.01	English breed of strong stocky dog having a broad skull and smooth coat	1
+bouvier_des_flandres.n.01	rough-coated breed used originally in Belgium for herding and guarding cattle	1
+weasel.n.01	a person who is regarded as treacherous or sneaky	1
+miniature_poodle.n.01	a breed of small poodles	1
+bighorn.n.02	wild sheep of mountainous regions of western North America having massive curled horns	1
+fox_squirrel.n.01	exceptionally large arboreal squirrel of eastern United States	1
+colobus.n.01	arboreal monkey of western and central Africa with long silky fur and reduced thumbs	1
+tiger_cat.n.02	a cat having a striped coat	1
+impala.n.01	African antelope with ridged curved horns; moves with enormous leaps	1
+coyote.n.01	small wolf native to western North America	1
+yorkshire_terrier.n.01	very small breed having a long glossy coat of bluish-grey and tan	1
+newfoundland.n.01	a breed of very large heavy dogs with a thick coarse usually black coat; highly intelligent dogs and vigorous swimmers; developed in Newfoundland	1
+red_fox.n.03	the common Old World fox; having reddish-brown fur; commonly considered a single circumpolar species	1
+hartebeest.n.01	a large African antelope with lyre-shaped horns that curve backward	1
+grey_fox.n.01	dark grey American fox; from Central America through southern United States	1
+pekinese.n.01	a Chinese breed of small short-legged dogs with a long silky coat and broad flat muzzle	1
+guenon.n.01	small slender African monkey having long hind limbs and tail and long hair around the face	1
+mongoose.n.01	agile grizzled Old World viverrine; preys on snakes and rodents	1
+indri.n.01	large short-tailed lemur of Madagascar having thick silky fur in black and white and fawn	1
+tiger.n.02	large feline of forests in most of Asia having a tawny coat with black stripes; endangered	1
+wild_boar.n.01	Old World wild swine having a narrow body and prominent tusks from which most domestic swine come; introduced in United States	1
+zebra.n.01	any of several fleet black-and-white striped African equines	1
+ram.n.05	uncastrated adult male sheep	1
+orangutan.n.01	large long-armed ape of Borneo and Sumatra having arboreal habits	1
+basenji.n.01	small smooth-haired breed of African origin having a tightly curled tail and the inability to bark	1
+leopard.n.02	large feline of African and Asian forests usually having a tawny coat with black spots	1
+vizsla.n.01	Hungarian hunting dog resembling the Weimaraner but having a rich deep red coat	1
+squirrel_monkey.n.01	small long-tailed monkey of Central American and South America with greenish fur and black muzzle	1
+siamese_cat.n.01	a slender short-haired blue-eyed breed of cat having a pale coat with dark ears paws face and tail tip	1
+chimpanzee.n.01	intelligent somewhat arboreal ape of equatorial African forests	1
+komondor.n.01	Hungarian breed of large powerful shaggy-coated white dog; used also as guard dog	1
+proboscis_monkey.n.01	Borneo monkey having a long bulbous nose	1
+guinea_pig.n.02	stout-bodied nearly tailless domesticated cavy; often kept as a pet and widely used in research	1
+white_wolf.n.01	wolf of Arctic North America having white fur and a black-tipped tail	1
+ice_bear.n.01	white bear of Arctic regions	1
+gorilla.n.01	largest anthropoid ape; terrestrial and vegetarian; of forests of central west Africa	1
+ox.n.01	an adult castrated bull of the genus Bos; especially Bos taurus	1
+tibetan_mastiff.n.01	very large powerful rough-coated dog native to central Asia	1
+spider_monkey.n.01	arboreal monkey of tropical America with long slender legs and long prehensile tail	1
+doberman.n.01	medium large breed of dog of German origin with a glossy black and tan coat; used as a watchdog	1
+warthog.n.01	African wild swine with warty protuberances on the face and large protruding tusks	1
+arabian_camel.n.01	one-humped camel of the hot deserts of northern Africa and southwestern Asia	1
+siamang.n.01	large black gibbon of Sumatra having the 2nd and 3rd toes partially united by a web	1
+golden_retriever.n.01	an English breed having a long silky golden coat	1
+border_collie.n.01	developed in the area between Scotland and England usually having a black coat with white on the head and tip of tail used for herding both sheep and cattle	1
+hare.n.01	swift timid long-eared mammal larger than a rabbit having a divided upper lip and long hind legs; young born furred and with open eyes	1
+boxer.n.04	a breed of stocky medium-sized short-haired dog with a brindled coat and square-jawed muzzle developed in Germany	1
+patas.n.01	reddish long-tailed monkey of west Africa	1
+baboon.n.01	large terrestrial monkeys having doglike muzzles	1
+macaque.n.01	short-tailed monkey of rocky regions of Asia and Africa	1
+capuchin.n.02	monkey of Central America and South America having thick hair on the head that resembles a monk's cowl	1
+flat-coated_retriever.n.01	an English breed having a shiny black or liver-colored coat; retrieves game from land or water	1
+hog.n.03	domestic swine	1
+eskimo_dog.n.01	breed of heavy-coated Arctic sled dog	1
+brittany_spaniel.n.01	tall active short-tailed French breed of bird dog having a usually smooth orange- or liver-and-white coat	1
+dial_telephone.n.01	a telephone with a dial for registering the number to be called	1
+maze.n.01	complex system of paths or tunnels in which it is easy to get lost	1
+gordon_setter.n.01	a Scottish breed with a black-and-tan coat	1
+dingo.n.01	wolflike yellowish-brown wild dog of Australia	1
+hamster.n.01	short-tailed Old World burrowing rodent with large cheek pouches	1
+arctic_fox.n.01	thickly-furred fox of Arctic regions; brownish in summer and white in winter	1
+water_buffalo.n.01	an Asian buffalo that is often domesticated for use as a draft animal	1
+american_black_bear.n.01	brown to black North American bear; smaller and less ferocious than the brown bear	1
+angora.n.03	domestic breed of rabbit with long white silky hair	1
+bison.n.01	any of several large humped bovids having shaggy manes and large heads and short horns	1
+howler_monkey.n.01	monkey of tropical South American forests having a loud howling cry	1
+hippopotamus.n.01	massive thick-skinned herbivorous animal living in or around rivers of tropical Africa	1
+giant_panda.n.01	large black-and-white herbivorous mammal of bamboo forests of China and Tibet; in some classifications considered a member of the bear family or of a separate family Ailuropodidae	1
+tabby.n.01	a cat with a grey or tawny coat mottled with black	1
+marmoset.n.01	small soft-furred South American and Central American monkey with claws instead of nails	1
+saint_bernard.n.01	a Swiss alpine breed of large powerful dog with a thick coat of hair used as a rescue dog	1
+armadillo.n.01	burrowing chiefly nocturnal mammal with body covered with strong horny plates	1
+redbone.n.01	a speedy red or red-and-tan American hound	1
+polecat.n.02	dark brown mustelid of woodlands of Eurasia that gives off an unpleasant odor when threatened	1
+marmot.n.01	stocky coarse-furred burrowing rodent with a short bushy tail found throughout the northern hemisphere; hibernates in winter	1
+gibbon.n.02	smallest and most perfectly anthropoid arboreal ape having long arms and no tail; of southern Asia and East Indies	1
+llama.n.01	wild or domesticated South American cud-chewing animal related to camels but smaller and lacking a hump	1
+wood_rabbit.n.01	common small rabbit of North America having greyish or brownish fur and a tail with a white underside; a host for Ixodes pacificus and Ixodes scapularis (Lyme disease ticks)	1
+lion.n.01	large gregarious predatory feline of Africa and India having a tawny coat with a shaggy mane in the male	1
+irish_setter.n.01	an Irish breed with a chestnut-brown or mahogany-red coat	1
+dugong.n.01	sirenian tusked mammal found from eastern Africa to Australia; the flat tail is bilobate	1
+indian_elephant.n.01	Asian elephant having smaller ears and tusks primarily in the male	1
+beaver.n.03	a full beard	1
+madagascar_cat.n.01	small lemur having its tail barred with black	1
+rhodesian_ridgeback.n.01	a powerful short-haired African hunting dog having a crest of reversed hair along the spine	1
+lynx.n.02	short-tailed wildcats with usually tufted ears; valued for their fur	1
+african_hunting_dog.n.01	a powerful doglike mammal of southern and eastern Africa that hunts in large packs; now rare in settled area	1
+langur.n.01	slender long-tailed monkey of Asia	1
+timber_wolf.n.01	a wolf with a brindled grey coat living in forested northern regions of North America	1
+cheetah.n.01	long-legged spotted cat of Africa and southwestern Asia having nonretractile claws; the swiftest mammal; can be trained to run down game	1
+sloth_bear.n.01	common coarse-haired long-snouted bear of south-central Asia	1
+german_shepherd.n.01	breed of large shepherd dogs used in police work and as a guide for the blind	1
+otter.n.01	the fur of an otter	1
+koala.n.01	sluggish tailless Australian arboreal marsupial with grey furry ears and coat; feeds on eucalyptus leaves and bark	1
+tusker.n.01	any mammal with prominent tusks (especially an elephant or wild boar)	1
+echidna.n.01	a burrowing monotreme mammal covered with spines and having a long snout and claws for hunting ants and termites; native to New Guinea	1
+wallaby.n.01	any of various small or medium-sized kangaroos; often brightly colored	1
+platypus.n.01	small densely furred aquatic monotreme of Australia and Tasmania having a broad bill and tail and webbed feet; only species in the family Ornithorhynchidae	1
+wombat.n.01	burrowing herbivorous Australian marsupials about the size of a badger	1
+revolver.n.01	a pistol with a revolving cylinder (usually having six chambers for bullets)	1
+umbrella.n.01	a lightweight handheld collapsible canopy	1
+schooner.n.01	a large beer glass	1
+soccer_ball.n.01	an inflated ball used in playing soccer	1
+accordion.n.01	a portable box-shaped free-reed instrument; the reeds are made to vibrate by air from the bellows controlled by the player	1
+ant.n.01	social insect living in organized colonies; characteristically the males and fertile queen have wings during breeding season; wingless sterile females are the workers	1
+starfish.n.01	echinoderms characterized by five arms extending from a central disk	1
+chambered_nautilus.n.01	cephalopod of the Indian and Pacific oceans having a spiral shell with pale pearly partitions	1
+grand_piano.n.01	a piano with the strings on a horizontal harp-shaped frame; usually supported by three legs	1
+laptop.n.01	a portable computer small enough to use in your lap	1
+strawberry.n.02	any of various low perennial herbs with many runners and bearing white flowers followed by edible fruits having many small achenes scattered on the surface of an enlarged red pulpy berry	1
+airliner.n.01	a commercial airplane that carries passengers	1
+warplane.n.01	an aircraft designed and used for combat	1
+airship.n.01	a steerable self-propelled aircraft	1
+balloon.n.02	small thin inflatable rubber bag with narrow neck	1
+space_shuttle.n.01	a reusable spacecraft with wings for a controlled descent through the Earth's atmosphere	1
+fireboat.n.01	a boat equipped to fight fires on ships or along a waterfront	1
+gondola.n.02	long narrow flat-bottomed boat propelled by sculling; traditionally used on canals of Venice	1
+speedboat.n.01	a fast motorboat	1
+lifeboat.n.01	a strong sea boat designed to rescue people from a sinking ship	1
+canoe.n.01	small and light boat; pointed at both ends; propelled with a paddle	1
+yawl.n.01	a ship's small boat (usually rowed by 4 or 6 oars)	1
+catamaran.n.01	a sailboat with two parallel hulls held together by single deck	1
+trimaran.n.01	a fast sailboat with 3 parallel hulls	1
+container_ship.n.01	a cargo ship designed to hold containerized cargoes	1
+liner.n.04	a large commercial ship (especially one that carries passengers on a regular schedule)	1
+pirate.n.03	a ship that is manned by pirates	1
+aircraft_carrier.n.01	a large warship that carries planes and has a long flat deck for takeoffs and landings	1
+submarine.n.01	a submersible warship usually armed with torpedoes	1
+wreck.n.01	something or someone that has suffered ruin or dilapidation	1
+half_track.n.01	a motor vehicle propelled by half tracks; frequently used by the military	1
+tank.n.01	an enclosed armored military vehicle; has a cannon and moves on caterpillar treads	1
+missile.n.01	a rocket carrying a warhead of conventional or nuclear explosives; may be ballistic or directed by remote control	1
+bobsled.n.02	a long racing sled (for 2 or more people) with a steering mechanism	1
+dogsled.n.01	a sled pulled by dogs	1
+bicycle-built-for-two.n.01	a bicycle with two sets of pedals and two seats	1
+mountain_bike.n.01	a bicycle with a sturdy frame and fat tires; originally designed for riding in mountainous country	1
+freight_car.n.01	a railway car that carries freight	1
+passenger_car.n.01	a railcar where passengers ride	1
+barrow.n.03	a cart for carrying small loads; has handles and one or more wheels	1
+shopping_cart.n.01	a handcart that holds groceries or other goods while shopping	1
+motor_scooter.n.01	a wheeled vehicle with small wheels and a low-powered gasoline engine geared to the rear wheel	1
+forklift.n.01	a small industrial vehicle with a power operated forked platform in front that can be inserted under loads to lift and move them	1
+electric_locomotive.n.01	a locomotive that is powered by an electric motor	1
+steam_locomotive.n.01	a locomotive powered by a steam engine	1
+amphibian.n.01	a flat-bottomed motor vehicle that can travel on land or water	1
+ambulance.n.01	a vehicle that takes people to and from hospitals	1
+beach_wagon.n.01	a car that has a long body and rear door with space behind rear seat	1
+cab.n.03	a car driven by a person whose job is to take passengers where they want to go in exchange for money	1
+convertible.n.01	a car that has top that can be folded or removed	1
+jeep.n.01	a car suitable for traveling over rough terrain	1
+limousine.n.01	large luxurious car; usually driven by a chauffeur	1
+minivan.n.01	a small box-shaped passenger van; usually has removable seats; used as a family car	1
+model_t.n.01	the first widely available automobile powered by a gasoline engine; mass-produced by Henry Ford from 1908 to 1927	1
+racer.n.02	a fast car that competes in races	1
+sports_car.n.01	a small low car with a high-powered engine; usually seats two persons	1
+go-kart.n.01	a small low motor vehicle with four wheels and an open framework; used for racing	1
+golfcart.n.01	a small motor vehicle in which golfers can ride between shots	1
+moped.n.01	a motorbike that can be pedaled or driven by a low-powered gasoline engine	1
+snowplow.n.01	a vehicle used to push snow from roads	1
+fire_engine.n.01	any of various large trucks that carry firemen and equipment to the site of a fire	1
+garbage_truck.n.01	a truck for collecting domestic refuse	1
+pickup.n.01	a light truck with an open body and low sides and a tailboard	1
+tow_truck.n.01	a truck equipped to hoist and pull wrecked cars (or to remove cars from no-parking zones)	1
+trailer_truck.n.01	a truck consisting of a tractor and trailer together	1
+moving_van.n.01	a van used for moving home or office furniture	1
+police_van.n.01	van used by police to transport prisoners	1
+recreational_vehicle.n.01	a motorized wheeled vehicle used for camping or other recreational activities	1
+streetcar.n.01	a wheeled vehicle that runs on rails and is propelled by electricity	1
+snowmobile.n.01	tracked vehicle for travel on snow having skis in front	1
+tractor.n.02	a truck that has a cab but no body; used for pulling large trailers or vans	1
+mobile_home.n.01	a large house trailer that can be connected to utilities and can be parked in one place and used as permanent housing	1
+tricycle.n.01	a vehicle with three wheels that is moved by foot pedals	1
+unicycle.n.01	a vehicle with a single wheel that is driven by pedals	1
+horse_cart.n.01	heavy cart; drawn by a horse; used for farm work	1
+mosquito_net.n.01	a fine net or screen (especially around beds) to protect against mosquitos	1
+oxcart.n.01	a cart that is drawn by an ox	1
+bassinet.n.02	a perambulator that resembles a bassinet	1
+cradle.n.03	birth of a person	1
+crib.n.01	baby bed with high sides made of slats	1
+four-poster.n.01	a bed with posts at the four corners that can be used to support a canopy or curtains	1
+bookcase.n.01	a piece of furniture with shelves for storing books	1
+china_cabinet.n.01	a cabinet (usually with glass doors) for storing and displaying china	1
+medicine_chest.n.01	cabinet that holds medicines and toiletries	1
+chiffonier.n.01	a tall elegant chest of drawers	1
+table_lamp.n.01	a lamp that sits on a table	1
+file.n.03	office furniture consisting of a container for keeping papers in order	1
+pay-phone.n.01	a coin-operated telephone	1
+park_bench.n.01	a bench in a public park	1
+barber_chair.n.01	a large fixed adjustable chair in which barbers seat their customers	1
+throne.n.01	the chair of state for a monarch, bishop, etc.	1
+folding_chair.n.01	a chair that can be folded flat for storage	1
+rocking_chair.n.01	a chair mounted on rockers	1
+studio_couch.n.01	convertible consisting of an upholstered couch that can be converted into a double bed	1
+toilet_seat.n.01	the hinged seat on a toilet	1
+desk.n.01	a piece of furniture with a writing surface and usually drawers or other compartments	1
+pool_table.n.01	game equipment consisting of a heavy table on which pool is played	1
+dining_table.n.01	a table at which meals are served	1
+entertainment_center.n.01	a wall unit containing sound and television systems	1
+wardrobe.n.01	a tall piece of furniture that provides storage space for clothes; has a door and rails or hooks for hanging clothes	1
+granny_smith.n.01	apple with a green skin and hard tart flesh	1
+orange.n.04	any pigment producing the orange color	1
+lemon.n.01	yellow oval fruit with juicy acidic flesh	1
+fig.n.04	fleshy sweet pear-shaped yellowish or purple multiple fruit eaten fresh or preserved or dried	1
+pineapple.n.02	large sweet fleshy tropical fruit with a terminal tuft of stiff leaves; widely cultivated	1
+banana.n.02	elongated crescent-shaped yellow fruit with soft sweet flesh	1
+jackfruit.n.02	immense East Indian fruit resembling breadfruit; it contains an edible pulp and nutritious seeds that are commonly roasted	1
+custard_apple.n.02	the fruit of any of several tropical American trees of the genus Annona having soft edible pulp	1
+pomegranate.n.02	large globular fruit having many seeds with juicy red pulp in a tough brownish-red rind	1
+acorn.n.01	fruit of the oak tree: a smooth thin-walled nut in a woody cup-shaped base	1
+hip.n.05	the fruit of a rose plant	1
+ear.n.05	fruiting spike of a cereal plant especially corn	1
+rapeseed.n.01	seed of rape plants; source of an edible oil	1
+corn.n.02	the dried grains or kernels or corn used as animal feed or ground for meal	1
+buckeye.n.01	the inedible nutlike seed of the horse chestnut	1
+organ.n.05	wind instrument whose sound is produced by means of pipes arranged in sets supplied with air from a bellows and controlled from a large complex musical keyboard	1
+upright.n.02	a piano with a vertical sounding board	1
+chime.n.01	a percussion instrument consisting of a set of tuned bells that are struck with a hammer; used as an orchestral instrument	1
+drum.n.01	a musical percussion instrument; usually consists of a hollow cylinder with a membrane stretched across each end	1
+gong.n.01	a percussion instrument consisting of a metal plate that is struck with a softheaded drumstick	1
+maraca.n.01	a percussion instrument consisting of a hollow gourd containing pebbles or beans; often played in pairs	1
+marimba.n.01	a percussion instrument with wooden bars tuned to produce a chromatic scale and with resonators; played with small mallets	1
+steel_drum.n.01	a concave percussion instrument made from the metal top of an oil drum; has an array of flattened areas that produce different tones when struck (of Caribbean origin)	1
+banjo.n.01	a stringed instrument of the guitar family that has long neck and circular body	1
+cello.n.01	a large stringed instrument; seated player holds it upright while playing	1
+lampshade.n.01	a protective ornamental shade used to screen a light bulb from direct view	1
+harp.n.02	a pair of curved vertical supports for a lampshade	1
+acoustic_guitar.n.01	sound is not amplified by electrical means	1
+electric_guitar.n.01	a guitar whose sound is amplified by electrical means	1
+cornet.n.01	a brass musical instrument with a brilliant tone; has a narrow tube and a flared bell and is played by means of valves	1
+french_horn.n.01	a brass musical instrument consisting of a conical tube that is coiled into a spiral and played by means of valves	1
+trombone.n.01	a brass instrument consisting of a long tube whose length can be varied by a U-shaped slide	1
+harmonica.n.01	a small rectangular free-reed instrument having a row of free reeds set back in air holes and played by blowing into the desired hole	1
+ocarina.n.01	egg-shaped terra cotta wind instrument with a mouthpiece and finger holes	1
+panpipe.n.01	a primitive wind instrument consisting of several parallel pipes bound together	1
+bassoon.n.01	a double-reed instrument; the tenor of the oboe family	1
+sax.n.02	a single-reed woodwind with a conical bore	1
+flute.n.01	a high-pitched woodwind instrument; a slender tube closed at one end with finger holes on one end and an opening near the closed end across which the breath is blown	1
+daisy.n.01	any of numerous composite plants having flower heads with well-developed ray flowers usually arranged in a single whorl	1
+yellow_lady's_slipper.n.01	maroon to purple-brown orchid with yellow lip; Europe, North America and Japan	1
+cliff.n.01	a steep high face of rock	1
+valley.n.01	a long depression in the surface of the land that usually contains a river	1
+alp.n.01	any high mountain	1
+volcano.n.02	a mountain formed by volcanic material	1
+promontory.n.01	a natural elevation (especially a rocky one that juts out into the sea)	1
+sandbar.n.01	a bar of sand	1
+coral_reef.n.01	a reef consisting of coral consolidated into limestone	1
+lakeside.n.01	the shore of a lake	1
+seashore.n.01	the shore of a sea or ocean	1
+geyser.n.01	a spring that discharges hot water and steam	1
+hatchet.n.02	a small ax with a short handle used with one hand (usually to chop wood)	1
+cleaver.n.01	a butcher's knife having a large square blade	1
+letter_opener.n.01	dull knife used to cut open the envelopes in which letters are mailed or to slit uncut pages of books	1
+plane.n.05	a carpenter's hand tool with an adjustable blade for smoothing or shaping wood	1
+power_drill.n.01	a power tool for drilling holes into hard materials	1
+lawn_mower.n.01	garden tool for mowing grass on lawns	1
+hammer.n.05	a heavy metal sphere attached to a flexible wire; used in the hammer throw	1
+corkscrew.n.01	a bottle opener that pulls corks	1
+can_opener.n.01	a device for cutting cans open	1
+plunger.n.03	hand tool consisting of a stick with a rubber suction cup at one end; used to clean clogged drains	1
+screwdriver.n.02	a cocktail made with vodka and orange juice	1
+shovel.n.03	a fire iron consisting of a small shovel used to scoop coals or ashes in a fireplace	1
+plow.n.01	a farm tool having one or more heavy blades to break the soil and cut a furrow prior to sowing	1
+chain_saw.n.01	portable power saw; teeth linked to form an endless chain	1
+cock.n.05	adult male bird	1
+hen.n.03	flesh of an older chicken suitable for stewing	1
+ostrich.n.02	fast-running African flightless bird with two-toed feet; largest living bird	1
+brambling.n.01	Eurasian finch	1
+goldfinch.n.02	small European finch having a crimson face and yellow-and-black wings	1
+house_finch.n.01	small finch originally of the western United States and Mexico	1
+junco.n.01	small North American finch seen chiefly in winter	1
+indigo_bunting.n.01	small deep blue North American bunting	1
+robin.n.02	large American thrush having a rust-red breast and abdomen	1
+bulbul.n.01	nightingale spoken of in Persian poetry	1
+jay.n.02	crested largely blue bird	1
+magpie.n.01	long-tailed black-and-white crow that utters a raucous chattering call	1
+chickadee.n.01	any of various small grey-and-black songbirds of North America	1
+water_ouzel.n.01	small stocky diving bird without webbed feet; frequents fast-flowing streams and feeds along the bottom	1
+kite.n.01	a bank check that has been fraudulently altered to increase its face value	1
+bald_eagle.n.01	a large eagle of North America that has a white head and dark wings and body	1
+vulture.n.01	any of various large diurnal birds of prey having naked heads and weak claws and feeding chiefly on carrion	1
+great_grey_owl.n.01	large dish-faced owl of northern North America and western Eurasia	1
+black_grouse.n.01	grouse of which the male is bluish-black	1
+ptarmigan.n.01	large Arctic and subarctic grouse with feathered feet and usually white winter plumage	1
+ruffed_grouse.n.01	valued as a game bird in eastern United States and Canada	1
+prairie_chicken.n.01	brown mottled North American grouse of western prairies	1
+peacock.n.02	male peafowl; having a crested head and very large fanlike tail marked with iridescent eyes or spots	1
+quail.n.01	flesh of quail; suitable for roasting or broiling if young; otherwise must be braised	1
+partridge.n.01	flesh of either quail or grouse	1
+african_grey.n.01	commonly domesticated grey parrot with red-and-black tail and white face; native to equatorial Africa	1
+macaw.n.01	long-tailed brilliantly colored parrot of Central America and South America; among the largest and showiest of parrots	1
+sulphur-crested_cockatoo.n.01	white cockatoo with a yellow erectile crest	1
+lorikeet.n.01	any of various small lories	1
+coucal.n.01	Old World ground-living cuckoo having a long dagger-like hind claw	1
+bee_eater.n.01	colorful chiefly tropical Old World bird having a strong graceful flight; feeds on especially bees	1
+hornbill.n.01	bird of tropical Africa and Asia having a very large bill surmounted by a bony protuberance; related to kingfishers	1
+hummingbird.n.01	tiny American bird having brilliant iridescent plumage and long slender bills; wings are specialized for vibrating flight	1
+jacamar.n.01	tropical American insectivorous bird having a long sharp bill and iridescent green or bronze plumage	1
+toucan.n.01	brilliantly colored arboreal fruit-eating bird of tropical America having a very large thin-walled beak	1
+drake.n.02	adult male of a wild or domestic duck	1
+red-breasted_merganser.n.01	widely distributed merganser of America and Europe	1
+goose.n.03	flesh of a goose (domestic or wild)	1
+black_swan.n.01	large Australian swan having black plumage and a red bill	1
+white_stork.n.01	the common stork of Europe; white with black wing feathers and a red bill	1
+black_stork.n.01	Old World stork that is glossy black above and white below	1
+spoonbill.n.01	wading birds having a long flat bill with a tip like a spoon	1
+flamingo.n.01	large pink to scarlet web-footed wading bird with down-bent bill; inhabits brackish lakes	1
+american_egret.n.01	a common egret of the genus Egretta found in America; it is a variety of the Old World white egret Casmerodius albus	1
+little_blue_heron.n.01	small bluish-grey heron of the western hemisphere	1
+bittern.n.01	relatively small compact tawny-brown heron with nocturnal habits and a booming cry; found in marshes	1
+crane.n.04	lifts and moves heavy objects; lifting tackle is suspended from a pivoted boom that rotates around a vertical axis	1
+limpkin.n.01	wading bird of Florida, Cuba and Jamaica having a drooping bill and a distinctive wailing call	1
+american_coot.n.01	a coot found in North America	1
+bustard.n.01	large heavy-bodied chiefly terrestrial game bird capable of powerful swift flight; classified with wading birds but frequents grassy steppes	1
+ruddy_turnstone.n.01	common Arctic turnstone that winters in South America and Australia	1
+red-backed_sandpiper.n.01	small common sandpiper that breeds in northern or Arctic regions and winters in southern United States or Mediterranean regions	1
+redshank.n.01	a common Old World wading bird with long red legs	1
+dowitcher.n.01	shorebird of the sandpiper family that resembles a snipe	1
+oystercatcher.n.01	black-and-white shorebird with stout legs and bill; feed on oysters etc.	1
+european_gallinule.n.01	purple gallinule of southern Europe	1
+pelican.n.01	large long-winged warm-water seabird having a large bill with a distensible pouch for fish	1
+king_penguin.n.01	large penguin on islands bordering the Antarctic Circle	1
+albatross.n.02	large web-footed birds of the southern hemisphere having long narrow wings; noted for powerful gliding flight	1
+great_white_shark.n.01	large aggressive shark widespread in warm seas; known to attack humans	1
+tiger_shark.n.01	large dangerous warm-water shark with striped or spotted body	1
+hammerhead.n.03	medium-sized live-bearing shark with eyes at either end of a flattened hammer-shaped head; worldwide in warm waters; can be dangerous	1
+electric_ray.n.01	any sluggish bottom-dwelling ray of the order Torpediniformes having a rounded body and electric organs on each side of the head capable of emitting strong electric discharges	1
+stingray.n.01	large venomous ray with large barbed spines near the base of a thin whiplike tail capable of inflicting severe wounds	1
+barracouta.n.01	a large marine food fish common on the coasts of Australia, New Zealand, and southern Africa	1
+coho.n.02	small salmon of northern Pacific coasts and the Great Lakes	1
+tench.n.01	freshwater dace-like game fish of Europe and western Asia noted for ability to survive outside water	1
+goldfish.n.01	small golden or orange-red freshwater fishes of Eurasia used as pond or aquarium fishes	1
+eel.n.01	the fatty flesh of eel; an elongate fish found in fresh water in Europe and America; large eels are usually smoked or pickled	1
+rock_beauty.n.01	gold and black butterflyfish found from West Indies to Brazil	1
+anemone_fish.n.01	live associated with sea anemones	1
+lionfish.n.01	brightly striped fish of the tropical Pacific having elongated spiny fins	1
+puffer.n.02	any of numerous marine fishes whose elongated spiny body can inflate itself with water or air to form a globe; several species contain a potent nerve poison; closely related to spiny puffers	1
+sturgeon.n.01	large primitive fishes valued for their flesh and roe; widely distributed in the North Temperate Zone	1
+gar.n.01	primitive predaceous North American fish covered with hard scales and having long jaws with needlelike teeth	1
+loggerhead.n.02	very large carnivorous sea turtle; wide-ranging in warm open seas	1
+mud_turtle.n.01	bottom-dwelling freshwater turtle inhabiting muddy rivers of North America and Central America	1
+terrapin.n.01	any of various edible North American web-footed turtles living in fresh or brackish water	1
+box_turtle.n.01	chiefly terrestrial turtle of North America; shell can be closed tightly	1
+banded_gecko.n.01	any of several geckos with dark bands across the body and differing from typical geckos in having movable eyelids; of United States southwest and Florida Gulf Coast	1
+common_iguana.n.01	large herbivorous tropical American arboreal lizards with a spiny crest along the back; used as human food in Central America and South America	1
+american_chameleon.n.01	small arboreal tropical American insectivorous lizards with the ability to change skin color	1
+whiptail.n.01	any of numerous very agile and alert New World lizards	1
+agama.n.01	small terrestrial lizard of warm regions of the Old World	1
+frilled_lizard.n.01	large arboreal insectivorous Australian lizard with a ruff of skin around the neck	1
+alligator_lizard.n.01	slim short-limbed lizard having a distinctive fold on each side that permits expansion; of western North America	1
+gila_monster.n.01	large orange and black lizard of southwestern United States; not dangerous unless molested	1
+green_lizard.n.01	a common Eurasian lizard about a foot long	1
+african_chameleon.n.01	a chameleon found in Africa	1
+komodo_dragon.n.01	the largest lizard in the world (10 feet); found on Indonesian islands	1
+triceratops.n.01	huge ceratopsian dinosaur having three horns and the neck heavily armored with a very solid frill	1
+african_crocodile.n.01	a dangerous crocodile widely distributed in Africa	1
+american_alligator.n.01	large alligator of the southeastern United States	1
+thunder_snake.n.01	small reddish wormlike snake of eastern United States	1
+ringneck_snake.n.01	any of numerous small nonvenomous North American snakes with a yellow or orange ring around the neck	1
+hognose_snake.n.01	harmless North American snake with upturned nose; may spread its head and neck or play dead when disturbed	1
+green_snake.n.02	either of two North American chiefly insectivorous snakes that are green in color	1
+king_snake.n.01	any of numerous nonvenomous North American constrictors; feed on other snakes and small mammals	1
+garter_snake.n.01	any of numerous nonvenomous longitudinally-striped viviparous North American and Central American snakes	1
+water_snake.n.01	any of various mostly harmless snakes that live in or near water	1
+vine_snake.n.01	slender arboreal snake found from southern Arizona to Bolivia	1
+night_snake.n.01	nocturnal prowler of western United States and Mexico	1
+boa_constrictor.n.01	very large boa of tropical America and West Indies	1
+rock_python.n.01	very large python of tropical and southern Africa	1
+indian_cobra.n.01	a cobra of tropical Africa and Asia	1
+green_mamba.n.01	green phase of the black mamba	1
+sea_snake.n.01	any of numerous venomous aquatic viviparous snakes having a fin-like tail; of warm littoral seas; feed on fish which they immobilize with quick-acting venom	1
+horned_viper.n.01	highly venomous viper of northern Africa and southwestern Asia having a horny spine above each eye	1
+stone_wall.n.01	a fence built of rough stones; used to separate fields	1
+sidewinder.n.01	small pale-colored desert rattlesnake of southwestern United States; body moves in an s-shaped curve	1
+european_fire_salamander.n.01	a kind of European salamander	1
+common_newt.n.01	small semiaquatic salamander	1
+eft.n.01	a newt in its terrestrial stage of development	1
+spotted_salamander.n.01	glossy black North American salamander with yellow spots	1
+axolotl.n.01	larval salamander of mountain lakes of Mexico that usually lives without metamorphosing	1
+bullfrog.n.01	largest North American frog; highly aquatic with a deep-pitched voice	1
+tree_frog.n.02	any of various Old World arboreal frogs distinguished from true frogs by adhesive suckers on the toes	1
+tailed_frog.n.01	western North American frog with a taillike copulatory organ	1
+whistle.n.03	a small wind instrument that produces a whistling sound by blowing into it	1
+wing.n.06	a hockey player stationed in a forward position on either side	1
+paintbrush.n.01	a brush used as an applicator (to apply paint)	1
+oxygen_mask.n.01	a breathing device that is placed over the mouth and nose; supplies oxygen from an attached storage tank	1
+snorkel.n.01	breathing device consisting of a bent tube fitting into a swimmer's mouth and extending above the surface; allows swimmer to breathe while face down in the water	1
+loudspeaker.n.01	electro-acoustic transducer that converts electrical signals into sounds loud enough to be heard at a distance	1
+microphone.n.01	device for converting sound waves into electrical energy	1
+screen.n.03	the display that is electronically created on the surface of the large end of a cathode-ray tube	1
+mouse.n.04	a hand-operated electronic device that controls the coordinates of a cursor on your computer screen as you move it around on a pad; on the bottom of the device is a ball that rolls on the surface of the pad	1
+electric_fan.n.01	a fan run by an electric motor	1
+oil_filter.n.01	a filter that removes impurities from the oil used to lubricate an internal-combustion engine	1
+strainer.n.01	a filter to retain larger pieces while smaller pieces and liquids pass through	1
+space_heater.n.01	heater consisting of a self-contained (usually portable) unit to warm a room	1
+stove.n.02	any heating apparatus	1
+guillotine.n.02	instrument of execution that consists of a weighted blade between two vertical poles; used for beheading people	1
+barometer.n.01	an instrument that measures atmospheric pressure	1
+rule.n.12	measuring stick consisting of a strip of wood or metal or plastic with a straight edge that is used for drawing straight lines and measuring lengths	1
+odometer.n.01	a meter that shows mileage traversed	1
+scale.n.07	a measuring instrument for weighing; shows amount of mass	1
+analog_clock.n.01	a clock that displays the time of day by the position of hands on a dial	1
+digital_clock.n.01	a clock that displays the time of day digitally	1
+wall_clock.n.01	a clock mounted on a wall	1
+hourglass.n.01	a sandglass that runs for sixty minutes	1
+sundial.n.01	timepiece that indicates the daylight hours by the shadow that the gnomon casts on a calibrated dial	1
+parking_meter.n.01	a coin-operated timer located next to a parking space; depositing money into it entitles you to park your car there for a specified length of time	1
+stopwatch.n.01	a timepiece that can be started or stopped for exact timing (as of a race)	1
+digital_watch.n.01	a watch with a digital display	1
+stethoscope.n.01	a medical instrument for listening to the sounds generated inside the body	1
+syringe.n.01	a medical instrument used to inject or withdraw fluids	1
+magnetic_compass.n.01	compass based on an indicator (as a magnetic needle) that points to the magnetic north	1
+binoculars.n.01	an optical instrument designed for simultaneous use by both eyes	1
+projector.n.01	an optical device for projecting a beam of light	1
+sunglasses.n.01	spectacles that are darkened or polarized to protect the eyes from the glare of the sun	1
+loupe.n.01	small magnifying glass (usually set in an eyepiece) used by jewelers and horologists	1
+radio_telescope.n.01	astronomical telescope that picks up electromagnetic radiations in the radio-frequency range from extraterrestrial sources	1
+bow.n.08	a decorative interlacing of ribbons	1
+cannon.n.02	heavy gun fired from a tank	1
+assault_rifle.n.01	any of the automatic rifles or semiautomatic rifles with large magazines designed for military use	1
+rifle.n.01	a shoulder firearm with a long barrel and a rifled bore	1
+projectile.n.01	a weapon that is forcibly thrown or projected at a targets but is not self-propelled	1
+computer_keyboard.n.01	a keyboard that is a data input device for computers; arrangement of keys is modelled after the typewriter keyboard	1
+typewriter_keyboard.n.01	a keyboard for manually entering characters to be printed	1
+lighter.n.02	a device for lighting or igniting fuel or charges or fires	1
+abacus.n.01	a tablet placed horizontally on top of the capital of a column as an aid in supporting the architrave	1
+cash_machine.n.01	an unattended machine (outside some banks) that dispenses money when a personal coded card is used	1
+slide_rule.n.01	analog computer consisting of a handheld instrument used for rapid calculations; have been replaced by pocket calculators	1
+desktop_computer.n.01	a personal computer small enough to fit conveniently in an individual workspace	1
+hand-held_computer.n.01	a portable battery-powered computer small enough to be carried in your pocket	1
+notebook.n.02	a small compact portable computer	1
+padlock.n.01	a detachable lock; has a hinged shackle that can be passed through the staple of a hasp or the links in a chain and then snapped shut	1
+harvester.n.01	someone who helps to gather the harvest	1
+thresher.n.01	a farm machine for separating seeds or grain from the husks and straw	1
+printer.n.02	(computer science) an output device that prints the results of data processing	1
+slot.n.07	a slot machine that is used for gambling	1
+vending_machine.n.01	a slot machine for selling goods	1
+sewing_machine.n.01	a textile machine used as a home appliance for sewing	1
+joystick.n.02	a manual control consisting of a vertical handle that can move freely in two directions; used as an input device to computers or to devices controlled by computers	1
+switch.n.01	control consisting of a mechanical or electrical or electronic device for making or breaking or changing the connections in a circuit	1
+hook.n.04	a mechanical device that is curved or bent to suspend or hold or pull something	1
+car_wheel.n.01	a wheel that has a tire and rim and hubcap; used to propel the car	1
+paddlewheel.n.01	a large wheel fitted with paddles and driven by an engine in order to propel a boat	1
+pinwheel.n.02	a wheel that has numerous pins that are set at right angles to its rim	1
+potter's_wheel.n.01	a horizontal rotating wheel holding the clay being shaped by a potter	1
+gas_pump.n.01	a pump in a service station that draws gasoline from underground storage tanks	1
+carousel.n.02	a large, rotating machine with seats for children to ride or amusement	1
+swing.n.01	a state of steady vigorous action that is characteristic of an activity	1
+reel.n.02	music composed for dancing a reel	1
+radiator.n.01	any object that radiates energy	1
+puck.n.02	a vulcanized rubber disk 3 inches in diameter that is used instead of a ball in ice hockey	1
+hard_disc.n.01	a rigid magnetic disk mounted permanently in a drive unit	1
+sunglass.n.01	a convex lens that focuses the rays of the sun; used to start a fire	1
+pick.n.05	a small thin device (of metal or plastic or ivory) used to pluck a stringed instrument	1
+car_mirror.n.01	a mirror that the driver of a car can use	1
+solar_dish.n.01	a concave mirror that concentrates the rays of the sun; can produce high temperatures	1
+remote_control.n.01	a device that can be used to control a machine or apparatus from a distance	1
+disk_brake.n.01	hydraulic brake in which friction is applied to both sides of a spinning disk by the brake pads	1
+buckle.n.01	fastener that fastens together two ends of a belt or strap; often has loose prong	1
+hair_slide.n.01	a decorative hinged clip that girls and women put in their hair to hold it in place	1
+knot.n.03	a hard cross-grained round piece of wood in a board where a branch emerged	1
+combination_lock.n.01	lock that can be opened only by turning dials in a special sequence	1
+web_site.n.01	a computer connected to the internet that maintains a series of web pages on the World Wide Web	1
+nail.n.03	a former unit of length for cloth equal to 1/16 of a yard	1
+safety_pin.n.01	a pin in the form of a clasp; has a guard so the point of the pin will not stick the user	1
+screw.n.02	a simple machine of the inclined-plane type consisting of a spirally threaded cylindrical rod that engages with a similarly threaded hole	1
+muzzle.n.03	a leather or wire restraint that fits over an animal's snout (especially a dog's nose and jaws) and prevents it from eating or biting	1
+seat_belt.n.01	a safety belt used in a car or plane to hold you in your seat in case of an accident	1
+ski.n.01	narrow wood or metal or plastic runners used in pairs for gliding over snow	1
+candle.n.01	stick of wax with a wick in the middle	1
+jack-o'-lantern.n.02	lantern carved from a pumpkin	1
+spotlight.n.02	a lamp that produces a strong beam of light to illuminate a restricted area; used to focus attention of a stage performer	1
+torch.n.01	a light usually carried in the hand; consists of some flammable substance	1
+neck_brace.n.01	a brace worn to steady the neck	1
+pier.n.02	(architecture) a vertical supporting structure (as a portion of wall between two doors or windows)	1
+tripod.n.01	a three-legged rack used for support	1
+maypole.n.01	a vertical pole or post decorated with streamers that can be held by dancers celebrating May Day	1
+hand_blower.n.01	a hand-held electric blower that can blow warm air onto the hair; used for styling hair	1
+mousetrap.n.01	a trap for catching mice	1
+spider_web.n.01	a web resembling the webs spun by spiders	1
+trilobite.n.01	an extinct arthropod that was abundant in Paleozoic times; had an exoskeleton divided into three parts	1
+harvestman.n.01	spiderlike arachnid with a small rounded body and very long thin legs	1
+scorpion.n.03	arachnid of warm dry regions having a long segmented tail ending in a venomous stinger	1
+black_and_gold_garden_spider.n.01	a widely distributed North American garden spider	1
+barn_spider.n.01	an orange and tan spider with darkly banded legs that spins an orb web daily	1
+garden_spider.n.01	a spider common in European gardens	1
+black_widow.n.01	venomous New World spider; the female is black with an hourglass-shaped red mark on the underside of the abdomen	1
+tarantula.n.02	large hairy tropical spider with fangs that can inflict painful but not highly venomous bites	1
+wolf_spider.n.01	ground spider that hunts its prey instead of using a web	1
+tick.n.04	a light mattress	1
+centipede.n.01	chiefly nocturnal predacious arthropod having a flattened body of 15 to 173 segments each with a pair of legs, the foremost pair being modified as prehensors	1
+isopod.n.01	any of various small terrestrial or aquatic crustaceans with seven pairs of legs adapted for crawling	1
+dungeness_crab.n.02	small edible crab of Pacific coast of North America	1
+rock_crab.n.01	crab of eastern coast of North America	1
+fiddler_crab.n.01	burrowing crab of American coastal regions having one claw much enlarged in the male	1
+king_crab.n.03	large edible crab of northern Pacific waters especially along the coasts of Alaska and Japan	1
+american_lobster.n.02	lobster of Atlantic coast of America	1
+spiny_lobster.n.02	large edible marine crustacean having a spiny carapace but lacking the large pincers of true lobsters	1
+crayfish.n.03	small freshwater decapod crustacean that resembles a lobster	1
+hermit_crab.n.01	small soft-bodied marine crustaceans living in cast-off shells of gastropods	1
+tiger_beetle.n.01	active usually bright-colored beetle that preys on other insects	1
+ladybug.n.01	small round bright-colored and spotted beetle that usually feeds on aphids and other insect pests	1
+ground_beetle.n.01	predacious shining black or metallic terrestrial beetle that destroys many injurious insects	1
+long-horned_beetle.n.01	long-bodied beetle having very long antennae	1
+leaf_beetle.n.01	brightly colored beetle that feeds on plant leaves; larvae infest roots and stems	1
+dung_beetle.n.01	any of numerous beetles that roll balls of dung on which they feed and in which they lay eggs	1
+rhinoceros_beetle.n.01	any of various large chiefly tropical beetles having horns on the head; pest on coconuts	1
+weevil.n.01	any of several families of mostly small beetles that feed on plants and plant products; especially snout beetles and seed beetles	1
+fly.n.05	fisherman's lure consisting of a fishhook decorated to look like an insect	1
+bee.n.02	a social gathering to carry out some communal task or to hold competitions	1
+grasshopper.n.01	terrestrial plant-eating insect with hind legs adapted for leaping	1
+cricket.n.01	leaping insect; male makes chirping noises by rubbing the forewings together	1
+walking_stick.n.02	any of various mostly tropical insects having long twiglike bodies	1
+cockroach.n.01	any of numerous chiefly nocturnal insects; some are domestic pests	1
+mantis.n.01	predacious long-bodied large-eyed insect of warm regions; rests with forelimbs raised as in prayer	1
+cicada.n.01	stout-bodied insect with large membranous wings; male has drum-like organs for producing a high-pitched drone	1
+leafhopper.n.01	small leaping insect that sucks the juices of plants	1
+lacewing.n.01	any of two families of insects with gauzy wings (Chrysopidae and Hemerobiidae); larvae feed on insect pests such as aphids	1
+dragonfly.n.01	slender-bodied non-stinging insect having iridescent wings that are outspread at rest; adults and nymphs feed on mosquitoes etc.	1
+damselfly.n.01	slender non-stinging insect similar to but smaller than the dragonfly but having wings folded when at rest	1
+admiral.n.02	any of several brightly colored butterflies	1
+ringlet.n.04	any of various butterflies belonging to the family Satyridae	1
+monarch.n.02	large migratory American butterfly having deep orange wings with black and white markings; the larvae feed on milkweed	1
+cabbage_butterfly.n.01	white butterfly whose larvae (cabbageworms) feed on cabbage	1
+sulphur_butterfly.n.01	any of numerous yellow or orange butterflies	1
+lycaenid.n.01	any of various butterflies of the family Lycaenidae	1
+jellyfish.n.02	any of numerous usually marine and free-swimming coelenterates that constitute the sexually reproductive forms of hydrozoans and scyphozoans	1
+sea_anemone.n.01	marine polyps that resemble flowers but have oral rings of tentacles; differ from corals in forming no hard skeleton	1
+brain_coral.n.01	massive reef-building coral having a convoluted and furrowed surface	1
+flatworm.n.01	parasitic or free-living worms having a flattened body	1
+nematode.n.01	unsegmented worms with elongated rounded body pointed at both ends; mostly free-living but some are parasitic	1
+conch.n.01	any of various edible tropical marine gastropods of the genus Strombus having a brightly-colored spiral shell with large outer lip	1
+snail.n.01	freshwater or marine or terrestrial gastropod mollusk usually having an external enclosing spiral shell	1
+slug.n.02	a unit of mass equal to the mass that accelerates at 1 foot/sec/sec when acted upon by a force of 1 pound; approximately 14.5939 kilograms	1
+sea_slug.n.01	any of various marine gastropods of the suborder Nudibranchia having a shell-less and often beautifully colored body	1
+chiton.n.02	primitive elongated bilaterally symmetrical marine mollusk having a mantle covered with eight calcareous plates	1
+sea_urchin.n.01	shallow-water echinoderms having soft bodies enclosed in thin spiny globular shells	1
+sea_cucumber.n.01	echinoderm having a flexible sausage-shaped body, tentacles surrounding the mouth and tube feet; free-living mud feeders	1
+iron.n.04	home appliance consisting of a flat metal base that is heated and used to smooth cloth	1
+espresso_maker.n.01	a coffee maker that forces live steam under pressure through dark roasted coffee grounds	1
+microwave.n.02	kitchen appliance that cooks food by passing an electromagnetic wave through it; heat results from the absorption of energy by the water molecules in the food	1
+dutch_oven.n.02	iron or earthenware cooking pot; used for stews	1
+rotisserie.n.01	an oven or broiler equipped with a rotating spit on which meat cooks as it turns	1
+toaster.n.02	a kitchen appliance (usually electric) for toasting bread	1
+waffle_iron.n.01	a kitchen appliance for baking waffles; the appliance usually consists of two indented metal pans hinged together so that they create a pattern on the waffle	1
+vacuum.n.04	an electrical home appliance that cleans by suction	1
+dishwasher.n.01	a machine for washing dishes	1
+refrigerator.n.01	white goods in which food can be stored at low temperatures	1
+washer.n.03	a home appliance for washing clothes and linens automatically	1
+crock_pot.n.01	an electric cooker that maintains a relatively low temperature	1
+frying_pan.n.01	a pan used for frying foods	1
+wok.n.01	pan with a convex bottom; used for frying in Chinese cooking	1
+caldron.n.01	a very large pot that is used for boiling	1
+coffeepot.n.01	tall pot in which coffee is brewed	1
+teapot.n.01	pot for brewing tea; usually has a spout and handle	1
+spatula.n.01	a turner with a narrow flexible blade	1
+altar.n.02	a raised structure on which gifts or sacrifices to a god are made	1
+triumphal_arch.n.01	a monumental archway; usually they are built to commemorate some notable victory	1
+patio.n.01	usually paved outdoor area adjoining a residence	1
+steel_arch_bridge.n.01	a steel bridge constructed in the form of an arch	1
+suspension_bridge.n.01	a bridge that has a roadway supported by cables that are anchored at both ends	1
+viaduct.n.01	bridge consisting of a series of arches supported by piers used to carry a road (or railroad) over a valley	1
+barn.n.01	an outlying farm building for storing grain or animal feed and housing farm animals	1
+greenhouse.n.01	a building with glass walls and roof; for the cultivation and exhibition of plants under controlled conditions	1
+palace.n.02	the governing group of a kingdom	1
+monastery.n.01	the residence of a religious community	1
+library.n.02	a collection of literary documents or records kept for reference or borrowing	1
+apiary.n.01	a shed containing a number of beehives	1
+boathouse.n.01	a shed at the edge of a river or lake; used to store boats	1
+church.n.02	a place for public (especially Christian) worship	1
+mosque.n.01	(Islam) a Muslim place of worship that usually has a minaret	1
+stupa.n.01	a dome-shaped shrine erected by Buddhists	1
+planetarium.n.01	a building housing an instrument for projecting the positions of the planets onto a domed ceiling	1
+restaurant.n.01	a building where people go to eat	1
+cinema.n.02	a theater where films are shown	1
+home_theater.n.01	television and video equipment designed to reproduce in the home the experience of being in a movie theater	1
+lumbermill.n.01	a mill for dressing logs and lumber	1
+coil.n.01	a structure consisting of something wound in a continuous series of loops	1
+obelisk.n.01	a stone pillar having a rectangular cross section tapering towards a pyramidal top	1
+totem_pole.n.01	a tribal emblem consisting of a pillar carved and painted with totemic figures; erected by Indian tribes of the northwest Pacific coast	1
+castle.n.02	a large building formerly occupied by a ruler and fortified against attack	1
+prison.n.02	a prisonlike situation; a place of seeming confinement	1
+grocery_store.n.01	a marketplace where groceries are sold	1
+bakery.n.01	a workplace where baked goods (breads and cakes and pastries) are produced or sold	1
+barbershop.n.01	a shop where men can get their hair cut	1
+bookshop.n.01	a shop where books are sold	1
+butcher_shop.n.01	a shop in which meat and poultry (and sometimes fish) are sold	1
+confectionery.n.02	a confectioner's shop	1
+shoe_shop.n.01	a shop where shoes are sold	1
+tobacco_shop.n.01	a shop that sells pipes and pipe tobacco and cigars and cigarettes	1
+toyshop.n.01	shop where toys are sold	1
+fountain.n.01	a structure from which an artificially produced jet of water arises	1
+cliff_dwelling.n.01	a rock and adobe dwelling built on sheltered ledges in the sides of a cliff	1
+yurt.n.01	a circular domed dwelling that is portable and self-supporting; originally used by nomadic Mongol and Turkic people of central Asia but now used as inexpensive alternative or temporary housing	1
+dock.n.05	landing in a harbor next to a pier where ships are loaded and unloaded or repaired; may have gates to let water in or out	1
+brass.n.07	a memorial made of brass	1
+megalith.n.01	memorial consisting of a very large stone forming part of a prehistoric structure (especially in western Europe)	1
+bannister.n.02	a railing at the side of a staircase or balcony to prevent people from falling	1
+breakwater.n.01	a protective structure of stone or concrete; extends from shore into the water to prevent a beach from washing away	1
+dam.n.01	a barrier constructed to contain the flow of water or to keep out the sea	1
+chainlink_fence.n.01	a fence of steel wires woven into a diamond pattern	1
+picket_fence.n.01	a fence made of upright pickets	1
+worm_fence.n.01	rail fence consisting of a zigzag of interlocking rails	1
+diamondback.n.01	large deadly rattlesnake with diamond-shaped markings	1
+grille.n.02	grating that admits cooling air to car's radiator	1
+sliding_door.n.01	a door that opens by sliding instead of swinging	1
+turnstile.n.01	a gate consisting of a post that acts as a pivot for rotating arms; set in a passageway for controlling the persons entering	1
+mountain_tent.n.01	a lightweight tent with a floor; flaps close with a zipper	1
+scoreboard.n.01	a large board for displaying the score of a contest (and some other information)	1
+honeycomb.n.01	a structure of small hexagonal cells constructed from beeswax by bees and used to store honey and larvae	1
+plate_rack.n.01	a rack for holding plates to dry after they have been washed	1
+pedestal.n.03	an architectural support or base (as for a column or statue)	1
+beacon.n.03	a tower with a light that gives warning of shoals to passing ships	1
+leatherback_turtle.n.01	wide-ranging marine turtle with flexible leathery carapace; largest living turtle	1
+mashed_potato.n.01	potato that has been peeled and boiled and then mashed	1
+bell_pepper.n.02	large bell-shaped sweet pepper in green or red or yellow or orange or black varieties	1
+head_cabbage.n.02	any of several varieties of cabbage having a large compact globular head; may be steamed or boiled or stir-fried or used raw in coleslaw	1
+broccoli.n.02	branched green undeveloped flower heads	1
+cauliflower.n.02	compact head of white undeveloped flowers	1
+zucchini.n.01	marrow squash plant whose fruit are eaten when small	1
+spaghetti_squash.n.01	squash plant bearing oval fruit with smooth yellowish skin and tender stranded flesh resembling spaghetti	1
+acorn_squash.n.01	squash plant bearing small acorn-shaped fruits having yellow flesh and dark green or yellow rind with longitudinal ridges	1
+butternut_squash.n.02	buff-colored squash with a long usually straight neck and sweet orange flesh	1
+cucumber.n.02	cylindrical green fruit with thin green rind and white flesh eaten as a vegetable; related to melons	1
+artichoke.n.02	a thistlelike flower head with edible fleshy leaves and heart	1
+cardoon.n.02	only parts eaten are roots and especially stalks (blanched and used as celery); related to artichokes	1
+mushroom.n.01	common name for an edible agaric (contrasting with the inedible toadstool)	1
+shower_curtain.n.01	a curtain that keeps water from splashing out of the shower area	1
+jean.n.01	(usually plural) close-fitting trousers of heavy denim for manual work or casual wear	1
+carton.n.02	a box made of cardboard; opens by flaps on top	1
+handkerchief.n.01	a square piece of cloth used for wiping the eyes or nose or as a costume accessory	1
+sandal.n.01	a shoe consisting of a sole fastened by straps to the foot	1
+ashcan.n.01	a bin that holds rubbish until it is collected	1
+safe.n.02	a ventilated or refrigerated cupboard for securing provisions from pests	1
+plate.n.07	the thin under portion of the forequarter	1
+necklace.n.01	jewelry consisting of a cord or chain (often bearing gems) worn about the neck as an ornament (especially by women)	1
+croquet_ball.n.01	a wooden ball used in playing croquet	1
+fur_coat.n.01	a coat made of fur	1
+thimble.n.02	a small metal cap to protect the finger while sewing; can be used as a small container	1
+pajama.n.02	(usually plural) loose-fitting nightclothes worn for sleeping or lounging; have a jacket top and trousers	1
+running_shoe.n.01	a light comfortable shoe designed for running	1
+oboe.n.01	a slender double-reed instrument; a woodwind with a conical bore and a double-reed mouthpiece	1
+cocktail_shaker.n.01	a shaker for mixing cocktails	1
+chest.n.02	box with a lid; used for storage; usually large and sturdy	1
+manhole_cover.n.01	a flush iron cover for a manhole (as in a street)	1
+modem.n.01	(from a combination of MOdulate and DEModulate) electronic equipment consisting of a device used to connect computers by a telephone line	1
+tub.n.02	a large open vessel for holding or storing liquids	1
+tray.n.01	an open receptacle for holding or displaying or serving articles or food	1
+balance_beam.n.01	a gymnastic apparatus used by women gymnasts	1
+bagel.n.01	(Yiddish) glazed yeast-raised doughnut-shaped roll with hard crust	1
+violin.n.01	bowed stringed instrument that is the highest member of the violin family; this instrument has four strings and a hollow body and an unfretted fingerboard and is played with a bow	1
+prayer_rug.n.01	a small rug used by Muslims during their devotions	1
+kimono.n.01	a loose robe; imitated from robes originally worn by Japanese	1
+hot_pot.n.01	a stew of meat and potatoes cooked in a tightly covered pot	1
+whiskey_jug.n.01	a jug that contains whiskey	1
+knee_pad.n.01	protective garment consisting of a pad worn by football or baseball or hockey players	1
+book_jacket.n.01	a paper jacket for a book; a jacket on which promotional information is usually printed	1
+spindle.n.01	(biology) tiny fibers that are seen in cell division; the fibers radiate from two poles and meet at the equator in the middle	1
+ski_mask.n.01	a woolen face mask to protect the face from cold while skiing on snow	1
+beer_bottle.n.01	a bottle that holds beer	1
+crash_helmet.n.01	a padded helmet worn by people riding bicycles or motorcycles; protects the head in case of accidents	1
+bottlecap.n.01	a cap that seals a bottle	1
+tile_roof.n.01	a roof made of fired clay tiles	1
+mask.n.04	a protective covering worn over the face	1
+maillot.n.02	tights for dancers or gymnasts	1
+petri_dish.n.01	a shallow dish used to culture bacteria	1
+football_helmet.n.01	a padded helmet with a face mask to protect the head of football players	1
+bathing_cap.n.01	a tight-fitting cap that keeps hair dry while swimming	1
+teddy.n.01	plaything consisting of a child's toy bear (usually plush and stuffed with soft materials)	1
+holster.n.02	a belt with loops or slots for carrying small hand tools	1
+pop_bottle.n.01	a bottle for holding soft drinks	1
+photocopier.n.01	a copier that uses photographic methods of making copies	1
+vestment.n.01	gown (especially ceremonial garments) worn by the clergy	1
+crossword_puzzle.n.01	a puzzle in which words corresponding to numbered clues are to be found and written in to squares in the puzzle	1
+golf_ball.n.01	a small hard ball used in playing golf; dimpled to reduce wind resistance	1
+trifle.n.01	a cold pudding made of layers of sponge cake spread with fruit or jelly; may be decorated with nuts, cream, or chocolate	1
+suit.n.01	a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color	1
+water_tower.n.01	a large reservoir for water	1
+feather_boa.n.01	a long thin fluffy scarf of feathers or fur	1
+cloak.n.01	anything that covers or conceals	1
+red_wine.n.01	wine having a red color derived from skins of dark-colored grapes	1
+drumstick.n.01	the lower joint of the leg of a fowl	1
+shield.n.02	armor carried on the arm to intercept blows	1
+christmas_stocking.n.01	a stocking that is filled with small Christmas presents	1
+hoopskirt.n.01	a skirt stiffened with hoops	1
+menu.n.02	the dishes making up a meal	1
+stage.n.07	any scene regarded as a setting for exhibiting or doing something	1
+bonnet.n.01	a hat tied under the chin	1
+meat_loaf.n.01	a baked loaf of ground meat	1
+baseball.n.02	a ball used in playing baseball	1
+face_powder.n.01	cosmetic powder for the face	1
+scabbard.n.01	a sheath for a sword or dagger or bayonet	1
+sunscreen.n.01	a cream spread on the skin; contains a chemical (as PABA) to filter out ultraviolet light and so protect from sunburn	1
+beer_glass.n.01	a relatively large glass for serving beer	1
+hen-of-the-woods.n.01	large greyish-brown edible fungus forming a mass of overlapping caps that somewhat resembles a hen at the base of trees	1
+guacamole.n.01	a dip made of mashed avocado mixed with chopped onions and other seasonings	1
+wool.n.01	a fabric made from the hair of sheep	1
+hay.n.01	grass mowed and cured for use as fodder	1
+bow_tie.n.01	a man's tie that ties in a bow	1
+mailbag.n.02	letter carrier's shoulder bag	1
+water_jug.n.01	a jug that holds water	1
+bucket.n.01	a roughly cylindrical vessel that is open at the top	1
+dishrag.n.01	a cloth for washing dishes	1
+soup_bowl.n.01	a bowl for serving soup	1
+eggnog.n.01	a punch made of sweetened milk or cream mixed with eggs and usually alcoholic liquor	1
+mortar.n.02	used as a bond in masonry or for covering a wall	1
+trench_coat.n.01	a military style raincoat; belted with deep pockets	1
+paddle.n.04	a short light oar used without an oarlock to propel a canoe or small boat	1
+chain.n.06	a unit of length	1
+swab.n.02	cleaning implement consisting of absorbent material fastened to a handle; for cleaning floors	1
+mixing_bowl.n.01	bowl used with an electric mixer	1
+potpie.n.01	deep-dish meat and vegetable pie or a meat stew with dumplings	1
+wine_bottle.n.01	a bottle for holding wine	1
+shoji.n.01	a translucent screen made of a wooden frame covered with rice paper	1
+bulletproof_vest.n.01	a vest capable of resisting the impact of a bullet	1
+drilling_platform.n.01	drilling rig consisting of an offshore platform (floating or fixed to the sea bed) from which many oil wells can be bored radially	1
+binder.n.03	holds loose papers or magazines	1
+cardigan.n.01	knitted jacket that is fastened up the front with buttons or a zipper	1
+sweatshirt.n.01	cotton knit pullover with long sleeves worn during athletic activity	1
+pot.n.04	a container in which plants are cultivated	1
+birdhouse.n.01	a shelter for birds	1
+jinrikisha.n.01	a small two-wheeled cart for one passenger; pulled by one person	1
+hamper.n.02	a basket usually with a cover	1
+ping-pong_ball.n.01	light hollow ball used in playing table tennis	1
+pencil_box.n.01	a box for holding pencils	1
+consomme.n.01	clear soup usually of beef or veal or chicken	1
+apron.n.02	(golf) the part of the fairway leading onto the green	1
+punching_bag.n.02	an inflated ball or bag that is suspended and punched for training in boxing	1
+backpack.n.01	a bag carried by a strap on your back or shoulder	1
+groom.n.01	a man participant in his own marriage ceremony	1
+bearskin.n.02	tall hat; worn by some British soldiers on ceremonial occasions	1
+pencil_sharpener.n.01	a rotary implement for sharpening the point on pencils	1
+broom.n.02	any of various shrubs of the genera Cytisus or Genista or Spartium having long slender branches and racemes of yellow flowers	1
+abaya.n.01	(Arabic) a loose black robe from head to toe; traditionally worn by Muslim women	1
+mortarboard.n.02	an academic cap with a flat square with a tassel on top	1
+poncho.n.01	a blanket-like cloak with a hole in the center for the head	1
+crutch.n.01	a wooden or metal staff that fits under the armpit and reaches to the ground; used by disabled person while walking	1
+polaroid_camera.n.01	a camera that develops and produces a positive print within seconds	1
+space_bar.n.01	the bar-shaped typewriter key that introduces spaces when used	1
+cup.n.03	any cup-shaped concavity	1
+racket.n.04	a sports implement (usually consisting of a handle and an oval frame with a tightly interlaced network of strings) used to strike a ball (or shuttlecock) in various games	1
+traffic_light.n.01	a visual signal to control the flow of traffic at intersections	1
+quill.n.01	pen made from a bird's feather	1
+radio.n.03	a communication system based on broadcasting electromagnetic waves	1
+snow_leopard.n.01	large feline of upland central Asia having long thick whitish fur	1
+dough.n.01	a flour mixture stiff enough to knead or roll	1
+cuirass.n.01	medieval body armor that covers the chest and back	1
+military_uniform.n.01	prescribed identifying uniform for soldiers	1
+lipstick.n.01	makeup that is used to color the lips	1
+shower_cap.n.01	a tight cap worn to keep hair dry while showering	1
+monitor.n.05	electronic equipment that is used to check the quality or content of electronic transmissions	1
+oscilloscope.n.01	electronic equipment that provides visual images of varying electrical quantities	1
+mitten.n.01	glove that encases the thumb separately and the other four fingers together	1
+brassiere.n.01	an undergarment worn by women to support their breasts	1
+french_loaf.n.01	a loaf of French bread	1
+vase.n.01	an open jar of glass or porcelain used as an ornament or to hold flowers	1
+milk_can.n.01	large can for transporting milk	1
+rugby_ball.n.01	inflated oval ball used in playing rugby	1
+paper_towel.n.01	a disposable towel made of absorbent paper	1
+earthstar.n.01	any fungus of the family Geastraceae; in form suggesting a puffball whose outer peridium splits into the shape of a star	1
+envelope.n.03	a curve that is tangent to each of a family of curves	1
+miniskirt.n.01	a very short skirt	1
+cowboy_hat.n.01	a hat with a wide brim and a soft crown; worn by American ranch hands	1
+trolleybus.n.01	a passenger bus with an electric motor that draws power from overhead wires	1
+perfume.n.02	a toiletry that emits and diffuses a fragrant odor	1
+bathtub.n.01	a relatively large open container that you fill with water and use to wash the body	1
+hotdog.n.02	a frankfurter served hot on a bun	1
+coral_fungus.n.01	any of numerous fungi of the family Clavariaceae often brightly colored that grow in often intricately branched clusters like coral	1
+bullet_train.n.01	a high-speed passenger train	1
+pillow.n.01	a cushion to support the head of a sleeping person	1
+toilet_tissue.n.01	a soft thin absorbent paper for use in toilets	1
+cassette.n.01	a container that holds a magnetic tape used for recording or playing sound or video	1
+carpenter's_kit.n.01	a set of carpenter's tools	1
+ladle.n.01	a spoon-shaped vessel with a long handle; frequently used to transfer liquids from one container to another	1
+stinkhorn.n.01	any of various ill-smelling brown-capped fungi of the order Phallales	1
+lotion.n.01	any of various cosmetic preparations that are applied to the skin	1
+hair_spray.n.01	toiletry consisting of a commercial preparation that is sprayed on the hair to hold it in place	1
+academic_gown.n.01	a gown worn by academics or judges	1
+dome.n.01	a concave shape whose distinguishing characteristic is that the concavity faces downward	1
+crate.n.01	a rugged box (usually made of wood); used for shipping	1
+wig.n.01	hairpiece covering the head and made of real or synthetic hair	1
+burrito.n.01	a flour tortilla folded around a filling	1
+pill_bottle.n.01	a small bottle for holding pills	1
+chain_mail.n.01	(Middle Ages) flexible armor made of interlinked metal rings	1
+theater_curtain.n.01	a hanging cloth that conceals the stage from the view of the audience; rises or parts at the beginning and descends or closes between acts and at the end of a performance	1
+window_shade.n.01	an opaque window blind that can cover or uncover a window	1
+barrel.n.02	a cylindrical container that holds liquids	1
+washbasin.n.02	a basin for washing the hands (`wash-hand basin' is a British expression)	1
+ballpoint.n.01	a pen that has a small metal ball as the point of transfer of ink to paper	1
+basketball.n.02	an inflated ball used in playing basketball	1
+bath_towel.n.01	a large towel; to dry yourself after a bath	1
+cowboy_boot.n.01	a boot with a high arch and fancy stitching; worn by American cowboys	1
+gown.n.02	the members of a university as distinguished from the other residents of the town in which the university is located	1
+window_screen.n.01	screen to keep insects from entering a building through the open window	1
+agaric.n.02	a saprophytic fungus of the order Agaricales having an umbrellalike cap with gills on the underside	1
+standard_poodle.n.01	a breed or medium-sized poodles	1
+cellular_telephone.n.01	a hand-held mobile radiotelephone for use in an area divided into small sections, each with its own short-range transmitter/receiver	1
+nipple.n.02	a flexible cap on a baby's feeding bottle or pacifier	1
+barbell.n.01	a bar to which heavy discs are attached at each end; used in weightlifting	1
+mailbox.n.01	a private box for delivery of mail	1
+lab_coat.n.01	a light coat worn to protect clothing from substances used while working in a laboratory	1
+fire_screen.n.01	a metal screen before an open fire for protection (especially against flying sparks)	1
+minibus.n.01	a light bus (4 to 10 passengers)	1
+packet.n.02	(computer science) a message or message fragment	1
+brown_bear.n.01	large ferocious bear of Eurasia	1
+pole.n.07	one of two antipodal points where the Earth's axis of rotation intersects the Earth's surface	1
+horizontal_bar.n.01	gymnastic apparatus consisting of a bar supported in a horizontal position by uprights at both ends	1
+sombrero.n.02	a straw hat with a tall crown and broad brim; worn in American southwest and in Mexico	1
+pickelhaube.n.01	a spiked helmet worn by German soldiers	1
+rain_barrel.n.01	a barrel used as a cistern to hold rainwater	1
+wallet.n.01	a pocket-size case for holding papers and paper money	1
+cassette_player.n.01	electronic equipment for playing cassettes	1
+comic_book.n.01	a magazine devoted to comic strips	1
+piggy_bank.n.01	a child's coin bank (often shaped like a pig)	1
+street_sign.n.01	a sign visible from the street	1
+bell_cote.n.01	a small shelter for bells; has a gable or shed roof	1
+fountain_pen.n.01	a pen that is supplied with ink from a reservoir in its barrel	1
+windsor_tie.n.01	a wide necktie worn in a loose bow	1
+volleyball.n.02	an inflated ball used in playing volleyball	1
+overskirt.n.01	an outer skirt worn over another skirt	1
+sarong.n.01	a loose skirt consisting of brightly colored fabric wrapped around the body; worn by both women and men in the South Pacific	1
+purse.n.02	a sum of money spoken of as the contents of a money purse	1
+bolo_tie.n.01	a cord fastened around the neck with an ornamental clasp and worn as a necktie	1
+bib.n.01	top part of an apron; covering the chest	1
+parachute.n.01	rescue equipment consisting of a device that fills with air and retards your fall	1
+sleeping_bag.n.01	large padded bag designed to be slept in outdoors; usually rolls up like a bedroll	1
+television.n.02	a telecommunication system that transmits images of objects (stationary or moving) between distant points	1
+swimming_trunks.n.01	swimsuit worn by men while swimming	1
+measuring_cup.n.01	graduated cup used to measure liquid or granular ingredients	1
+espresso.n.01	strong black coffee brewed by forcing hot water under pressure through finely ground coffee beans	1
+pizza.n.01	Italian open pie made of thin bread dough spread with a spiced mixture of e.g. tomato sauce and cheese	1
+breastplate.n.01	armor plate that protects the chest; the front part of a cuirass	1
+shopping_basket.n.01	a handbasket used to carry goods while shopping	1
+wooden_spoon.n.01	a booby prize consisting of a spoon made of wood	1
+saltshaker.n.01	a shaker with a perforated top for sprinkling salt	1
+chocolate_sauce.n.01	sauce made with unsweetened chocolate or cocoa and sugar and water	1
+ballplayer.n.01	an athlete who plays baseball	1
+goblet.n.01	a drinking glass with a base and stem	1
+gyromitra.n.01	any fungus of the genus Gyromitra	1
+stretcher.n.01	a wooden framework on which canvas is stretched and fixed for oil painting	1
+water_bottle.n.01	a bottle for holding water	1
+skunk.n.04	American musteline mammal typically ejecting an intensely malodorous fluid when startled; in some classifications put in a separate subfamily Mephitinae	1
+soap_dispenser.n.01	dispenser of liquid soap	1
+jersey.n.03	a close-fitting pullover shirt	1
+school_bus.n.01	a bus used to transport children to or from school	1
+jigsaw_puzzle.n.01	a puzzle that requires you to reassemble a picture that has been mounted on a stiff base and cut into interlocking pieces	1
+plastic_bag.n.01	a bag made of thin plastic material	1
+reflex_camera.n.01	camera that allows the photographer to view and focus the exact scene being photographed	1
+diaper.n.01	garment consisting of a folded cloth drawn up between the legs and fastened at the waist; worn by infants to catch excrement	1
+band_aid.n.01	trade name for an adhesive bandage to cover small cuts or blisters	1
+ice_lolly.n.01	ice cream or water ice on a small wooden stick	1
+velvet.n.01	a silky densely piled fabric with a plain back	1
+tennis_ball.n.01	ball about the size of a fist used in playing tennis	1
+gasmask.n.01	a protective mask with a filter; protects the face and lungs against poisonous gases	1
+doormat.n.02	a mat placed outside an exterior door for wiping the shoes before entering	1
+loafer.n.02	a low leather step-in shoe; the top resembles a moccasin but it has a broad flat heel	1
+ice_cream.n.01	frozen dessert containing cream and sugar and flavoring	1
+pretzel.n.01	glazed and salted cracker typically in the shape of a loose knot	1
+quilt.n.01	bedding made of two layers of cloth filled with stuffing and stitched together	1
+maillot.n.01	a woman's one-piece bathing suit	1
+tape_player.n.01	electronic equipment for playing back magnetic tapes	1
+clog.n.01	footwear usually with wooden soles	1
+ipod.n.01	(trademark) a pocket-sized device used to play music files	1
+bolete.n.01	any fungus of the family Boletaceae	1
+meerkat.n.01	a mongoose-like viverrine of South Africa having a face like a lemur and only four toes	1
+scuba_diver.n.01	an underwater diver who uses scuba gear	1
+pitcher.n.02	an open vessel with a handle and a spout for pouring	1
+matchstick.n.01	a short thin stick of wood used in making matches	1
+bikini.n.02	a woman's very brief bathing suit	1
+sock.n.01	hosiery consisting of a cloth covering for the foot; worn inside the shoe; reaches to between the ankle and the knee	1
+cd_player.n.01	a stand-alone piece of electronic equipment that either has its own display or attaches to a television set	1
+lens_cap.n.01	cap used to keep lens free of dust when not in use	1
+thatch.n.04	a house roof made with a plant material (as straw)	1
+vault.n.03	an arched brick or stone ceiling or roof	1
+beaker.n.01	a flatbottomed jar made of glass or plastic; used for chemistry	1
+bubble.n.01	a hollow globule of gas (e.g., air or carbon dioxide)	1
+cheeseburger.n.01	a hamburger with melted cheese on it	1
+parallel_bars.n.01	gymnastic apparatus consisting of two parallel wooden rods supported on uprights	1
+flagpole.n.02	a tall staff or pole on which a flag is raised	1
+coffee_mug.n.01	a mug intended for serving coffee	1
+rubber_eraser.n.01	an eraser made of rubber (or of a synthetic material with properties similar to rubber); commonly mounted at one end of a pencil	1
+stole.n.01	a wide scarf worn about their shoulders by women	1
+carbonara.n.01	sauce for pasta; contains eggs and bacon or ham and grated cheese	1
+dumbbell.n.01	an exercising weight; two spheres connected by a short bar that serves as a handle	1
+siberian_husky.n.01	breed of sled dog developed in northeastern Siberia; they resemble the larger Alaskan malamutes	1
+english_springer.n.01	a breed having typically a black-and-white coat	1
+malamute.n.01	breed of sled dog developed in Alaska	1
+walker_hound.n.01	an American breed of foxhound	1
+welsh_springer_spaniel.n.01	a red-and-white breed slightly smaller than the English springer spaniel	1
+whippet.n.01	small slender dog of greyhound type developed in England	1
+weimaraner.n.01	large breed of hound having a smooth greyish coat; originated in Germany	1
+soft-coated_wheaten_terrier.n.01	Irish breed of medium-sized terrier with an abundant coat any shade of wheat and very hairy head and muzzle	1
+dandie_dinmont.n.01	a breed of small terrier with long wiry coat and drooping ears	1
+old_english_sheepdog.n.01	large sheepdog with a profuse shaggy bluish-grey-and-white coat and short tail; believed to trace back to the Roman occupation of Britain	1
+otterhound.n.01	hardy British hound having long pendulous ears and a thick coarse shaggy coat with an oily undercoat; bred for hunting otters	1
+bloodhound.n.01	a breed of large powerful hound of European origin having very acute smell and used in tracking	1
+airedale.n.01	breed of large wiry-coated terrier bred in Yorkshire	1
+giant_schnauzer.n.01	a large schnauzer	1
+black-and-tan_coonhound.n.01	American breed of large powerful hound dogs used for hunting raccoons and other game	1
+papillon.n.01	small slender toy spaniel with erect ears and a black-spotted brown to white coat	1
+mexican_hairless.n.01	any of an old breed of small nearly hairless dogs of Mexico	1
+cardigan.n.02	slightly bowlegged variety of corgi having rounded ears and a long tail	1
+malinois.n.01	fawn-colored short-haired sheepdog	1
+lhasa.n.02	a breed of terrier having a long heavy coat raised in Tibet as watchdogs	1
+norwegian_elkhound.n.01	breed of compact medium-sized dog with a heavy grey coat developed in Norway for hunting elk	1
+rottweiler.n.01	German breed of large vigorous short-haired cattle dogs	1
+saluki.n.01	old breed of tall swift keen-eyed hunting dogs resembling greyhounds; from Egypt and southwestern Asia	1
+schipperke.n.01	breed of small stocky black dogs originally used as watchdogs on boats in the Netherlands and Belgium	1
+brabancon_griffon.n.01	a variety of Brussels griffon having a short smooth coat	1
+west_highland_white_terrier.n.01	small white long-coated terrier developed in Scotland	1
+sealyham_terrier.n.01	a wire-haired terrier with short legs that was first bred in Sealyham	1
+irish_wolfhound.n.01	large breed of hound with a rough thick coat	1
+entlebucher.n.01	the smallest of the Sennenhunde	1
+french_bulldog.n.01	small stocky version of the bulldog having a sleek coat and square head	1
+bernese_mountain_dog.n.01	large powerful long-haired black-coated Swiss dog with deep tan or russet markings on legs and white blaze and feet and chest marking; formerly used for draft	1
+maltese_dog.n.01	breed of toy dogs having a long straight silky white coat	1
+norfolk_terrier.n.01	English breed of small terrier with a straight wiry grizzled coat and dropped ears	1
+toy_terrier.n.01	a small active dog	1
+cairn.n.02	small rough-haired breed of terrier from Scotland	1
+groenendael.n.01	black-coated sheepdog with a heavily plumed tail	1
+clumber.n.01	a thickset spaniel with longish silky hair	1
+afghan_hound.n.01	tall graceful breed of hound with a long silky coat; native to the Near East	1
+japanese_spaniel.n.01	breed of toy dogs originating in Japan having a silky black-and-white or red-and-white coat	1
+borzoi.n.01	tall fast-moving dog breed	1
+toy_poodle.n.01	the breed of very small poodles	1
+kerry_blue_terrier.n.01	an Irish breed of medium-sized terriers with a silky blue-grey coat	1
+scotch_terrier.n.01	old Scottish breed of small long-haired usually black terrier with erect tail and ears	1
+boston_bull.n.01	small pug-faced American terrier breed having a smooth brindle or black coat with white markings	1
+greater_swiss_mountain_dog.n.01	the largest of the four Swiss breeds	1
+appenzeller.n.01	a smaller of the four Swiss breeds	1
+shih-tzu.n.01	a Chinese breed of small dog similar to a Pekingese	1
+irish_water_spaniel.n.01	breed of large spaniels developed in Ireland having a heavy coat of liver-colored curls and a topknot of long curls and a nearly hairless tail	1
+pomeranian.n.01	breed of very small compact long-haired dogs of the spitz type	1
+bedlington_terrier.n.01	a light terrier groomed to resemble a lamb	1
+miniature_schnauzer.n.01	a small schnauzer	1
+collie.n.01	a silky-coated sheepdog with a long ruff and long narrow head developed in Scotland	1
+irish_terrier.n.01	medium-sized breed with a wiry brown coat; developed in Ireland	1
+affenpinscher.n.01	European breed of small dog resembling a terrier with dark wiry hair and a tufted muzzle	1
+silky_terrier.n.01	Australian breed of toy dogs having a silky blue coat	1
+beagle.n.01	a small short-legged smooth-coated breed of hound	1
+leonberg.n.01	a large dog (usually with a golden coat) produced by crossing a St Bernard and a Newfoundland	1
+german_short-haired_pointer.n.01	liver or liver-and-white hunting dog developed in Germany; 3/4 pointer and 1/4 bloodhound	1
+dhole.n.01	fierce wild dog of the forests of central and southeast Asia that hunts in packs	1
+chesapeake_bay_retriever.n.01	American breed having a short thick oily coat ranging from brown to light tan	1
+bull_mastiff.n.01	large powerful breed developed by crossing the bulldog and the mastiff	1
+kuvasz.n.01	long-established Hungarian breed of tall light-footed but sturdy white dog; used also as a hunting dog	1
+pug.n.01	small compact smooth-coated breed of Asiatic origin having a tightly curled tail and broad flat wrinkled muzzle	1
+curly-coated_retriever.n.01	an English breed having a tightly curled black or liver-colored coat; retrieves game from land or water	1
+norwich_terrier.n.01	English breed of small short-legged terrier with a straight wiry red or grey or black-and-tan coat and erect ears	1
+keeshond.n.01	a spitz-like dog having a shaggy greyish coat and tightly curled tail originating in Holland	1
+lakeland_terrier.n.01	breed of wire-haired terrier originally from the Lake District of England and used for hunting	1
+standard_schnauzer.n.01	a medium-sized schnauzer	1
+tibetan_terrier.n.01	breed of medium-sized terriers bred in Tibet resembling Old English sheepdogs with fluffy curled tails	1
+wire-haired_fox_terrier.n.01	a fox terrier with wiry hair	1
+basset.n.01	smooth-haired breed of hound with short legs and long ears	1
+chow.n.03	breed of medium-sized dogs with a thick coat and fluffy curled tails and distinctive blue-black tongues; believed to have originated in northern China	1
+american_staffordshire_terrier.n.01	American breed of muscular terriers with a short close-lying stiff coat	1
+shetland_sheepdog.n.01	a small sheepdog resembling a collie that was developed in the Shetland Islands	1
+great_pyrenees.n.01	bred of large heavy-coated white dogs resembling the Newfoundland	1
+chihuahua.n.01	a city in northern Mexico in the state of Chihuahua; commercial center of northern Mexico	1
+labrador_retriever.n.01	breed originally from Labrador having a short black or golden-brown coat	1
+samoyed.n.03	Siberian breed of white or cream-colored dog of the spitz family	1
+bluetick.n.01	a very fast American hound; white mottled with bluish grey	1
+kelpie.n.02	an Australian sheepdog with pointed ears	1
+miniature_pinscher.n.01	small German version of a Doberman pinscher	1
+italian_greyhound.n.01	a toy dog developed from the greyhound	1
+cocker_spaniel.n.01	a small breed with wavy silky hair; originally developed in England	1
+sussex_spaniel.n.01	an English breed with short legs and a golden liver-colored coat	1
+pembroke.n.01	the smaller and straight-legged variety of corgi having pointed ears and a short tail	1
+blenheim_spaniel.n.01	red-and-white variety of English toy spaniel	1
+ibizan_hound.n.01	breed of slender agile medium-sized hound found chiefly in the Balearic Islands; said to have been bred originally by the Pharaohs of ancient Egypt	1
+english_foxhound.n.01	an English breed slightly larger than the American foxhounds originally used to hunt in packs	1
+briard.n.01	old French breed of large strong usually black dogs having a long tail and long wavy and slightly stiff coat	1
+border_terrier.n.01	small rough-coated terrier of British origin	1
